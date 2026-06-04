@@ -10,7 +10,7 @@ Concierge staff need to be fluent in describing different ツアー types. The k
 ## Example Sentences
 
 **京都の観光ツアーに参加しました。**  
-*Kyouto no kankoukyaku tsuaa ni sanka shimashita.*  
+*Kyouto no kankou tsuaa ni sanka shimashita.*  
 I joined a sightseeing tour in Kyoto.
 
 **日帰りツアーでは奈良の鹿園もご覧いただけます。**  
@@ -18,7 +18,7 @@ I joined a sightseeing tour in Kyoto.
 On the day-trip tour, one can also see the deer park in Nara.
 
 **プライベートツアーをご希望でしたら、フロントにてお手配いたします。**  
-*Puraibeetoo tsuaa wo gokibou deshitara, furonto nite otehaisuru itashimasu.*  
+*Puraibeeto tsuaa wo gokibou deshitara, furonto nite o-tehai itashimasu.*  
 If you would like a private tour, we can arrange it at the front desk.
 
 ## Related Expressions

@@ -14,7 +14,7 @@ The concept of 効率 is closely linked to 改善 (kaizen, continuous improvemen
 We have introduced tablet devices in order to improve the efficiency of check-in operations.
 
 **効率よく客室を清掃するために、各フロアの担当エリアを見直しました。**  
-*Kouritsu yoku kyakushitsu wo seisou suru tame ni, kaku furoa no tantou eria wo minaoiimashita.*  
+*Kouritsu yoku kyakushitsu wo seisou suru tame ni, kaku furoa no tantou eria wo minaoshimashita.*  
 We have reviewed the assigned areas on each floor in order to clean guest rooms more efficiently.
 
 **スタッフの皆様のご協力のおかげで、業務効率が大幅に改善されました。**  

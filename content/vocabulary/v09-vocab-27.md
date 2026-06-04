@@ -40,11 +40,11 @@ A common error is to deliver 満席状況 as a conversation-ending statement and
 
 **When no rooms are available, which term applies?**
 
-- A. 満席状況 (seating availability)
+- A. 満席状況 (fully booked)
 - B. 空き状況 (availability)
 - C. 予約日 (reservation date)
 - D. 宿泊日 (stay date)
 
-**Correct Answer:** 満席状況 (seating availability)
+**Correct Answer:** 満席状況 (fully booked)
 
 **Explanation:** 満席状況 describes the condition of having no availability, and in Japanese hospitality this news should always be delivered with an apology phrase and an immediate alternative, because a bare "no" with nothing offered next goes against omotenashi entirely. The wrong options here are either the opposite concept (空き状況), or date-related terms (予約日, 宿泊日) that do not speak to whether rooms are available at all.

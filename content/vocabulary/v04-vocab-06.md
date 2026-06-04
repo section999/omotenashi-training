@@ -18,7 +18,7 @@ We have performed the bed sheet change for you today.
 If you would like your sheets changed, please let us know at the front desk.
 
 **連泊のお客様には、三日に一度シーツ交換をご提供しております。**  
-*Renpaku no okyaku-sama ni wa, mikkka ni ichido shiitsu koukan wo goteikyo shite orimasu.*  
+*Renpaku no okyaku-sama ni wa, mikka ni ichido shiitsu koukan wo go-teikyou shite orimasu.*  
 For guests staying multiple nights, we provide a sheet change once every three days.
 
 ## Related Expressions

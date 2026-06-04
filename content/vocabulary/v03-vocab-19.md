@@ -11,7 +11,7 @@ In a hospitality context, staff typically point out the エアコン remote cont
 
 **エアコンはこちらで操作できますので、温度はご自由にお調節ください。**  
 *Eakon wa kochira de sousa dekimasu node, ondo wa go-jiyuu ni o-chousetsu kudasai.*  
-You can operate the air conditioner here: please adjust the temperature as one like.
+You can operate the air conditioner here: please adjust the temperature as you like.
 
 **エアコンのリモコンはテレビ台の上にございます。**  
 *Eakon no rimokon wa terebi dai no ue ni gozaimasu.*  

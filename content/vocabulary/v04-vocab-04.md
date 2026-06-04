@@ -25,7 +25,7 @@ As the trash was overflowing, we provided an extra bag during the cleaning.
 
 | Expression | Description |
 |---|---|
-| 廃棄物<br>haikiibutsu | A formal, technical term for waste or discarded materials; used in written hotel policies and waste management documentation rather than everyday speech. |
+| 廃棄物<br>haikibutsu | A formal, technical term for waste or discarded materials; used in written hotel policies and waste management documentation rather than everyday speech. |
 | ゴミ袋<br>gomi bukuro | Trash bag; staff should know this term when replenishing or replacing liners in guest room bins. |
 
 ## Common Mistakes

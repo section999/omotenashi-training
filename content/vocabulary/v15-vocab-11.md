@@ -20,7 +20,7 @@ For domestic shipping, we expect delivery within two days.
 
 **発送後、追跡番号をお渡しいたしますので、配達状況をご確認いただけます。**  
 *Hassou go, tsuiseki bangou o o-watashi itashimasu no de, haitatsu joukyou o go-kakunin itadakemasu.*  
-After shipping, we will give you a tracking number so one can check the delivery status.
+After shipping, we will give you a tracking number so you can check the delivery status.
 
 ## Related Expressions
 

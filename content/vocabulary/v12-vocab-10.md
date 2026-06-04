@@ -15,7 +15,7 @@ In daily operations, 安全 shows up in equipment inspections, food hygiene prac
 We inspected all equipment to ensure safety.
 
 **お客様の安全を最優先に考え、台風の接近中は屋外施設を閉鎖しました。**  
-*Okyakusama no anzen wo saiyuusen ni kangae, taifuu no secchin chuu wa okugai shisetsu wo heisa shimashita.*  
+*Okyakusama no anzen wo saiyuusen ni kangae, taifuu no sekkin chuu wa okugai shisetsu wo heisa shimashita.*  
 Prioritising guest safety, we closed the outdoor facilities while the typhoon approached.
 
 **新入スタッフは初日に安全に関する研修を受けなければなりません。**  

@@ -19,7 +19,7 @@ How would you like to complete your payment today?
 Payment by credit card has been completed.
 
 **電子マネーでの決済も承っております。**  
-*Denshi manee de no kessai mo uketamatteotte orimasu.*  
+*Denshi manee de no kessai mo uketamawatte orimasu.*  
 We also accept payment by electronic money.
 
 ## Related Expressions

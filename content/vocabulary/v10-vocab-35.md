@@ -1,7 +1,7 @@
 ---
 id: v10-vocab
 section: 35
-title: QRコード (kyuu aru koodo)
+title: QRコード (kyuu aaru koodo)
 ---
 QRコード stands for "Quick Response Code," and it is a common payment interface in Japanese hospitality. Guests open apps like PayPay, LINE Pay, or d-払い, scan the code displayed, and the transaction completes without physical contact. Beyond payments, QRコード appear for digital menus, Wi-Fi access, and informational guides, so staff work with them frequently in a modern hotel or restaurant environment.
 

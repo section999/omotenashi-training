@@ -39,7 +39,7 @@ Shortening the phrase to お名前は？ or お名前を教えてください wh
 ## Quiz
 
 **相手の名前を聞くときは____と言います。
-(When asking for someyour name, you say "May I have your name?")**
+(When asking for someone's name, you say "May I have your name?")**
 
 - A. お名前を頂戴できますか (may I have your name?)
 - B. ご用件をお伺いできますか (may I help you? / what is your business?)

@@ -19,7 +19,7 @@ When the fire alarm sounds, evacuate immediately.
 An alarm has just been activated. Guests, please follow the instructions of the staff.
 
 **本日、台風に伴う気象警報が発令されましたので、外出はお控えください。**  
-*Honjitsu, taifuu ni tomonau kishou keihou ga hatsurei saremashita node, gaishutsu wa okakaenakudasai.*  
+*Honjitsu, taifuu ni tomonau kishou keihou ga hatsurei saremashita node, gaishutsu wa ohikae kudasai.*  
 A weather warning has been issued today due to a typhoon, so please refrain from going outside.
 
 ## Related Expressions

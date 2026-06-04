@@ -18,7 +18,7 @@ This phrase has a limited role with guests. If a guest comes back looking exhaus
 Thank you for your hard work. Thank you for today as well.
 
 **お疲れ様でした。ゆっくり休んでください。**  
-*O-tsukaresama deshita. Yukkuri yasunte kudasai.*  
+*O-tsukaresama deshita. Yukkuri yasunde kudasai.*  
 Good work today. Please rest well.
 
 **お疲れ様です。フロアの引き継ぎをお願いいたします。**  

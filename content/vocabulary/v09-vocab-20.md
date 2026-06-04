@@ -30,7 +30,7 @@ In the case of a same-day cancellation, the full accommodation charge may be col
 
 ## Common Mistakes
 
-Not mentioning キャンセル料 at booking time is a notable reliable ways to generate a complaint. When a guest cancels and gets hit with an unexpected fee, no amount of polite explanation at that point fully repairs the trust. Stating the policy only in percentage terms is also less useful than it sounds. Telling someone "50% will be charged" means nothing until they know 50% of what. Give them the number: 「15,000円のキャンセル料が発生します」 is transparent and concrete. Finally, キャンセル料 and 返金 are not interchangeable; they move in opposite directions. キャンセル料 is money collected from the guest; 返金 is money returned to them. Keep that distinction clear before explaining either to a guest.
+Not mentioning キャンセル料 at booking time is a reliable way to generate a complaint. When a guest cancels and gets hit with an unexpected fee, no amount of polite explanation at that point fully repairs the trust. Stating the policy only in percentage terms is also less useful than it sounds. Telling someone "50% will be charged" means nothing until they know 50% of what. Give them the number: 「15,000円のキャンセル料が発生します」 is transparent and concrete. Finally, キャンセル料 and 返金 are not interchangeable; they move in opposite directions. キャンセル料 is money collected from the guest; 返金 is money returned to them. Keep that distinction clear before explaining either to a guest.
 
 ---
 

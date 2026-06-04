@@ -14,11 +14,11 @@ The most important principle when speaking with a guest about a 水漏れ is to 
 Thank you for reporting the water leak in the bathroom. We are sending maintenance right away.
 
 **水漏れが確認されましたので、お部屋を変更させていただいてもよろしいでしょうか。**  
-*Mizumore ga kakunin saremashita no de, oheya wo henkou sasete itadaite mo yoroshii deshoo ka.*  
+*Mizumore ga kakunin saremashita no de, oheya wo henkou sasete itadaite mo yoroshii deshou ka.*  
 We have confirmed the water leak, so may we change the room?
 
 **水漏れの状況を確認いたしますので、ただいまお部屋にお伺いしてもよろしいでしょうか。**  
-*Mizumore no joukyou wo kakunin itashimasu no de, tadaima oheya ni o-ukagai shite mo yoroshii deshoo ka.*  
+*Mizumore no joukyou wo kakunin itashimasu no de, tadaima oheya ni o-ukagai shite mo yoroshii deshou ka.*  
 May we come to the room now to check the water leak situation?
 
 ## Related Expressions

@@ -10,8 +10,8 @@ In daily hospitality use, 出口 appears in sentences like 出口は右手にご
 
 ## Example Sentences
 
-**非常口の出口は右側です。ご確認いただけますようお願いいたします。**  
-*Hijouguchi no deguchi wa migigawa desu. Gokakunin itadakemasu you onegai itashimasu.*  
+**非常口は右側です。ご確認いただけますようお願いいたします。**
+*Hijouguchi wa migigawa desu. Gokakunin itadakemasu you onegai itashimasu.*
 The emergency exit is on the right side. We ask that you please take note of it.
 
 **ご宴会終了後、出口はこちらの扉からお進みください。**  

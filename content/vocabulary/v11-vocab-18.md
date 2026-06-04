@@ -10,7 +10,7 @@ When a guest reports 接続不良, the response follows a clear structure: ackno
 ## Example Sentences
 
 **接続不良で通話が途切れました。別の回線をお試しいただけますか。**  
-*Setsuzoku furyou de tsuuwa ga togireimashita. Betsu no kaisen wo otameshi itadakemasu ka.*  
+*Setsuzoku furyou de tsuuwa ga togiremashita. Betsu no kaisen wo otameshi itadakemasu ka.*  
 The call was interrupted due to poor connection. Could you try a different line?
 
 **お客様のお部屋で接続不良が発生しているようです。技術担当に確認いたします。**  

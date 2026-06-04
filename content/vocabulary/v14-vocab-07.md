@@ -14,7 +14,7 @@ The most common scenario staff will face is a guest at a traditional ryokan who 
 Japan's currency is the yen, and cash payment is possible at most places.
 
 **当館では外国通貨のお支払いはお受けしておりませんが、近くに両替所がございます。**  
-*Touquan de wa gaikoku tsuuka no oshiharai wa ousuke shite orimasen ga, chikaku ni ryougaejo ga gozaimasu.*  
+*Toukan de wa gaikoku tsuuka no oshiharai wa o-uke shite orimasen ga, chikaku ni ryougaejo ga gozaimasu.*  
 We do not accept foreign currency at this establishment, but there is an exchange office nearby.
 
 **通貨の両替レートはその日によって変わりますので、最新情報をご確認ください。**  
@@ -30,7 +30,7 @@ Currency exchange rates change daily, so please check for the latest information
 
 ## Common Mistakes
 
-A common error is to confuse 通貨 (the currency system as a concept) with 現金 (genkin, "cash"): 通貨 is the abstract monetary system, while 現金 refers to physical banknotes and coins in hand. Note here is a tricky homophone: 通過 (tsuuka) means "passing through" and is written and pronounced identically. Context usually saves speakers in speech, but in written communication staff should be careful which kanji they reach for. On pronunciation, the final consonant is an unvoiced /k/: 通話, not *tsuu-ga*.
+A common error is to confuse 通貨 (the currency system as a concept) with 現金 (genkin, "cash"): 通貨 is the abstract monetary system, while 現金 refers to physical banknotes and coins in hand. Note here is a tricky homophone: 通過 (tsuuka) means "passing through" and is written and pronounced identically. Context usually saves speakers in speech, but in written communication staff should be careful which kanji they reach for. On pronunciation, the final consonant is an unvoiced /k/: 通貨, not *tsuu-ga*.
 
 ---
 

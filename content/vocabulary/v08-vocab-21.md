@@ -14,7 +14,7 @@ In a hospitality context, 近くに on its own is not sufficient. Staff should f
 There is a convenience store near the hotel. It is approximately a 3-minute walk.
 
 **近くに観光スポットがいくつかございますので、地図をお持ちいたしましょうか。**  
-*Chikaku ni kankouspot to ga ikutsuka gozaimasu node, chizu o omochi itashimashou ka.*  
+*Chikaku ni kankou supotto ga ikutsuka gozaimasu node, chizu o omochi itashimashou ka.*  
 There are several tourist spots nearby; shall I bring you a map?
 
 **レストランは駅の近くにございます。徒歩5分ほどでお着きになれます。**  

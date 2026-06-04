@@ -10,11 +10,11 @@ Successfully managing a 団体予約 depends on internal communication between d
 ## Example Sentences
 
 **団体予約は10名様以上より承っております。グループ担当者を一名お決めいただけますでしょうか。**  
-*Dantai yoyaku wa juumeisama ijou yori uketamawaitte orimasu. Guruupu tantousha wo ichimei o-kime itadakemasu deshou ka.*  
+*Dantai yoyaku wa juumeisama ijou yori uketamawatte orimasu. Guruupu tantousha wo ichimei o-kime itadakemasu deshou ka.*  
 Group reservations are accepted for parties of 10 or more. Could you designate one person as the group coordinator?
 
 **ご団体様の名簿をご到着前日までにお送りいただけますと、スムーズなチェックインが可能となります。**  
-*Go-dantai-sama no meibo wo go-touchaku zekkijitsu made ni o-okuri itadakemasu to, sumuuzu na chekkuin ga kanou to narimasu.*  
+*Go-dantai-sama no meibo wo go-touchaku zenjitsu made ni o-okuri itadakemasu to, sumuuzu na chekkuin ga kanou to narimasu.*  
 If you could send us the group roster by the day before arrival, we will be able to provide a smooth group check-in.
 
 **〇〇様グループの皆様、ようこそお越しくださいました。皆様のお部屋割りのご案内をご用意しております。**  

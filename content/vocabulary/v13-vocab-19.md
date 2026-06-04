@@ -15,7 +15,7 @@ In Japanese workplaces, the willingness to consult is seen as a sign of professi
 I humbly consulted the general manager regarding the special request from the guest.
 
 **困ったことがあれば、いつでも気軽にご相談ください。**  
-*Komatta koto ga areba, itsudemo kidgaru ni go-soudan kudasai.*  
+*Komatta koto ga areba, itsudemo kigaru ni go-soudan kudasai.*  
 Please feel free to consult us at any time if one encounter a problem.
 
 **予約の変更に関して、フロントの担当者にご相談いただけますでしょうか。**  

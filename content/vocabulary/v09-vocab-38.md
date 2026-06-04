@@ -17,9 +17,9 @@ Reception hours are from 7:00 AM to 10:00 PM. For after-hours assistance, please
 *Go-touchaku ga uketsuke jikan-gai to naru baai wa, jizen ni go-renraku itadakemasu to taiou itashimasu.*  
 If your arrival falls outside our reception hours, please contact us in advance and we will make appropriate arrangements.
 
-**受付時間内であれば、フロントスタッフが24時間対応いたします。夜間も緊急のご要望にはご対応可能です。**  
-*Uketsuke jikan-nai de areba, furonto sutaffu ga nijuuyojikan taiou itashimasu. Yakan mo kinkyuu no go-youbou ni wa go-taiou kanou desu.*  
-Our front desk staff provide full service during reception hours. Emergency requests can also be handled during nighttime hours.
+**受付時間内はフロントスタッフが対応いたします。夜間も緊急のご要望にはご対応可能です。**
+*Uketsuke jikan-nai wa furonto sutaffu ga taiou itashimasu. Yakan mo kinkyuu no go-youbou ni wa go-taiou kanou desu.*
+Our front desk staff are available during reception hours. Emergency requests can also be handled during nighttime hours.
 
 ## Related Expressions
 

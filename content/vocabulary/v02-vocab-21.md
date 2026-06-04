@@ -30,7 +30,7 @@ Allow me to confirm the details of your change.
 
 ## Common Mistakes
 
-a notable common errors new staff make is saying 変更できません and leaving it there. In hospitality, a flat refusal without alternatives is almost never the right response. Always check what options exist before responding to a change request. If the exact change is not possible, offer the closest available alternative. A separate issue is confusing 変更 with 交換 (kōkan), which is about exchanging physical items, not modifying a reservation. Also, any 変更 confirmed verbally must be logged in the system immediately. What gets said at the desk and what the system shows must always match.
+A notable common error new staff make is saying 変更できません and leaving it there. In hospitality, a flat refusal without alternatives is almost never the right response. Always check what options exist before responding to a change request. If the exact change is not possible, offer the closest available alternative. A separate issue is confusing 変更 with 交換 (kōkan), which is about exchanging physical items, not modifying a reservation. Also, any 変更 confirmed verbally must be logged in the system immediately. What gets said at the desk and what the system shows must always match.
 
 ---
 ## Quiz

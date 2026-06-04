@@ -15,7 +15,7 @@ The trickier part of 分 is its pronunciation changes, and this is where common 
 It is 30 minutes by car to the airport. We recommend departing at least 2 hours before your flight.
 
 **ただいまお席の準備中でございます。約5分でご案内できます。**  
-*Tadaima oseki no junchuu de gozaimasu. Yaku gofun de goannai dekimasu.*  
+*Tadaima oseki no junbichuu de gozaimasu. Yaku gofun de goannai dekimasu.*  
 We are currently preparing your table. We can seat you in approximately 5 minutes.
 
 **エレベーターで3分、徒歩ですと約10分でお着きになれます。**  

@@ -19,7 +19,7 @@ An extension of stay is possible.
 You would like to extend the stay. I will check availability right now.
 
 **大変申し訳ございませんが、明日は満室のため延泊が難しい状況でございます。**  
-*Taihen mōshiwake gozaimasen ga, ashita wa manseki no tame enpaku ga muzukashii jōkyō de gozaimasu.*  
+*Taihen mōshiwake gozaimasen ga, ashita wa manshitsu no tame enpaku ga muzukashii jōkyō de gozaimasu.*  
 We sincerely apologize, but as we are fully booked tomorrow, extending the stay would be difficult.
 
 ## Related Expressions
@@ -27,7 +27,7 @@ We sincerely apologize, but as we are fully booked tomorrow, extending the stay 
 | Expression | Description |
 |---|---|
 | チェックアウト日<br>chekku-auto bi | the check-out date, which 延泊 effectively pushes back. When confirming an extension, restate the new チェックアウト日 clearly so the guest knows exactly when their stay now ends. |
-| 満室<br>manseki | fully booked, no vacancy. This is the most common reason 延泊 cannot be accommodated, and knowing how to deliver that news politely, with a genuine apology and a suggestion or two, distinguishes good hospitality from adequate hospitality. |
+| 満室<br>manshitsu | fully booked, no vacancy. This is the most common reason 延泊 cannot be accommodated, and knowing how to deliver that news politely, with a genuine apology and a suggestion or two, distinguishes good hospitality from adequate hospitality. |
 
 ## Common Mistakes
 

@@ -5,7 +5,7 @@ title: 荷物預かり (nimotsu azukari)
 ---
 荷物預かり is the hotel service where staff temporarily hold a guest's luggage on their behalf. It is one of those quiet but valuable parts of hospitality that many guests rely on more than they expect. A guest arrives at 10am when the room will not be ready until 3pm? 荷物預かり lets them drop their bags and go explore rather than sitting in the lobby watching their suitcase. A guest who has checked out but has an evening flight? Same solution. This service removes a real friction point from the travel day, and offering it proactively, without waiting to be asked, is exactly the kind of thinking that omotenashi is built on.
 
-When accepting luggage, staff should always issue a 引換券 (claim ticket), tag each item clearly with the guest's name and a reference number, and store everything in a secure, designated area. Staff should flag any fragile items at the time of acceptance and note them in the log. During high-traffic periods like Golden Week or peak tourist season, the storage area can fill up faster than expected. Communicating early about capacity, rather than turning a guest away at the counter, keeps everyyour experience smooth.
+When accepting luggage, staff should always issue a 引換券 (claim ticket), tag each item clearly with the guest's name and a reference number, and store everything in a secure, designated area. Staff should flag any fragile items at the time of acceptance and note them in the log. During high-traffic periods like Golden Week or peak tourist season, the storage area can fill up faster than expected. Communicating early about capacity, rather than turning a guest away at the counter, keeps everyone's experience smooth.
 
 
 ## Example Sentences

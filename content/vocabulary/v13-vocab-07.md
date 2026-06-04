@@ -20,7 +20,7 @@ If coming in to work is difficult today due to the typhoon, please contact your 
 
 **出勤時にタイムカードを押すことを忘れないでください。**  
 *Shukkin-ji ni taimu-kaado o osu koto o wasurenaide kudasai.*  
-Please do not forget to clock in when one arrive for the shift.
+Please do not forget to clock in when you arrive for the shift.
 
 ## Related Expressions
 

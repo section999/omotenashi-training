@@ -14,11 +14,11 @@ The role of hospitality staff is not to interpret customs law for guests: that i
 When entering Japan, please fill in the customs declaration form.
 
 **税関で申告が必要な品物をお持ちの場合は、正直にご申告ください。**  
-*Zeikan de shinkoku ga hitsuyou na shinamono wo omochi no baai wa, shoujiki ni goshinoku kudasai.*  
+*Zeikan de shinkoku ga hitsuyou na shinamono wo omochi no baai wa, shoujiki ni go-shinkoku kudasai.*  
 If one is carrying items that must be declared at customs, please declare them honestly.
 
 **お土産の数量が多い場合、税関で課税される可能性がございますのでご注意ください。**  
-*Omiyage no suuryou ga ooi baai, zeikan de kazei sareru kanousei ga gozaimasu no de gotyuui kudasai.*  
+*Omiyage no suuryou ga ooi baai, zeikan de kazei sareru kanousei ga gozaimasu no de go-chuui kudasai.*  
 Please be aware that if one has a large quantity of souvenirs, they may be subject to customs duties.
 
 ## Related Expressions

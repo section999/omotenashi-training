@@ -15,7 +15,7 @@ Directing a guest to 二階 should always include access instructions: エレベ
 The restaurant is on the second floor.
 
 **二階のラウンジにてウェルカムドリンクをご用意しております。**  
-*Nikai no raunji nite werukamuDorinku wo go-youi shite orimasu.*  
+*Nikai no raunji nite werukamu dorinku wo go-youi shite orimasu.*  
 We have a welcome drink prepared for you in the second-floor lounge.
 
 **会議室は二階の突き当たり左にございます。**  

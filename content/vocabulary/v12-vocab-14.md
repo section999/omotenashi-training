@@ -11,7 +11,7 @@ When a guest reports feeling ill, staff should ask about their symptoms clearly 
 ## Example Sentences
 
 **お客様がご気分がお悪いとのことで、ただいまお医者様を手配しております。**  
-*Okyakusama ga gokibun ga owaru i to no koto de, tadaima oishasha-sama wo tehai shite orimasu.*  
+*Okyakusama ga gokibun ga owarui to no koto de, tadaima oisha-sama wo tehai shite orimasu.*  
 A guest is feeling unwell, and we are currently arranging a doctor.
 
 **病気の症状がございましたら、すぐにフロントまでお知らせください。**  

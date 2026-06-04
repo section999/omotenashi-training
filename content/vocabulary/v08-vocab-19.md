@@ -18,7 +18,7 @@ There is a café next to the restaurant. Please feel free to use it for coffee a
 There is a vending machine to the right of the room; please feel free to use it.
 
 **エレベーターホールの隣がフィットネスセンターでございます。**  
-*Erebeetaa hooeru no tonari ga fittonesu sentaa de gozaimasu.*  
+*Erebeetaa hooru no tonari ga fittonesu sentaa de gozaimasu.*  
 The fitness center is adjacent to the elevator hall.
 
 ## Related Expressions

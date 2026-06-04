@@ -11,7 +11,7 @@ During room orientation, staff cover the basics clearly: 「ドアはオート�
 
 **ドアはオートロックになっておりますので、お出かけの際はカードキーをお持ちください。**  
 *Doa wa ootoo rokku ni natte orimasu node, o-dekake no sai wa kaado kii wo o-mochi kudasai.*  
-The door is auto-locking, so please take your key card when one go out.
+The door is auto-locking, so please take your key card when you go out.
 
 **ドアは内側から鍵を回してください。**  
 *Doa wa uchigawa kara kagi wo mawashite kudasai.*  

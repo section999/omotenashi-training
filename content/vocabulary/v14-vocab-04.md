@@ -10,7 +10,7 @@ Note for day-to-day work: many countries have visa-exemption agreements with Jap
 ## Example Sentences
 
 **観光目的でご入国の場合、ビザが必要かどうかは国籍によって異なります。**  
-*Kankou mokuteki de gonyuukoku no baai, biza ga hitsuyou ka dou ka wa kokuseki ni yotte kotonari masu.*  
+*Kankou mokuteki de go-nyuukoku no baai, biza ga hitsuyou ka dou ka wa kokuseki ni yotte kotonari masu.*  
 Whether a visa is required for entry for tourism purposes depends on the guest's nationality.
 
 **お客様のビザの有効期限をフロントにてご確認いただけますでしょうか。**  
@@ -18,7 +18,7 @@ Whether a visa is required for entry for tourism purposes depends on the guest's
 Would you be able to confirm your visa's expiry date at the front desk?
 
 **ビザの延長については、最寄りの入国管理局にお問い合わせください。**  
-*Biza no enchoku ni tsuite wa, moyori no nyuukoku kanrikyoku ni otoiawase kudasai.*  
+*Biza no enchou ni tsuite wa, moyori no nyuukoku kanrikyoku ni otoiawase kudasai.*  
 For visa extensions, please contact the nearest immigration office.
 
 ## Related Expressions

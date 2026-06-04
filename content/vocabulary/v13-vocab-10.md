@@ -43,4 +43,4 @@ The most frequent error is using 休み and 休憩 interchangeably. Telling a co
 
 **Answer:** 休み
 
-**Explanation:** 休み is the whole non-working day built into the rota, and keeping it distinct from 休憩 (a short break within a shift) is a notable practically important distinctions in hospitality Japanese. Getting these two mixed up can lead to real misunderstandings about scheduling, attendance, and what an employee is entitled to at any given point in the day.
+**Explanation:** 休み is the whole non-working day built into the rota, and keeping it distinct from 休憩 (a short break within a shift) is a practically important distinction in hospitality Japanese. Getting these two mixed up can lead to real misunderstandings about scheduling, attendance, and what an employee is entitled to at any given point in the day.

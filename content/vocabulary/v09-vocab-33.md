@@ -14,7 +14,7 @@ Operationally, 連泊 affects room assignments (the guest should ideally stay in
 This guest is scheduled for a 3-night consecutive stay, so I will inform housekeeping accordingly.
 
 **連泊中のお部屋の清掃はご希望の頻度でご対応いたします。毎日ご希望でしょうか。**  
-*Renpaku-chuu no o-heya no seisouu wa go-kibou no hindo de go-taiou itashimasu. Mainichi go-kibou deshou ka.*  
+*Renpaku-chuu no o-heya no seisou wa go-kibou no hindo de go-taiou itashimasu. Mainichi go-kibou deshou ka.*  
 We will clean the room at whatever frequency you prefer during your multi-night stay. Would you like daily service?
 
 **3連泊でお得なプランをご用意しております。連泊割引が適用されます。**  

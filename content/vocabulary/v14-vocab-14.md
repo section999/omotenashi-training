@@ -10,11 +10,11 @@ Hotel staff field questions about ガイド services regularly and need to be re
 ## Example Sentences
 
 **観光ガイドが名所を案内してくれました。**  
-*Kankoukyaku gaido ga meisho wo annai shite kuremashita.*  
+*Kankou gaido ga meisho wo annai shite kuremashita.*  
 The tour guide showed us the famous places.
 
 **当館では英語対応のガイドをご手配することができます。**  
-*Toukan de wa eigo taiou no gaido wo otehaisuru koto ga dekimasu.*  
+*Toukan de wa eigo taiou no gaido wo o-tehai suru koto ga dekimasu.*  
 Our hotel can arrange an English-speaking guide for you.
 
 **博物館では音声ガイドを借りることをお勧めします。**  

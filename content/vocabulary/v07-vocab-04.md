@@ -11,7 +11,7 @@ Beyond confirming availability, staff should be prepared to assist with valet pa
 
 **駐車場をご利用いただけます。ご入庫の際はフロントにてお申し付けくださいませ。**  
 *Chuushajou wo go-riyou itadakemasu. Go-nyuuko no sai wa furonto ni te o-moushitsuke kudasaimase.*  
-You may use the parking lot. Please notify the front desk when one enter.
+You may use the parking lot. Please notify the front desk when you enter.
 
 **恐れ入りますが、駐車場は現在満車でございます。近隣のコインパーキングをご案内いたしましょうか。**  
 *Osoreirimasu ga, chuushajou wa genzai mansha de gozaimasu. Kinrin no koin paakingu wo go-annai itashimashou ka.*  

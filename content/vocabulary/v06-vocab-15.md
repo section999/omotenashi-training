@@ -15,7 +15,7 @@ Wi-Fi information is typically shown on a card in the room, printed on the key s
 At our hotel, complimentary Wi-Fi is available throughout the entire building.
 
 **Wi-FiのネットワークIDとパスワードは、お部屋のカードにご記載しております。**  
-*Waifai no nettowaaку ID to pasuwaado wa, o-heya no kaado ni go-kisai shite orimasu.*  
+*Waifai no nettowaaku ID to pasuwaado wa, o-heya no kaado ni go-kisai shite orimasu.*  
 The Wi-Fi network ID and password are printed on the card in the room.
 
 **Wi-Fiに接続できない場合は、フロントまでお申しつけください。**  

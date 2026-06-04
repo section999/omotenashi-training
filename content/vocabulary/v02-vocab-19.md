@@ -30,7 +30,7 @@ The deposit will be a pre-authorization hold on your credit card.
 
 ## Common Mistakes
 
-A common mistake is failing to explain デポジット proactively. Waiting for the guest to ask means they may notice the hold on their account first and assume something has gone wrong. Mention it before they have a chance to wonder. Saying デポジットを取ります also sounds blunt. The humble form デポジットをお預かりいたします is both more polite and more accurate: it conveys the sense of safekeeping rather than confiscation. Always mention the refund process as well. Omitting it is a notable consistent sources of complaints in check-in interactions.
+A common mistake is failing to explain デポジット proactively. Waiting for the guest to ask means they may notice the hold on their account first and assume something has gone wrong. Mention it before they have a chance to wonder. Saying デポジットを取ります also sounds blunt. The humble form デポジットをお預かりいたします is both more polite and more accurate: it conveys the sense of safekeeping rather than confiscation. Always mention the refund process as well. Omitting it is a notable, consistent source of complaints in check-in interactions.
 
 ---
 

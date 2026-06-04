@@ -26,7 +26,7 @@ Today's buffet features both Japanese and Western menu options.
 | Expression | Description |
 |---|---|
 | ビュッフェ<br>byuffe | a direct borrowing from the French "buffet," used mainly in upscale or international hotel contexts; carries a slightly more refined connotation than バイキング. |
-| 食べ放題<br>tabe-houdai | literally "all staff can eat," commonly used in casual restaurant advertising; less formal than バイキング and rarely used by hotel staff in guest-facing speech. |
+| 食べ放題<br>tabe-houdai | literally "all you can eat," commonly used in casual restaurant advertising; less formal than バイキング and rarely used by hotel staff in guest-facing speech. |
 
 ## Common Mistakes
 

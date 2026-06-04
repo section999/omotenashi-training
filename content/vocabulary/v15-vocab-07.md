@@ -12,7 +12,7 @@ When explaining how to set up the board, staff should keep it practical: place i
 
 **アイロン台はクロゼット内の上段にございます。ご不明な点はフロントまでどうぞ。**  
 *Airon dai wa kurozetto-nai no joudan ni gozaimasu. Go-fumeina ten wa furonto made douzo.*  
-The ironing board is on the upper shelf inside the closet. Please contact the front desk if one has any questions.
+The ironing board is on the upper shelf inside the closet. Please contact the front desk if you have any questions.
 
 **アイロン台をご使用の際は、安定した場所に広げてからお使いください。**  
 *Airon dai o go-shiyou no sai wa, antei shita basho ni hirogete kara o-tsukai kudasai.*  

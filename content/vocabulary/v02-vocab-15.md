@@ -10,7 +10,7 @@ Staff should proactively ask whether the guest requires a 領収書 rather than 
 ## Example Sentences
 
 **領収書はご入用でしょうか。**  
-*Ryōshūsho wa go-iriyo deshō ka.*  
+*Ryōshūsho wa go-iriyō deshō ka.*  
 Would you like a receipt?
 
 **はい、領収書をご用意いたします。宛名はどのようにいたしましょうか。**  

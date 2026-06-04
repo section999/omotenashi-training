@@ -10,7 +10,7 @@ Teenagers who sit on the boundary of the adult threshold require extra attention
 ## Example Sentences
 
 **大人2名でご予約を承りました。**  
-*Otona ni-mei de go-yoyaku o uketa wari mashita.*  
+*Otona ni-mei de go-yoyaku o uketamawarimashita.*  
 We have received your reservation for 2 adults.
 
 **大人のお客様には、浴衣をお部屋にご用意しております。**  
@@ -18,7 +18,7 @@ We have received your reservation for 2 adults.
 We have yukata prepared in the room for adult guests.
 
 **大人1名様あたりの宿泊料金は18,000円でございます。**  
-*Otona ichi-mei-sama atari no shukuhaku ryoukin wa ichiman hassento-en de gozaimasu.*  
+*Otona ichi-mei-sama atari no shukuhaku ryoukin wa ichiman hassen-en de gozaimasu.*  
 The room rate per adult guest is 18,000 yen.
 
 ## Related Expressions

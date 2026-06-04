@@ -11,11 +11,11 @@ Note: the goal when using 秒 is not to sound technical but to make precision fe
 ## Example Sentences
 
 **エレベーターのドアは5秒で閉まります。お急ぎの場合は「開」ボタンをお押しください。**  
-*Erebeetaa no doa wa gosbyou de shimarimasu. Oisogi no baai wa "hira" botan o ooshi kudasai.*  
+*Erebeetaa no doa wa go-byou de shimarimasu. Oisogi no baai wa "hira" botan o ooshi kudasai.*  
 The elevator doors close in 5 seconds. If one is in a hurry, please press the'open' button.
 
 **セキュリティゲートは通過後10秒で自動的に閉まります。スタッフへお声がけください。**  
-*Sekyuritii geeeto wa tsuuka go jyuubyou de jidouteki ni shimarimasu. Sutaffu e okoe gake kudasai.*  
+*Sekyuritii geeto wa tsuuka go juu-byou de jidouteki ni shimarimasu. Sutaffu e okoe gake kudasai.*  
 The security gate closes automatically 10 seconds after passage. Please let a staff member know if one needs assistance.
 
 **このドアは閉めると3秒後にロックされます。カードキーをお持ちください。**  

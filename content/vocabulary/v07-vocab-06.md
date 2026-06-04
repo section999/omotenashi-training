@@ -3,7 +3,7 @@ id: v07-vocab
 section: 6
 title: 近く (chikaku)
 ---
-近く means "nearby" or "close by" and is a commonly used spatial descriptors in hospitality communication. The way staff characterize distance reflects how attentive they are to the guest's situation. A destination described as 近く without further detail is only marginally helpful, whereas 近く paired with a specific walking time, landmark, and directional reference becomes more useful guidance. Reassuring a guest that a key destination, the nearest station, a recommended restaurant, a convenience store, is within easy reach can reduce anxiety about navigating an unfamiliar city. For guests with limited mobility, proximity is especially significant, so 近く should be used honestly and not as a vague reassurance.
+近く means "nearby" or "close by" and is a commonly used spatial descriptor in hospitality communication. The way staff characterize distance reflects how attentive they are to the guest's situation. A destination described as 近く without further detail is only marginally helpful, whereas 近く paired with a specific walking time, landmark, and directional reference becomes more useful guidance. Reassuring a guest that a key destination, the nearest station, a recommended restaurant, a convenience store, is within easy reach can reduce anxiety about navigating an unfamiliar city. For guests with limited mobility, proximity is especially significant, so 近く should be used honestly and not as a vague reassurance.
 
 In daily hotel operations, 近く appears in responses to questions about the surrounding neighborhood, in printed materials like room folders and welcome guides, and in recommendations from concierge and front desk staff. When combined with phrases such as 「徒歩約〇分」 (approximately a [number]-minute walk) or 「〇〇を目印に」 (using [landmark] as a reference point), the description becomes precise enough to be useful. If a destination is only borderline convenient for walking, calling it 近く is not recommended. Guests who find the journey longer than implied tend to feel misled
 
@@ -20,7 +20,7 @@ For dinner, there are several well-regarded Japanese restaurants near the hotel.
 
 **コンビニエンスストアはすぐ近くでございますので、ご不便はないかと存じます。**  
 *Konbiniensu sutoa wa sugu chikaku de gozaimasu node, go-fuben wa nai ka to zonjimasu.*  
-There is a convenience store just nearby, so I trust one will find everything you need.
+There is a convenience store just nearby, so you will find everything you need.
 
 ## Related Expressions
 

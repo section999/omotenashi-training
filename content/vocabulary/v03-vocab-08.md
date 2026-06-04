@@ -40,7 +40,7 @@ The most consequential mistake is assigning a 喫煙室 to a guest who requested
 
 - A. 喫煙でございます (it is a smoking area)
 - B. 禁煙でございます (it is non-smoking)
-- C. 喫煙しません (non-smoking)
+- C. 喫煙しません (I do not smoke)
 - D. 禁煙お願いします (please refrain from smoking)
 
 **Correct Answer:** 喫煙でございます (it is a smoking area)

@@ -19,7 +19,7 @@ If you would like cleaning done while one is away, please let the front desk kno
 
 **清掃不要の場合は、ドアノブに「清掃不要」カードをおかけください。**  
 *Seisou fuyou no baai wa, doa nobu ni "seisou fuyou" kaado wo o-kake kudasai.*  
-If you do not require cleaning, please hang the'No Cleaning' card on the door handle.
+If you do not require cleaning, please hang the 'No Cleaning' card on the door handle.
 
 ## Related Expressions
 

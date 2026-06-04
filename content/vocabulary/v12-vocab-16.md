@@ -11,7 +11,7 @@ Front desk staff are usually the ones who coordinate contact with an 医者 when
 ## Example Sentences
 
 **お気分がすぐれないとのこと、ただいまお医者様をお呼びいたします。**  
-*Okibun ga sugure nai to no koto, tadaima oishasha-sama wo oyobi itashimasu.*  
+*Okibun ga sugure nai to no koto, tadaima oisha-sama wo oyobi itashimasu.*  
 Since one is not feeling well, I will call a doctor for you immediately.
 
 **医者の診察を受けられましたか。何かお手伝いできることはございますか。**  
@@ -26,7 +26,7 @@ Our hotel is able to arrange a doctor available around the clock.
 
 | Expression | Description |
 |---|---|
-| ドクターコール<br>dokutaa kooru | doctor call; the hotel service of summoning a physician directly to a guest's room. It relies on the hotel's network of contracted 医者 and is a notable appreciated services a luxury hotel can offer. |
+| ドクターコール<br>dokutaa kooru | doctor call; the hotel service of summoning a physician directly to a guest's room. It relies on the hotel's network of contracted 医者 and is one of the most appreciated services a luxury hotel can offer. |
 | 診察<br>shinsatsu | medical examination; what the 医者 performs when called to assess a guest's condition, typically involving checking vital signs and asking about symptoms before recommending a course of action. |
 
 ## Common Mistakes

@@ -14,9 +14,9 @@ Understanding 表示 as a concept is important because it shapes how staff teach
 *O-tearai wa rouka no hyouji ni shitagatte o-susumi kudasai.*  
 Please follow the signs along the corridor to the restroom.
 
-**非常口は赤い表示で示されておりますので、ご確認ください。**  
-*Hijouguchi wa akai hyouji de shimesarete orimasu no de, go-kakunin kudasai.*  
-The emergency exits are indicated by red signs, so please take note of them.
+**非常口は緑色の表示で示されておりますので、ご確認ください。**
+*Hijouguchi wa midori-iro no hyouji de shimesarete orimasu no de, go-kakunin kudasai.*
+The emergency exits are indicated by green signs, so please take note of them.
 
 **エレベーターの表示が示す通り、レストランは3階にございます。**  
 *Erebeetaa no hyouji ga shimesu toori, resutoran wa san-kai ni gozaimasu.*  

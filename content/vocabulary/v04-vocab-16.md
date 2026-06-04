@@ -14,7 +14,7 @@ In practical hotel work, staff use 雑巾 as part of regular room turnover and d
 Please wipe the table carefully with a clean cloth.
 
 **濡れた雑巾で汚れを落とした後、乾いた雑巾で仕上げます。**  
-*Nureta zoukin de yogore wo otoshita ato, kawaita zoukin de shiageimasu.*  
+*Nureta zoukin de yogore wo otoshita ato, kawaita zoukin de shiagemasu.*  
 After removing the stain with a damp cloth, we finish with a dry cloth.
 
 **用途ごとに色分けされた雑巾をご使用ください。**  

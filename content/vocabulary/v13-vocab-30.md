@@ -15,7 +15,7 @@ We will share the results of this month's service quality evaluation with all st
 
 **お客様からの評価が高まっているのは、皆様の日々の努力の成果です。**  
 *Okyakusama kara no hyouka ga takamatte iru no wa, minasama no hibi no doryoku no seika desu.*  
-The improvement in our guests' evaluations is a result of everyyour daily efforts.
+The improvement in our guests' evaluations is a result of everyone's daily efforts.
 
 **定期的な評価を通じて、各スタッフの成長をサポートしてまいります。**  
 *Teikiteki na hyouka wo tsuujite, kaku sutaffu no seichou wo sapooto shite mairimasu.*  

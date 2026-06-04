@@ -31,7 +31,7 @@ Please fill in your address and name on the courier delivery slip.
 
 ## Common Mistakes
 
-A common error is to confuse 宅配便 with 配達 (haitatsu), which means "delivery" as a general action. 宅配便 refers specifically to the commercial door-to-door courier system, not just any act of handing something over. Pronunciation is another common stumble: students sometimes say "ta-ku-hai-bin" by over-separating the kanji readings. The natural spoken form contracts into "tak-kyuu-bin" with the double consonant clearly held. Practising that double consonant until it feels natural will make staff sound much more fluent when dealing with guests.
+A common error is to confuse 宅配便 with 配達 (haitatsu), which means "delivery" as a general action. 宅配便 refers specifically to the commercial door-to-door courier system, not just any act of handing something over. Pronunciation is another common stumble: The correct pronunciation is "ta-ku-hai-bin" (たくはいびん), reading each kanji in sequence. There is no geminate consonant in 宅配便; the syllables are distinct and should not be blended together.
 
 ---
 

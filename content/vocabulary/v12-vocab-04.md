@@ -14,7 +14,7 @@ title: 避難 (hinan)
 Please follow the evacuation route and move to a safe location.
 
 **火災警報が鳴り響いたため、全スタッフはただちに避難誘導を開始してください。**  
-*Kasai keihou ga naribiiita tame, zen sutaffu wa tadachi ni hinan yuudou wo kaishi shite kudasai.*  
+*Kasai keihou ga narihibiita tame, zen sutaffu wa tadachi ni hinan yuudou wo kaishi shite kudasai.*  
 As the fire alarm is sounding, all staff please begin evacuation guidance immediately.
 
 **避難の際は、エレベーターをご利用にならず、非常階段をお使いください。**  

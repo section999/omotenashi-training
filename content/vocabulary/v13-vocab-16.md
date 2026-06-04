@@ -14,7 +14,7 @@ The word itself is derived from 打ち合う (to strike together), suggesting a 
 Before the event started, all staff held a briefing together.
 
 **明日の宴会の流れについて、料理長と打ち合わせをしたいと思います。**  
-*Ashita no enkai no nagare ni tsuite, ryouriche to uchiawase wo shitai to omoimasu.*  
+*Ashita no enkai no nagare ni tsuite, ryourichou to uchiawase wo shitai to omoimasu.*  
 I would like to have a briefing with the head chef regarding tomorrow's banquet flow.
 
 **シフト交代の前に、引き継ぎの打ち合わせをしっかり行ってください。**  

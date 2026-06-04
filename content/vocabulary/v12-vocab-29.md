@@ -11,7 +11,7 @@ When issuing 指示 to guests during emergencies, the phrasing needs to balance 
 ## Example Sentences
 
 **避難の際は、スタッフの指示に従って安全にお移りください。**  
-*Hinan no sai wa, sutaffu no shiji ni shitagatte anzen ni oatsuri kudasai.*  
+*Hinan no sai wa, sutaffu no shiji ni shitagatte anzen ni o-utsuri kudasai.*  
 During the evacuation, please move to safety by following the instructions of our staff.
 
 **支配人から緊急時の対応について詳しい指示をいただきました。**  

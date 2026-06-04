@@ -19,7 +19,7 @@ We will take your complaint sincerely to heart and respond as quickly as possibl
 Thank you for bringing your complaint to our attention. We will strive to make improvements.
 
 **苦情内容を詳しくお聞かせいただけますでしょうか。**  
-*Kujou naiyou wo kuwashiku o-kikase itadakemasu deshoo ka.*  
+*Kujou naiyou wo kuwashiku o-kikase itadakemasu deshou ka.*  
 Could you please tell me the details of your complaint?
 
 ## Related Expressions

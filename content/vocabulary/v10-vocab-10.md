@@ -15,7 +15,7 @@ The process starts with confirming the 宛名 before printing anything. For indi
 Would you like a receipt issued?
 
 **宛名はいかがいたしましょうか。会社名でよろしいでしょうか。**  
-*Atena wa ikaga itashimashoo ka. Kaisha mei de yoroshii deshou ka.*  
+*Atena wa ikaga itashimashou ka. Kaisha mei de yoroshii deshou ka.*  
 What name shall I put on the receipt? Would your company name be correct?
 
 **ただいま領収書を発行いたします。少々お待ちください。**  

@@ -14,7 +14,7 @@ Hotel staff are asked about バス routes constantly, and airport transfers are 
 I went from the airport to the city by bus.
 
 **京都の主な観光地は市バスで巡ることができます。**  
-*Kyouto no omo na kankoukyaku chi wa shi basu de meguru koto ga dekimasu.*  
+*Kyouto no omo na kankouchi wa shibasu de meguru koto ga dekimasu.*  
 You can visit Kyoto's main tourist attractions by city bus.
 
 **リムジンバスのご予約はフロントにてお手続きいただけます。**  

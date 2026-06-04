@@ -10,7 +10,7 @@ Staff should memorize the 避難場所 for their assigned floor or section and r
 ## Example Sentences
 
 **火災の際は、速やかに最寄りの避難場所へお移りください。**  
-*Kasai no sai wa, sumiyaka ni moyori no hinan basho e oatsuri kudasai.*  
+*Kasai no sai wa, sumiyaka ni moyori no hinan basho e o-utsuri kudasai.*  
 In case of fire, please move immediately to the nearest evacuation area.
 
 **避難場所はホテル正面玄関前の広場となっております。**  

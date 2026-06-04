@@ -11,7 +11,7 @@ For properties that do accept 外貨, the exchange rate must be checked daily, n
 ## Example Sentences
 
 **外貨でのお支払いを承っております。**  
-*Gaika de no oshiharai o uketamatteotte orimasu.*  
+*Gaika de no oshiharai o uketamawatte orimasu.*  
 We accept payment in foreign currency.
 
 **本日お取り扱いできる外貨の種類はこちらになります。**  

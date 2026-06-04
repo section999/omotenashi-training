@@ -15,7 +15,7 @@ A confident menu explanation matters more than it may appear. When a guest seems
 This is today's menu. Please take your time looking through it.
 
 **メニューについてご不明な点がございましたら、お気軽にお申し付けください。**  
-*Menyuu ni tsuite go-fuumei na ten ga gozaimashitara, o-kigaru ni o-moushitsuke kudasai.*  
+*Menyuu ni tsuite go-fumei na ten ga gozaimashitara, o-kigaru ni o-moushitsuke kudasai.*  
 If you have any questions about the menu, please do not hesitate to ask.
 
 **季節のおすすめメニューについてご説明してもよろしいでしょうか。**  

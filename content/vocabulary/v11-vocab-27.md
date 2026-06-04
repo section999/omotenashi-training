@@ -18,7 +18,7 @@ I will transfer you to the department in charge, so please wait a moment.
 For restaurant reservations, I will transfer you directly to the restaurant.
 
 **転送いたします前に、担当者に内容をお伝えしておきます。**  
-*Tensou itashimasu mae ni, tantousha ni naiyou wo otsurae shite okimasu.*  
+*Tensou itashimasu mae ni, tantousha ni naiyou wo otsutaeshite okimasu.*  
 Before I transfer you, I will inform the responsible staff member of the details.
 
 ## Related Expressions

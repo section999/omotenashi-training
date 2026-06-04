@@ -3,7 +3,7 @@ id: v14-vocab
 section: 21
 title: 乗り場 (noriba)
 ---
-乗り場 combines 乗り (from 乗る, to board) and 場 (place/spot), giving "the place where staff boards." It marks any official, designated area where passengers wait for and board a specific mode of transport. Staff will see 乗り場 signage at train stations, airports, and ferry terminals, often numbered or colour-coded to keep things orderly. In a large urban station, staff might be directing someone to 1番乗り場 for the airport bus while 2番乗り場 is for a different route entirely, so precision with this word matters.
+乗り場 combines 乗り (from 乗る, to board) and 場 (place/spot), giving "a boarding place." It marks any official, designated area where passengers wait for and board a specific mode of transport. Staff will see 乗り場 signage at train stations, airports, and ferry terminals, often numbered or colour-coded to keep things orderly. In a large urban station, staff might be directing someone to 1番乗り場 for the airport bus while 2番乗り場 is for a different route entirely, so precision with this word matters.
 
 Hotel staff need to direct guests to the correct 乗り場 on a daily basis, especially for airport coaches, limousine buses, and sightseeing services that depart from fixed points. Vague directions do not serve guests well here. A skilled staff member says something like 「駅の南口を出ていただきますと、バスの乗り場がすぐ左手にございます」 rather than just "go to the bus stop," because that sentence gives an exit name, a transport type, and a spatial reference all at once. When a 乗り場 number is available, include it: it removes the last remaining source of confusion
 

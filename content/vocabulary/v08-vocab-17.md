@@ -15,7 +15,7 @@ In daily use, 正面 appears in directions such as 正面玄関はこちらで�
 There is a parking lot in front of the hotel. Please use it upon your arrival.
 
 **エレベーターをお降りになりましたら、正面がフロントでございます。**  
-*Erebeetaa o oori ni narimashitara, shoumen ga furonto de gozaimasu.*  
+*Erebeetaa o o-ori ni narimashitara, shoumen ga furonto de gozaimasu.*  
 When you exit the elevator, the front desk is directly ahead of you.
 
 **正面玄関からお入りいただき、右手にコンシェルジュデスクがございます。**  

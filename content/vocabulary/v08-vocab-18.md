@@ -10,7 +10,7 @@ In a hospitality context, 裏 appears in directional guidance such as 荷物の�
 ## Example Sentences
 
 **荷物受け取りは建物の裏にございます。スタッフがご案内いたします。**  
-*Nimotsu ukétori wa tatemono no ura ni gozaimasu. Sutaffu ga goannai itashimasu.*  
+*Nimotsu uketori wa tatemono no ura ni gozaimasu. Sutaffu ga goannai itashimasu.*  
 The baggage pickup is at the back of the building. A staff member will guide you.
 
 **配送業者の方は正面玄関ではなく、裏口からお入りください。**  

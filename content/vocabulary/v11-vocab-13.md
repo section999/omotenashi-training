@@ -10,11 +10,11 @@ In a hospitality context, 音声案内 appears whenever a hotel routes incoming 
 ## Example Sentences
 
 **音声案内に従って、1番を押してフロントにお繋ぎください。**  
-*Onsei annai ni shitagatte, ichibang wo oshite furonto ni otsunagi kudasai.*  
+*Onsei annai ni shitagatte, ichiban wo oshite furonto ni otsunagi kudasai.*  
 Please follow the voice guidance and press 1 to connect to the front desk.
 
 **音声案内がわかりにくい場合は、そのままお待ちいただければオペレーターにお繋ぎいたします。**  
-*Onsei annai ga wakarinikoui baai wa, sono mama omachi itadakereba opereetaa ni otsunagi itashimasu.*  
+*Onsei annai ga wakarinikui baai wa, sono mama omachi itadakereba opereetaa ni otsunagi itashimasu.*  
 If the voice guidance is unclear, please stay on the line and we will connect you to an operator.
 
 **ただいま音声案内のシステムをご利用いただいております。**  

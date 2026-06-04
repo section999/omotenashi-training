@@ -10,9 +10,9 @@ One practical nuance worth getting comfortable with: 下 as a general "downward"
 
 ## Example Sentences
 
-**駐車場は地下2階の下にございます。エレベーターをご利用ください。**  
-*Chuushajou wa chika ni-kai no shita ni gozaimasu. Erebeetaa wo go-riyou kudasai.*  
-The parking lot is below on basement level 2. Please use the elevator.
+**駐車場は地下2階にございます。エレベーターをご利用ください。**
+*Chuushajou wa chika ni-kai ni gozaimasu. Erebeetaa wo go-riyou kudasai.*
+The parking lot is on basement level 2. Please use the elevator.
 
 **スパ施設は下の階、地下1階にてお待ちしております。**  
 *Supa shisetsu wa shita no kai, chika ikkai nite o-machi shite orimasu.*  

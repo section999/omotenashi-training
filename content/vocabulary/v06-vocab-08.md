@@ -14,7 +14,7 @@ When a guest reports 騒音, staff should respond without dismissing or minimisi
 We sincerely apologise for the inconvenience caused by the noise.
 
 **騒音の原因を確認いたしますので、少々お時間をいただけますでしょうか。**  
-*Souon no gen-in wo kakunin itashimasu no de, shoushou o-jikan wo itadakemasu deshoo ka.*  
+*Souon no gen-in wo kakunin itashimasu no de, shoushou o-jikan wo itadakemasu deshou ka.*  
 We will look into the cause of the noise: could you give us just a little time?
 
 **騒音が続く場合は、別のお部屋へのご移動もご提案できます。**  

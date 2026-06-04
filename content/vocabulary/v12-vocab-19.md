@@ -11,7 +11,7 @@ Japanese staff are trained to give structured information when making a 通報 c
 ## Example Sentences
 
 **火災を発見次第、ただちに消防署に通報してください。**  
-*Kasai wo hakken shidai, tadachi ni shoushousha ni tsuuhou shite kudasai.*  
+*Kasai wo hakken shidai, tadachi ni shoubousho ni tsuuhou shite kudasai.*  
 Upon discovering a fire, report it to the fire department immediately.
 
 **スタッフは緊急時には119番に通報する手順を熟知しています。**  

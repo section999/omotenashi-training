@@ -10,7 +10,7 @@ Beyond basic recommendations, good hospitality staff understand the seasonal dyn
 ## Example Sentences
 
 **近くの観光地へは、当ホテルの無料シャトルバスでご案内しております。**  
-*Chikaku no kankouchi e wa, tou hoteru no muryou shatoru basu de goannai shite orimasu.*  
+*Chikaku no kankouchi e wa, tou hoteru no muryou shatoru basu de go-annai shite orimasu.*  
 We provide guided access to nearby tourist spots via our complimentary hotel shuttle.
 
 **このあたりの観光地をまとめたマップを無料でお配りしております。**  

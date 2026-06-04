@@ -19,7 +19,7 @@ Here is the floor map. Your current location is here, and the room is here.
 There is a floor map by the elevator, so please feel free to take one.
 
 **ご不明な点がございましたら、フロアマップをご参照いただくか、フロントまでお申し付けください。**  
-*Go-fuumei na ten ga gozaimashitara, furoamappu wo go-sanshou itadaku ka, furonto made o-moushitsuke kudasai.*  
+*Go-fumei na ten ga gozaimashitara, furoamappu wo go-sanshou itadaku ka, furonto made o-moushitsuke kudasai.*  
 If you have any questions, please refer to the floor map or let us know at the front desk.
 
 ## Related Expressions

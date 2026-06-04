@@ -20,7 +20,7 @@ A double room has one bed: will that be all right for you?
 
 **ダブルルームに空室がございますので、ご希望でしたらご案内できます。**  
 *Daburu-ruumu ni kuushitsu ga gozaimasu no de, go-kibou deshitara go-annai dekimasu.*  
-We have a double room available, so if one wish we can show you to it.
+We have a double room available, so if you wish we can show you to it.
 
 ## Related Expressions
 

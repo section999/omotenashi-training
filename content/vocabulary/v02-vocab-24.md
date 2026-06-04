@@ -25,7 +25,7 @@ Unfortunately, as we are fully booked today, late check-out would be difficult t
 
 | Expression | Description |
 |---|---|
-| 早朝チェックイン<br>sōchō chekku-in | early check-in, the counterpart concept. Both services involve extending the standard boundaries of room occupancy and carry similar policies regarding availability and fees. Staff handling staff should be equally fluent in explaining the other. |
+| 早朝チェックイン<br>sōchō chekku-in | early check-in, the counterpart concept. Both services involve extending the standard boundaries of room occupancy and carry similar policies regarding availability and fees. Staff should be equally fluent in explaining the other. |
 | チェックアウト時間<br>chekku-auto jikan | the check-out time. Staff must know and clearly communicate the hotel's standard チェックアウト時間 as the baseline for any レイトチェックアウト discussion. Always state the standard time first before offering or explaining the late option. |
 
 ## Common Mistakes

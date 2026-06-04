@@ -10,7 +10,7 @@ The standard phrase is 「〇〇には追加料金が発生いたします」, w
 ## Example Sentences
 
 **エキストラベッドのご利用には、1泊あたり3,000円の追加料金が発生いたします。**  
-*Ekisutora beddo no go-riyou ni wa, ippaku atari sanzento-en no tsuika ryoukin ga hassei itashimasu.*  
+*Ekisutora beddo no go-riyou ni wa, ippaku atari sanzen-en no tsuika ryoukin ga hassei itashimasu.*  
 An additional charge of 3,000 yen per night applies for the use of an extra bed.
 
 **レイトチェックアウトをご希望の場合、追加料金をご確認ください。**  

@@ -16,7 +16,7 @@ Here is the room key. Please.
 
 **ご出発の際は、鍵のご返却をお願いいたします。**  
 *Go-shuppatsu no sai wa, kagi no go-henkyaku wo o-negai itashimasu.*  
-We kindly ask that you return the key when one depart.
+We kindly ask that you return the key when you depart.
 
 **鍵をお忘れの場合は、フロントまでお申し付けください。**  
 *Kagi wo o-wasure no baai wa, furonto made o-mōshitsuke kudasai.*  

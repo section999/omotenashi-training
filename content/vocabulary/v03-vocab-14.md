@@ -11,7 +11,7 @@ In ryokan settings, バスタオル may be supplemented or replaced by tradition
 
 **バスタオルはこちらにご用意いたしました。ご入浴の際にお使いください。**  
 *Basu taoru wa kochira ni go-youi itashimashita. Go-nyuuyoku no sai ni o-tsukai kudasai.*  
-We have prepared a bath towel here. Please use it when one bathe.
+We have prepared a bath towel here. Please use it when you bathe.
 
 **追加のバスタオルが必要でしたら、いつでもお申し付けください。**  
 *Tsuika no basu taoru ga hitsuyou deshitara, itsudemo o-moushitsuke kudasai.*  

@@ -31,7 +31,7 @@ Are there any fragile items in your luggage? We will handle them with special ca
 
 ## Common Mistakes
 
-The most common oversight is dropping the honorific お. In guest-facing speech, 荷物 on its own sounds abrupt. Staff should always say お荷物 (o-nimotsu) when talking directly with a guest. Another common mistake is to sometimes reach for スーツケース (suutsukeesu) when a guest has a mixed collection of bags, but 荷物 is the broader and more appropriate term that covers everything at once. Additionally, staff should never move or handle a guest's 荷物 without first asking. Even with the best intentions, reaching for someyour bag without a word can come across as intrusive rather than helpful.
+The most common oversight is dropping the honorific お. In guest-facing speech, 荷物 on its own sounds abrupt. Staff should always say お荷物 (o-nimotsu) when talking directly with a guest. Another common mistake is to sometimes reach for スーツケース (suutsukeesu) when a guest has a mixed collection of bags, but 荷物 is the broader and more appropriate term that covers everything at once. Additionally, staff should never move or handle a guest's 荷物 without first asking. Even with the best intentions, reaching for someone's bag without a word can come across as intrusive rather than helpful.
 
 ---
 

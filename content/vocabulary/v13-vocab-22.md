@@ -15,7 +15,7 @@ The idea of 担当 goes deep into how Japanese hotels organise their teams. Staf
 My name is Tanaka from concierge, and I will be the one in charge of assisting you.
 
 **本件のご担当者様にお取り次ぎいたします。少々お待ちください。**  
-*Honken no go-tantousha-sama ni o-toritsugii itashimasu. Shoushou o-machi kudasai.*  
+*Honken no go-tantousha-sama ni o-toritsugi itashimasu. Shoushou o-machi kudasai.*  
 I will connect you with the person in charge of this matter. Please wait a moment.
 
 **彼女はVIPのお客様の担当として、滞在中ずっとサポートいたしました。**  

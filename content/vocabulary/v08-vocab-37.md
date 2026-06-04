@@ -15,7 +15,7 @@ In the context of omotenashi, communicating 避難経路 information goes beyond
 An evacuation route map is posted on the back of the room door. Please refer to it in an emergency.
 
 **火災の場合は避難経路に従い、エレベーターをご利用にならず、階段でご避難ください。**  
-*Kasai no baai wa hinan keiro ni shitagaia, erebeetaa wo go-riyou ni narazu, kaidan de go-hinan kudasai.*  
+*Kasai no baai wa hinan keiro ni shitagai, erebeetaa wo go-riyou ni narazu, kaidan de go-hinan kudasai.*  
 In the event of a fire, please follow the evacuation route, and evacuate via the stairs: do not use the elevator.
 
 **本日の避難訓練では、全スタッフが避難経路と集合場所を再確認いたします。**  

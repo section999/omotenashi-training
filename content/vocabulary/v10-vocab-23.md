@@ -11,7 +11,7 @@ When a guest requests a 取消, the proper sequence is: confirm the reservation 
 ## Example Sentences
 
 **ご予約の取消を承りました。**  
-*Go-yoyaku no torikeshi o uketamattewarimashita.*  
+*Go-yoyaku no torikeshi o uketamawarimashita.*  
 We have accepted your cancellation.
 
 **取消の場合、キャンセル料が発生する場合がございます。**  

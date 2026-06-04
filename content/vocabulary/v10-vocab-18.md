@@ -14,7 +14,7 @@ Staff most commonly offer 利用明細 at checkout, either as a printed document
 We will provide your usage statement at checkout.
 
 **利用明細はメールにてお送りすることも可能でございます。**  
-*Riyou meisai wa meeru nite okuri suru koto mo kanou de gozaimasu.*  
+*Riyou meisai wa meeru nite o-okuri suru koto mo kanou de gozaimasu.*  
 We can also send your usage statement by email.
 
 **ご不明な点がございましたら、利用明細をご確認ください。**  

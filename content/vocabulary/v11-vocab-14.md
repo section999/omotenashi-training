@@ -3,7 +3,7 @@ id: v11-vocab
 section: 14
 title: 留守番電話 (rusuban denwa)
 ---
-留守番電話 is the voicemail or answering machine system that records messages when a staff member or guest cannot be reached. The word itself is literal: 留守 means "guarding the house while away," and 番電話 means "the phone doing that watching." In a hotel context, that image is apt. The system stands in for a person, and someone needs to check it regularly and treat what it contains as actionable communication.
+留守番電話 is the voicemail or answering machine system that records messages when a staff member or guest cannot be reached. The word itself is literal: 留守 means "guarding the house while away," and 番 means "to watch over." Together, 留守番 is the caretaker who minds things in one's absence; paired with 電話, it gives "the phone that takes calls while you are away." In a hotel context, that image is apt. The system stands in for a person, and someone needs to check it regularly and treat what it contains as actionable communication.
 
 Hotels typically assign clear ownership over which team monitors each department's 留守番電話, especially important during shift changes when messages can slip through the cracks. Staff should check 留守番電話 at set intervals, and when responding to a message, acknowledge that it came via voicemail: 留守番電話にメッセージをいただきました、ありがとうございます (thank one for leaving a voicemail message). It is also the staff member's responsibility to inform callers when they are about to reach voicemail, so they can leave their message intentionally rather than being surprised by a recording
 

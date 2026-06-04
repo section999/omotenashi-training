@@ -10,7 +10,7 @@ When a クレーム comes in, it should trigger a clear internal process: staff 
 ## Example Sentences
 
 **お客様のクレームに対し、誠心誠意をもって対応いたします。**  
-*O-kyaku-sama no kuremu ni tashi, seishin-seii wo motte taiou itashimasu.*  
+*O-kyaku-sama no kuremu ni taishi, seishin-seii wo motte taiou itashimasu.*  
 We will handle your complaint with complete sincerity and dedication.
 
 **ただいまクレームの内容を確認しておりますので、少々お待ちくださいませ。**  

@@ -26,7 +26,7 @@ Please be careful not to add too much detergent, as it may leave residue on your
 
 | Expression | Description |
 |---|---|
-| 柔軟剤<br>juunanai | fabric softener; used after 洗剤 to add softness and a pleasant scent to laundry. It is a separate product and goes in a different compartment of the machine, so staff should make sure guests know not to mix the two. |
+| 柔軟剤<br>juunanazai | fabric softener; used after 洗剤 to add softness and a pleasant scent to laundry. It is a separate product and goes in a different compartment of the machine, so staff should make sure guests know not to mix the two. |
 | 漂白剤<br>hyouhakuzai | bleach; a strong cleaning agent for stain removal, not safe for coloured or delicate fabrics. Worth keeping clearly labelled and away from general 洗剤 in the laundry area. |
 
 ## Common Mistakes

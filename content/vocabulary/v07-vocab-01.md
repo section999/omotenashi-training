@@ -11,14 +11,14 @@ Staff must know not only the location of each elevator bank but also any access 
 
 **エレベーターは正面玄関を入ってすぐ左手にございます。**  
 *Erebeetaa wa shoumen genkan wo haitte sugu hidarite ni gozaimasu.*  
-The elevator is immediately to your left as one enter the main entrance.
+The elevator is immediately to your left as one enters the main entrance.
 
 **エレベーターで10階までお上がりください。お部屋は右手の廊下の突き当たりでございます。**  
 *Erebeetaa de jukkai made o-agari kudasai. O-heya wa migite no rouka no tsukiatari de gozaimasu.*  
 Please take the elevator to the 10th floor. Your room is at the end of the corridor on the right.
 
 **ただいまエレベーターが混み合っておりますので、少々お待ちいただけますでしょうか。**  
-*Tadaima erebeetaa ga komiate orimasu node, shoushou o-machi itadakemasu deshou ka.*  
+*Tadaima erebeetaa ga komiatte orimasu node, shoushou o-machi itadakemasu deshou ka.*  
 The elevators are quite busy at the moment: would you mind waiting just a moment?
 
 ## Related Expressions

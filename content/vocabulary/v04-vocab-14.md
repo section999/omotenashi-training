@@ -18,7 +18,7 @@ We use a vacuum cleaner for cleaning the carpeted areas.
 I sincerely apologize for any inconvenience caused by the noise of the vacuum cleaner.
 
 **清掃の際、掃除機を使用してお部屋の床を丁寧にお掃除いたします。**  
-*Seisou no sai, soujiki wo shiyou shite oheya no yuka wo teinei ni osoujii itashimasu.*  
+*Seisou no sai, soujiki wo shiyou shite oheya no yuka wo teinei ni o-souji itashimasu.*  
 During cleaning, we carefully vacuum the floor of the room using a vacuum cleaner.
 
 ## Related Expressions

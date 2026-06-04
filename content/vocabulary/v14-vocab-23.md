@@ -15,7 +15,7 @@ Hotel staff often step in to help guests navigate 切符 purchases, especially f
 I bought a ticket and took the train.
 
 **新幹線の指定席切符は事前にご購入されることをお勧めします。**  
-*Shinkansen no shiteiseki kippu wa jizen ni gokokunyu sareru koto wo osusume shimasu.*  
+*Shinkansen no shiteiseki kippu wa jizen ni go-kounyu sareru koto wo osusume shimasu.*  
 We recommend purchasing your reserved shinkansen ticket in advance.
 
 **切符はこちらの自動券売機でお買い求めいただけます。英語表示も対応しております。**  

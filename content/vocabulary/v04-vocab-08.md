@@ -14,7 +14,7 @@ In daily operations, housekeeping staff work from printed checklists to track wh
 Replenishment of amenities is carried out during the daily cleaning.
 
 **ミニバーの補充が必要かどうか、確認してまいります。**  
-*Minibaа no hojuu ga hitsuyou ka douka, kakunin shite mairimasu.*  
+*Minibaa no hojuu ga hitsuyou ka douka, kakunin shite mairimasu.*  
 I will go and check whether the minibar needs to be restocked.
 
 **お茶の補充をご希望でしたら、いつでもフロントにお申し付けください。**  

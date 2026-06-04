@@ -19,7 +19,7 @@ The person in charge will call you back within one hour.
 May I have your phone number so we can call you back?
 
 **折り返しのご連絡が遅くなりまして、大変申し訳ございませんでした。**  
-*Orikaeshi no gorenraku ga osoku narimashite, taihen mōshiwake gozaimashendeshita.*  
+*Orikaeshi no gorenraku ga osoku narimashite, taihen mōshiwake gozaimasen deshita.*  
 We sincerely apologize for the delay in returning your call.
 
 ## Related Expressions

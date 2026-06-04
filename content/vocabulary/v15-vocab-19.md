@@ -18,7 +18,7 @@ The in-house laundry room is available from 7 AM to 11 PM.
 Please confirm the fitness centre's usage hours before visiting.
 
 **お荷物の一時保管は利用時間内でのみ承っております。**  
-*O-nimotsu no ichiji hokan wa riyou jikan-nai demo mi uketamawaatte orimasu.*  
+*O-nimotsu no ichiji hokan wa riyou jikan-nai de nomi uketamawatte orimasu.*  
 Temporary luggage storage is available only within the designated usage hours.
 
 ## Related Expressions

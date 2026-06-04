@@ -30,7 +30,7 @@ We sincerely apologise that the heat has prevented you from resting. We will sen
 
 ## Common Mistakes
 
-The most common staff error is agreeing with 暑いですね and doing nothing further: it sounds empathetic but communicates inaction, which frustrates guests even more. Another mistake is assuming the guest wants the air conditioning lowered when they might want a window opened or a fan brought in. Asking ご希望の温度はございますか (is there a temperature one prefer?) before acting avoids a mismatch. The overly casual 暑いなら窓を開けてください (if staff is hot, please open the window) should also be avoided, as it shifts the burden onto the guest.
+The most common staff error is agreeing with 暑いですね and doing nothing further: it sounds empathetic but communicates inaction, which frustrates guests even more. Another mistake is assuming the guest wants the air conditioning lowered when they might want a window opened or a fan brought in. Asking ご希望の温度はございますか (is there a temperature you prefer?) before acting avoids a mismatch. The overly casual 暑いなら窓を開けてください (if staff is hot, please open the window) should also be avoided, as it shifts the burden onto the guest.
 
 ---
 

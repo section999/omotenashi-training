@@ -30,7 +30,7 @@ If you have a need for interpretation, please do not hesitate to contact the fro
 
 ## Common Mistakes
 
-A common error is confusing 通訳 with 翻訳. If a guest hands one a document and needs it in another language, that is 翻訳, not 通訳. Offering the wrong service sends people in the wrong direction and wastes everyyour time. A common error is also assuming that any bilingual colleague can handle all 通訳 situations: that may be acceptable for casual conversation, but in a medical emergency or a legal dispute, someone with professional credentials is needed, not just general language ability. When describing what their hotel can provide, specificity is important: 簡単な通訳であれば対応できます (I can manage basic interpretation) is more trustworthy than overpromising.
+A common error is confusing 通訳 with 翻訳. If a guest hands one a document and needs it in another language, that is 翻訳, not 通訳. Offering the wrong service sends people in the wrong direction and wastes everyone's time. A common error is also assuming that any bilingual colleague can handle all 通訳 situations: that may be acceptable for casual conversation, but in a medical emergency or a legal dispute, someone with professional credentials is needed, not just general language ability. When describing what their hotel can provide, specificity is important: 簡単な通訳であれば対応できます (I can manage basic interpretation) is more trustworthy than overpromising.
 
 ---
 

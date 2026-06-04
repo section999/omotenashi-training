@@ -16,11 +16,11 @@ This gym treadmill is prohibited from use due to a safety inspection.
 
 **使用禁止の表示がある機器はご利用になれませんので、ご了承ください。**  
 *Shiyou kinshi no hyouji ga aru kiki wa goriyou ni narenmasen node, goryoushou kudasai.*  
-Please note that equipment displaying a'do not use' sign cannot be operated.
+Please note that equipment displaying a 'do not use' sign cannot be operated.
 
 **プールの水質検査が完了次第、使用禁止を解除いたします。**  
 *Puuru no suishitsu kensa ga kanryou shidai, shiyou kinshi wo kaijo itashimasu.*  
-The pool's'do not use' restriction will be lifted as soon as the water quality inspection is complete.
+The pool's 'do not use' restriction will be lifted as soon as the water quality inspection is complete.
 
 ## Related Expressions
 

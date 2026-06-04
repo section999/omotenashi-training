@@ -31,7 +31,7 @@ We will verify your reservation details using your reservation number.
 
 ## Common Mistakes
 
-A common error is to mix up 予約番号 and 部屋番号 (room number), which is only assigned after check-in. Quoting a room number when asked for a reservation number sends the lookup in completely the wrong direction and wastes everyyour time. Note: is the register issue: saying 予約番号は？ to a guest instead of ご予約番号をお知らせください sounds abrupt and strips away the courteous tone that formal hospitality communication requires. The ご- prefix is expected here; it signals respect and keeps the interaction warm even in a purely transactional moment.
+A common error is to mix up 予約番号 and 部屋番号 (room number), which is only assigned after check-in. Quoting a room number when asked for a reservation number sends the lookup in completely the wrong direction and wastes everyone's time. Note: is the register issue: saying 予約番号は？ to a guest instead of ご予約番号をお知らせください sounds abrupt and strips away the courteous tone that formal hospitality communication requires. The ご- prefix is expected here; it signals respect and keeps the interaction warm even in a purely transactional moment.
 
 ---
 

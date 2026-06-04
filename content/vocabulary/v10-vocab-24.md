@@ -19,8 +19,8 @@ A separate handling fee will apply for bank transfers.
 The total amount including the handling fee is as follows.
 
 **手数料についてご不明な点がございましたらお申し付けください。**  
-*Tesuuryou ni tsuite go-fumeina ten ga gozaimashitara ommoshitsuke kudasai.*  
-Please let us know if one has any questions about the handling fee.
+*Tesuuryou ni tsuite go-fumeina ten ga gozaimashitara o-moushitsuke kudasai.*  
+Please let us know if you have any questions about the handling fee.
 
 ## Related Expressions
 

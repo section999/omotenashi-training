@@ -39,10 +39,10 @@ Saying 支払いしてください directly to a guest sounds demanding and impo
 **You want to tell a guest that payment is required at check-out. Which is BEST?**
 
 - A. 支払いしてください (please pay)
-- B. 支払いはチェックアウト時にお願いいたします (please pay at check-out)
+- B. お支払いはチェックアウト時にお願いいたします (please pay at check-out)
 - C. 支払い今 (pay now)
 - D. 支払いします (I will pay)
 
-**Correct Answer:** 支払いはチェックアウト時にお願いいたします (please pay at check-out)
+**Correct Answer:** お支払いはチェックアウト時にお願いいたします (please pay at check-out)
 
 **Explanation:** 支払いはチェックアウト時にお願いいたします uses お願いいたします to frame the payment request as a gentle ask rather than a demand, and gives the guest clear timing so there is no ambiguity. The other options are either grammatically broken, a command without context, or state the wrong subject entirely, staff paying rather than the guest.

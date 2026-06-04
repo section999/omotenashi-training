@@ -19,7 +19,7 @@ I will check your reservation details right now. Please wait just a moment.
 I will check the preparation status of the room and contact you shortly.
 
 **ご報告いただいた状況を確認いたしましたところ、すでに修理が完了しておりました。**  
-*Go-houkoku itadaita joukyou wo kakunin itashimashita tokoro, sudeni shuurii ga kanryou shite orimashita.*  
+*Go-houkoku itadaita joukyou wo kakunin itashimashita tokoro, sudeni shuuri ga kanryou shite orimashita.*  
 Upon checking the situation you reported, we found that the repair had already been completed.
 
 ## Related Expressions

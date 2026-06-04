@@ -14,7 +14,7 @@ In a hospitality context, the ルームサービス menu is typically found in t
 Room service is available 24 hours.
 
 **ルームサービスのご注文は、お部屋の電話で承っております。**  
-*Ruumu saabisu no go-chuumon wa, oheya no denwa de uketamaette orimasu.*  
+*Ruumu saabisu no go-chuumon wa, oheya no denwa de uketamawatte orimasu.*  
 Room service orders are taken by the room telephone.
 
 **ルームサービスのメニューはデスクの上においてございます。**  

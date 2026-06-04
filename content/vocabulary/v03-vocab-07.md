@@ -15,7 +15,7 @@ Beyond the guest experience, 禁煙 has legal and safety implications. Smoking i
 Is your reservation for a non-smoking room?
 
 **当ホテルの上層階はすべて禁煙フロアとなっております。**  
-*Tou-hoteru no joususou-kai wa subete kin'en-furoa to natte orimasu.*  
+*Tou-hoteru no jousoukai wa subete kin'en-furoa to natte orimasu.*  
 All upper floors of our hotel are non-smoking.
 
 **禁煙室でのご喫煙はご遠慮いただいております。お困りの際はフロントまでお申し付けください。**  

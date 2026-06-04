@@ -10,8 +10,8 @@ This means knowing airport transfer options inside out, which train lines serve 
 ## Example Sentences
 
 **出国の手続きには時間がかかる場合がございますので、早めに空港へお向かいください。**  
-*Shukkoku no tetsuzuki ni wa jikan ga kakaru baai ga gozaimasu node, hayame ni kuukou e omukaikudasai.*  
-Entry procedures can take time, so please head to the airport early.
+*Shukkoku no tetsuzuki ni wa jikan ga kakaru baai ga gozaimasu node, hayame ni kuukou e o-mukai kudasai.*  
+Departure procedures can take time, so please head to the airport early.
 
 **出国前に免税ショップでお買い物を楽しまれるお客様も多くいらっしゃいます。**  
 *Shukkoku mae ni menzei shoppu de okaimono wo tanoshimareru okyakusama mo ooku irasshaimasu.*  
