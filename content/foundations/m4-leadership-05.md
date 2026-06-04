@@ -39,7 +39,7 @@ The most powerful thing a leader in hospitality can do is to care about the gues
 **A leader wants to build a stronger culture of excellence in their team. Which action is most effective?**
 
 - A. Issue a formal policy document outlining expected conduct
-- B. Consistently model the standards they expect: in every interaction, every day: and create regular moments that celebrate excellent guest care
+- B. Consistently model the standards they expect: in every interaction, every day, and create regular moments that celebrate excellent guest care
 - C. Increase the frequency of formal performance reviews
 - D. Post the mission statement in a prominent location for all staff to see
 

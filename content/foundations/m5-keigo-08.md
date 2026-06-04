@@ -16,7 +16,7 @@ Like sonkeigo, the most important 謙譲語 verbs are irregular. They have compl
 | <span>いる</span> | <span>おります</span> | I am here |
 | <span>言う</span> | <span>申します</span> | I say |
 | <span>する</span> | <span>いたします</span> | I do |
-| <span>聞く / 訪ねる</span> | <span>伺います</span> | I ask / I visit |
+| <span>聞く / 尋ねる</span> | <span>伺います</span> | I ask / I visit |
 | <span>もらう</span> | <span>いただきます</span> | I humbly receive |
 | <span>見る</span> | <span>拝見します</span> | I look at / I read (humbly) |
 | <span>知る</span> | <span>存じます</span> | I know |

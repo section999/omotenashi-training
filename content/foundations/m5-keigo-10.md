@@ -57,7 +57,7 @@ These two forms are often used together. Each plays a distinct role.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>かしこまりました。ご予約を承りました。</code></span><br>
-<em>kashikomarimashita. go-yoyaku o uketawarimashita.</em><br>
+<em>kashikomarimashita. go-yoyaku o uketamawarimashita.</em><br>
 Certainly. I have received your reservation.
 </div>
 

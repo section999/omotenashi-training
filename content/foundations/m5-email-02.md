@@ -4,15 +4,15 @@ section: 2
 title: Opening Lines by Guest Relationship
 ---
 
-The opening line of a hotel email carries two messages simultaneously: what you are saying, and how well you know the person you are saying it to. Choosing the wrong opening signals that the hotel treats guests interchangeably. Choosing the right one communicates: "We know who you are."
+The opening line of a hotel email carries two messages simultaneously: what is being said, and how well the hotel understands the recipient. Choosing the wrong opening signals that guests are treated as interchangeable. Choosing the right one communicates: "We know who you are."
 
 ## Three Relationship Levels
 
 Hotel email openings fall into three relationship categories. Before writing any email, identify which category the guest belongs to.
 
-- **First-Time Guest:** No prior relationship. New booking, first inquiry, or first contact. The opening must close the gap with warmth and genuine welcome.
-- **Repeat Guest:** The guest has stayed before or has an ongoing relationship with the hotel. The opening must acknowledge this history explicitly.
-- **VIP / Corporate / Long-Term:** The guest has elevated status, a long history, or a formal business relationship. The opening requires refined language and sometimes personalization.
+- **First-Time Guest:** No prior relationship exists. This may be a new booking, a first inquiry, or initial contact. The opening must bridge the distance with warmth and a genuine sense of welcome.
+- **Repeat Guest:** The guest has stayed before or maintains an ongoing relationship with the hotel. The opening should explicitly acknowledge this history.
+- **VIP / Corporate / Long-Term Guest:** The guest has elevated status, an extended history, or a formal business relationship with the hotel. The opening requires more refined language and, where appropriate, a higher degree of personalization.
 
 ## Opening for First-Time Guests
 

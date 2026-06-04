@@ -1634,8 +1634,10 @@ function handleQuizCheck(btn) {
       opts[sel].classList.add('wrong');
       fb.className = 'quiz-feedback err';
       fb.textContent = '✗ Incorrect. ' + (qData.exp || 'Try again.');
-      opts[sel].classList.remove('wrong', 'selected');
-      btn.disabled = false;
+      setTimeout(function() {
+        opts[sel].classList.remove('wrong', 'selected');
+        btn.disabled = false;
+      }, 800);
     }
     return;
   }
@@ -1810,7 +1812,7 @@ document.addEventListener('keydown', e => {
     const quiz = document.querySelector('[data-qtype="mcq"]');
     if (!quiz) return;
     const fb = document.getElementById(quiz.dataset.qid + '-fb');
-    if (fb && fb.style.display === 'block') return;
+    if (fb && fb.classList.contains('ok')) return;
     const idx = e.key.toUpperCase().charCodeAt(0) - 65;
     const opts = quiz.querySelectorAll('.quiz-opt');
     if (idx < opts.length) {
@@ -1921,9 +1923,11 @@ let _toastTimer = null;
 let _activeSpeakEl = null;
 let _ttsQueue = [];
 let _ttsPlaying = false;
+let _dialogueActive = false;
 
 function speakJapanese(text, el) {
   if (!text) return;
+  if (_dialogueActive) return;
   _ttsQueue.push({ text, el });
   if (!_ttsPlaying) _ttsProcessQueue();
 }
@@ -2465,7 +2469,7 @@ function vocabShowScore(analysis, heard, confidence) {
   const score = analysis.score;
   const isGood = score >= 85, isOk = score >= 65;
   const cls = isGood ? 'ok' : isOk ? 'ok' : 'err';
-  const fillColor = isGood ? 'var(--accent-green)' : 'var(--accent-yellow)';
+  const fillColor = isGood ? 'var(--accent-green)' : isOk ? 'var(--accent-yellow)' : '#c5442a';
   const label = isGood ? 'Perfect!' : isOk ? 'Good' : 'Try Again';
   let matchCnt = 0, wrongCnt = 0, extraCnt = 0, missingCnt = 0;
   if (analysis.expected) analysis.expected.forEach(function(c) {
@@ -3636,7 +3640,7 @@ async function render() {
     'こちらが本日お会計でございます': 'kochira ga honjitsu o-kaikei de gozaimasu',
     'ミニバーのご利用はございましたか？': 'minibaa no go-riyou wa gozaimashita ka?',
     'こちらでご精算させていただきます': 'kochira de go-seisan sasete itadakimasu',
-    'ご滞在はいかがでしたでしょうか？': 'go-taihai wa ikaga deshita deshou ka?',
+    'ご滞在はいかがでしたでしょうか？': 'go-taizai wa ikaga deshita deshou ka?',
     'またのお越しを心よりお待ち申し上げております': 'mata no o-koshi o kokoro yori o-machi moushiagete orimasu',
     'お気をつけてお帰りくださいませ': 'o-ki o tsukete o-kaeri kudasaimase',
     'お会計です': 'o-kaikei desu',
@@ -3669,7 +3673,7 @@ async function render() {
     'ここから30分です': 'koko kara sanjuppun desu',
     '地図を持ってきます': 'chizu o motte kimasu',
     '待ってください': 'matte kudasai',
-    '結婚記念日なんですけど': 'kekkin kinenbi nan desu kedo',
+    '結婚記念日なんですけど': 'kekkon kinenbi nan desu kedo',
     'お部屋にシャンパンとお花をご用意させていただくことは可能でございます': 'o-heya ni shanpan to o-hana o go-youi sasete itadaku koto wa kanou de gozaimasu',
     'デザートプレートにメッセージをお入れすることもできますが、いかがでしょうか？': 'dezaato pureeto ni messeeji o o-ire suru koto mo dekimasu ga, ikaga deshou ka?',
     'お花のご希望の色などはございますか？': 'o-hana no go-kibou no iro nado wa gozaimasu ka?',
@@ -3779,6 +3783,7 @@ async function render() {
           this.textContent = '🔊 Listen';
           this.dataset.playing = '0';
           this.classList.remove('playing');
+          _dialogueActive = false;
           return;
         }
         const turns = [];
@@ -3798,6 +3803,7 @@ async function render() {
         this.textContent = '⏹ Stop';
         this.dataset.playing = '1';
         this.classList.add('playing');
+        _dialogueActive = true;
 
         // Show which voices are in use
         const voiceInfo = container.querySelector('.dialogue-voice-info');
@@ -3811,6 +3817,7 @@ async function render() {
             btn.textContent = '🔊 Listen';
             btn.dataset.playing = '0';
             btn.classList.remove('playing');
+            _dialogueActive = false;
             return;
           }
           const turn = turns[turnIdx++];
@@ -3819,6 +3826,12 @@ async function render() {
           const pitchOffset = (turn.role === 'guest') ? (useSecondary ? 0.15 : 0.35) : 0;
           const effectiveRate = (turn.role === 'guest' && !useSecondary) ? rate * 0.9 : rate;
           speakJp(turn.text, effectiveRate, voice, pitchOffset);
+          if (!speechSynthesis.speaking) {
+            btn.textContent = '🔊 Listen';
+            btn.dataset.playing = '0';
+            btn.classList.remove('playing');
+            return;
+          }
           const pollTurn = setInterval(() => {
             if (btn.dataset.playing !== '1') { clearInterval(pollTurn); return; }
             if (!speechSynthesis.speaking) {

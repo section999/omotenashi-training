@@ -132,4 +132,4 @@ How would you like to handle breakfast?
 
 **Correct Answer:** C
 
-**Explanation:** The guest is performing the check-in action, so 尊敬語 is required. なさいます is the sonkeigo form of する, making option C correct. Option A uses plain language. Option B uses いたす, which is 謙譲語 and implies the staff is checking in. Option D is grammatically awkward and not standard hotel keigo. The guest's actions always require the honorific form.
+**Explanation:** The guest is performing the check-in action, so 尊敬語 is required. Option C uses `○○でいらっしゃいますか`, the standard sonkeigo pattern for confirming the guest's purpose or identity, making it the correct choice. Option A uses plain language. Option B uses いたす, which is 謙譲語 and implies the staff is checking in. Option D is grammatically awkward and not standard hotel keigo. The guest's actions always require the honorific form.
