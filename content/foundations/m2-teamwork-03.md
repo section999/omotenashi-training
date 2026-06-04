@@ -32,7 +32,7 @@ A guest who is seamlessly passed between departments feels that the property ope
 **A front desk staff member finishes checking in a guest and says, "Please wait here while I find someone to take you to your room." A few minutes later, a bell attendant arrives and introduces themselves to the guest for the first time. What is the core problem with this interaction?**
 
 - A. The front desk staff member should have escorted the guest personally rather than delegating
-- B. This is a visible handoverthe guest feels transferred rather than continuously welcomed. The front desk staff should have communicated ahead so the bell attendant was already informed and could be introduced by name
+- B. This is a visible handover; the guest feels transferred rather than continuously welcomed. The front desk staff should have communicated ahead so the bell attendant was already informed and could be introduced by name
 - C. The guest should have been given a map and directed to their room independently
 - D. The bell attendant should have been waiting at the front desk before the guest arrived
 

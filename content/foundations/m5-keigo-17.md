@@ -60,7 +60,7 @@ Loanwords (外来語) from English and other languages never take お or ご. Ad
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>エレベーターはこちらでございます。</code></span><br>
-<em>erebeta wa kochira de gozaimasu.</em><br>
+<em>erebeetaa wa kochira de gozaimasu.</em><br>
 The elevator is this way.
 </div>
 

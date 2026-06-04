@@ -31,7 +31,7 @@ It is useful to know the top local omiyage options in advance: what they are, wh
 
 **A guest in your gift shop picks up a large, beautifully packaged box of premium confectionery and says, "This looks perfect to bring back to my office." You notice the sweets are a single large cake rather than individually wrapped portions. What should you advise?**
 
-- A. "This is a wonderful choiceit is from a famous local maker and your colleagues will appreciate the quality."
+- A. "This is a wonderful choice; it is from a famous local maker and your colleagues will appreciate the quality."
 - B. "This is a high-quality item. However, since omiyage is meant to be shared among a group, you may prefer something individually wrapped so each person can receive their own portion easily."
 - C. "You should buy two boxes to ensure there is enough for everyone."
 - D. "Don't worry; your colleagues can cut the cake and share it themselves."

@@ -51,7 +51,7 @@ Tells the guest exactly what is happening. Since the guest cannot see the staff 
 <div class="keigo-card blue">
 <span class="keigo-pair-label">Step 6: Result</span>
 <span class="keigo-jp"><code>かしこまりました。6月10日から2泊、ツインルームにて承っております。</code></span><br>
-<em>kashikomarimashita. rokugatsu touka kara nihaku, tsuin ruumu nite uketsukete orimasu.</em><br>
+<em>kashikomarimashita. rokugatsu touka kara nihaku, tsuin ruumu nite uketamawatte orimasu.</em><br>
 Certainly. We have your reservation: twin room, June 10th for two nights.<br><br>
 Confirms that the transaction was completed correctly. The guest should leave this step with no uncertainty about what was processed.
 </div>

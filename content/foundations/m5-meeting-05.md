@@ -13,7 +13,7 @@ Facility, maintenance, and time vocabulary allows you to describe physical probl
 | <span>客室<br><em>kyakushitsu</em></span> | guest room |
 | <span>フロント<br><em>furonto</em></span> | front desk |
 | <span>レストラン<br><em>resutoran</em></span> | restaurant |
-| <span>空調<br><em>kuchou</em></span> | air conditioning |
+| <span>空調<br><em>kuuchou</em></span> | air conditioning |
 | <span>清掃<br><em>seisou</em></span> | cleaning / housekeeping |
 | <span>設備<br><em>setsubi</em></span> | facility / equipment |
 | <span>廊下<br><em>rouka</em></span> | corridor / hallway |

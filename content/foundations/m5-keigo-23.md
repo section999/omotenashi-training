@@ -18,7 +18,7 @@ I will carry your luggage.<br><br>
 <em>o-nimotsu wa o-azukari itashimasu.</em><br>
 I will hold your luggage for you.<br><br>
 <span class="keigo-jp"><code>タクシーをご手配いたします。</code></span><br>
-<em>takushi o go-tehai itashimasu.</em><br>
+<em>takushii o go-tehai itashimasu.</em><br>
 I will arrange a taxi for you.<br><br>
 <span class="keigo-jp"><code>ご不明な点はいつでもお申し付けくださいませ。</code></span><br>
 <em>go-fumei na ten wa itsu demo o-moushitsuke kudasaimase.</em><br>

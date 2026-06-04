@@ -32,10 +32,10 @@ Every handover entry uses the same structure. This makes scanning fast even unde
 <div class="keigo-card blue">
 <strong>[Location/Guest] + [Issue/Request] + [Status]</strong><br><br>
 <span class="keigo-badge info">Example</span> <span class="keigo-jp"><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br>
-<em>305 goushitsu: kuchou furyou. shuri tehaizumi (ashita taiou yotei).</em><br>
+<em>305 goushitsu: kuuchou furyou. shuri tehaizumi (ashita taiou yotei).</em><br>
 Room 305: AC issue. Repair arranged (planned for tomorrow).<br><br>
 <span class="keigo-badge info">Example</span> <span class="keigo-jp"><code>501号室：延泊希望あり。フロント確認待ち。</code></span><br>
-<em>501 goushitsu: nobe haku kibou ari. furonto kakunin machi.</em><br>
+<em>501 goushitsu: enpaku kibou ari. furonto kakunin machi.</em><br>
 Room 501: Extension request. Awaiting front desk confirmation.<br><br>
 Three questions this format answers: What happened? To whom? What was done?
 </div>

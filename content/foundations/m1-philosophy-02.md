@@ -71,4 +71,4 @@ Over time, these small actions shape the quality of the guest experience and hel
 
 **Correct Answer:** B
 
-**Explanation:** Ichi-go ichi-e originates in the tea ceremony tradition of Sen no Rikyu and carries directly into professional hospitality. Because this exact encounter, with this person, at this moment, will never happen again in quite the same way, the host owes it complete attention and preparation. It is both a philosophical stance and a daily discipline.
+**Explanation:** Ichi-go ichi-e originates in the tea ceremony tradition of Sen no Rikyū and carries directly into professional hospitality. Because this exact encounter, with this person, at this moment, will never happen again in quite the same way, the host owes it complete attention and preparation. It is both a philosophical stance and a daily discipline.

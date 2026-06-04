@@ -26,7 +26,7 @@ VIP guest entries require the guest's name, room number, and any special arrange
 | <span>ご予約<br><em>go-yoyaku</em></span> | reservation |
 | <span>チェックイン<br><em>chekkuin</em></span> | check-in |
 | <span>チェックアウト<br><em>chekkuauto</em></span> | check-out |
-| <span>延泊<br><em>nobe haku</em></span> | extended stay |
+| <span>延泊<br><em>enpaku</em></span> | extended stay |
 | <span>早退<br><em>soutai</em></span> | early departure |
 | <span>キャンセル<br><em>kyanseru</em></span> | cancellation |
 | <span>ノーショー<br><em>nooshoo</em></span> | no-show |

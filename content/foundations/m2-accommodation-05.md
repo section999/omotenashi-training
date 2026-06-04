@@ -18,7 +18,7 @@ Only after this acknowledgement should the bill or formalities follow. Leading w
 
 In a ryokan, staff traditionally accompany the guest to the entrance and remain there, bowing, until the guest's vehicle is out of sight. This is called **お見送り**, the send-off. It communicates that the guest's departure is genuinely felt, not simply processed.
 
-Even in hotel contexts where a full osōkuri is impractical, the principle still applies. Make eye contact, bow, and do not turn away until the guest has passed through the door.
+Even in hotel contexts where a full omiokuri is impractical, the principle still applies. Make eye contact, bow, and do not turn away until the guest has passed through the door.
 
 ## The Personal Close
 
@@ -38,9 +38,9 @@ A farewell that shows the guest was remembered, not just processed, is the signa
 
 - A. Quickly hand the departing guest their luggage, apologise, and return to assist the new guest
 - B. Politely ask the departing guest to wait while you handle the new guest's question
-- C. Signal to the new guest that you have seen them, then stay with the departing guest for the full osōkuriremaining until their vehicle is out of sight
+- C. Signal to the new guest that you have seen them, then stay with the departing guest for the full omiokuri, remaining until their vehicle is out of sight
 - D. Tell the departing guest, "Please wait a moment," handle the new guest quickly, then return for the farewell
 
 **Correct Answer:** C
 
-**Explanation:** Osōkuri is the formal send-off and the guest's final impression of the property. Cutting it short sends a message that the next person matters more than the person leaving. Acknowledging the new guest with eye contact and a nod shows awareness without abandoning the farewell. Once the departing guest is gone, you can attend to the new guest fully. Rushing the farewell undermines days of excellent service.
+**Explanation:** Omiokuri is the formal send-off and the guest's final impression of the property. Cutting it short sends a message that the next person matters more than the person leaving. Acknowledging the new guest with eye contact and a nod shows awareness without abandoning the farewell. Once the departing guest is gone, you can attend to the new guest fully. Rushing the farewell undermines days of excellent service.

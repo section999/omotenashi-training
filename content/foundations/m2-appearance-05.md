@@ -43,4 +43,4 @@ When interacting with a group of guests, distribute eye contact evenly. Consiste
 
 **Correct Answer:** B
 
-**Explanation:** Using an open hand with palm up and fingers together is the correct, respectful way to indicate direction in Japanese hospitality. Even when your hands are occupied, taking a moment to set items down and gesture properly is worth the pauseit avoids the rudeness of pointing and the ambiguity of a nod or chin gesture. Leading in silence removes the guest's autonomy to choose their own path.
+**Explanation:** Using an open hand with palm up and fingers together is the correct, respectful way to indicate direction in Japanese hospitality. Even when your hands are occupied, taking a moment to set items down and gesture properly is worth the pause; it avoids the rudeness of pointing and the ambiguity of a nod or chin gesture. Leading in silence removes the guest's autonomy to choose their own path.

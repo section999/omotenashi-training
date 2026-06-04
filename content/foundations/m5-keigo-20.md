@@ -20,7 +20,7 @@ I will confirm that right now.<br><br>
 <em>o-heya made go-annai itashimasu.</em><br>
 I will guide you to your room.<br><br>
 <span class="keigo-jp"><code>ご予約を承りました。</code></span><br>
-<em>go-yoyaku o uketawarimashita.</em><br>
+<em>go-yoyaku o uketamawarimashita.</em><br>
 I have received your reservation.
 </div>
 

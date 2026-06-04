@@ -27,7 +27,7 @@ Certainly. I will confirm that right now.<br><br>
 <em>kashikomarimashita. o-heya made go-annai itashimasu.</em><br>
 Certainly. I will guide you to your room.<br><br>
 <span class="keigo-jp"><code>かしこまりました。ご予約を承りました。</code></span><br>
-<em>kashikomarimashita. go-yoyaku o uketawarimashita.</em><br>
+<em>kashikomarimashita. go-yoyaku o uketamawarimashita.</em><br>
 Certainly. I have received your reservation.
 </div>
 

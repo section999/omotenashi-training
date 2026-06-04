@@ -34,10 +34,10 @@ Guests participating in these customs will often look to staff for guidance, whe
 **A Japanese business guest is browsing your hotel's gift shop before heading home. They seem anxious and say, "I've been on a business trip for a week and need to bring something back for my team. I'm not sure what's appropriate." Which concept best explains their underlying concern?**
 
 - A. They want to impress their boss with the most expensive item available
-- B. They feel a sense of girisocial dutyto acknowledge their team and affirm the relationship by bringing gifts from their travels
+- B. They feel a sense of giri (social duty) to acknowledge their team and affirm the relationship by bringing gifts from their travels
 - C. They are worried about exceeding their luggage weight limit
 - D. They want a gift that reflects the latest seasonal trends
 
 **Correct Answer:** B
 
-**Explanation:** Giri is the sense of social duty that motivates gift-giving in Japanese culture. Returning from a trip without omiyage for colleagues carries genuine social weight. The guest's anxiety about choosing something appropriate reflects this sense of obligation to maintain workplace relationshipsnot mere materialism, logistics, or fashion concerns.
+**Explanation:** Giri is the sense of social duty that motivates gift-giving in Japanese culture. Returning from a trip without omiyage for colleagues carries genuine social weight. The guest's anxiety about choosing something appropriate reflects this sense of obligation to maintain workplace relationships, not mere materialism, logistics, or fashion concerns.

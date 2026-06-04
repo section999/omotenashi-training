@@ -59,9 +59,9 @@ The reservation was cancelled.<br><br>
 <div class="good-col">
 <span class="keigo-pair-label">Professional and Neutral</span>
 <span class="keigo-jp"><code>キャンセルを承りました</code></span>
-<br><em>kyanseru wo uketsukemashita</em><br>
+<br><em>kyanseru wo uketamawarimashita</em><br>
 Your cancellation has been received.<br><br>
-<span class="keigo-badge good">Why it works</span> 承る (uketsukeru) carries a nuance of respectfully receiving. It signals completion without coldness; the relationship is preserved.
+<span class="keigo-badge good">Why it works</span> 承る (uketamawaru) carries a nuance of respectfully receiving. It signals completion without coldness; the relationship is preserved.
 </div>
 </div>
 
@@ -101,4 +101,4 @@ This matters because **guests who cancel due to circumstances beyond their contr
 
 **Correct Answer:** C
 
-**Explanation:** 承る (uketsukeru) carries the nuance of respectfully receiving or handling. Used here, it signals completion in a way that maintains service dignity; the interaction closes professionally, not coldly. キャンセルしました sounds transactional and signals that the relationship is simply over.
+**Explanation:** 承る (uketamawaru) carries the nuance of respectfully receiving or handling. Used here, it signals completion in a way that maintains service dignity; the interaction closes professionally, not coldly. キャンセルしました sounds transactional and signals that the relationship is simply over.

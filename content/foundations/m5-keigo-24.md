@@ -36,7 +36,7 @@ The guest is eating.
 The guest is walking to the elevator.<br><br>
 <span class="vocab-example-label">Keigo form</span>
 <span class="keigo-jp"><code>エレベーターへいらっしゃいますか。こちらでございます。ご案内いたします。</code></span><br>
-<em>erebeta e irasshaimasu ka. kochira de gozaimasu. go-annai itashimasu.</em><br>
+<em>erebeetaa e irasshaimasu ka. kochira de gozaimasu. go-annai itashimasu.</em><br>
 Are you heading to the elevator? It is this way. I will guide you.
 </div>
 

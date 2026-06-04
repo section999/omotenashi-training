@@ -60,7 +60,7 @@ Room changes, late check-outs, behavioral concerns, medical notes.
 <span class="keigo-jp"><code>申し送り</code></span> (moushiokuri), the written handover notes<br>
 <em>moushiokuri</em><br>
 <span class="keigo-jp"><code>対応中</code></span> (taiouchuu), currently being handled<br>
-<em>taiou chu</em><br>
+<em>taiouchuu</em><br>
 <span class="keigo-jp"><code>要対応</code></span> (youtaiou), requires action<br>
 <em>you taiou</em><br>
 <span class="keigo-jp"><code>対応済み</code></span> (taiouzumi), already handled<br>

@@ -32,7 +32,7 @@ Staff who understand how these rooms are designed can explain them to curious gu
 **A guest staying in a washitsu calls the front desk and asks, "Would it be all right if I set my camera on the shelf inside the alcove to take a photo of the room?" What should you say?**
 
 - A. "Of course, take your time."
-- B. "I'm sorry, but that alcove is the tokonomait is for display only. Nothing should be placed inside it. May I suggest using the chabudai table instead?"
+- B. "I'm sorry, but that alcove is the tokonoma; it is for display only. Nothing should be placed inside it. May I suggest using the chabudai table instead?"
 - C. "Yes, but please be careful not to damage the scroll."
 - D. "I will ask housekeeping to move the flower arrangement so you have more room."
 

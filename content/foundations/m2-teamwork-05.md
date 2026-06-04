@@ -33,7 +33,7 @@ A team culture where surfacing bad news is treated as responsible rather than pu
 ---
 ## Quiz
 
-**You are starting the evening front desk shift. The morning shift's written notes say only: "Some guests had issues this morning. Check the system for details." When you ask the outgoing staff member for specifics, they shrug and say, "I cannot remember exactlyit was a busy morning." What is the core problem here, and what should have been done differently?**
+**You are starting the evening front desk shift. The morning shift's written notes say only: "Some guests had issues this morning. Check the system for details." When you ask the outgoing staff member for specifics, they shrug and say, "I cannot remember exactly; it was a busy morning." What is the core problem here, and what should have been done differently?**
 
 - A. The morning shift was too lazy to write proper notesthey should be reported to management
 - B. The shift notes lack specific, actionable information about guest issues, so the incoming team cannot provide continuity of care. Each issue should have been recorded with the guest's room number, the nature of the problem, and any action taken or needed
@@ -42,4 +42,4 @@ A team culture where surfacing bad news is treated as responsible rather than pu
 
 **Correct Answer:** B
 
-**Explanation:** A guest's stay does not pause when the team changes. Vague notes like "some guests had issues" are useless to the incoming teamthey do not know which guests were affected, what the issues were, or what follow-up is needed. Shift notes must be clear, factual, and specific: who, what happened, what was done. Without that, care gaps are inevitable. The guest experiencing the gap does not know about shift changes; they just know they were not remembered.
+**Explanation:** A guest's stay does not pause when the team changes. Vague notes like "some guests had issues" are useless to the incoming team; they do not know which guests were affected, what the issues were, or what follow-up is needed. Shift notes must be clear, factual, and specific: who, what happened, what was done. Without that, care gaps are inevitable. The guest experiencing the gap does not know about shift changes; they just know they were not remembered.

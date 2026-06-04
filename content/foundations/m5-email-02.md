@@ -50,7 +50,7 @@ It has been a while. Thank you very much for booking with us again on this occas
 Thank you sincerely for your continued and generous patronage.
 </div>
 
-Key phrases: 平素より (heizo yori) means "always" with more formal weight than いつも. 格別のご愛顧 (kakubetsu no go-aiko) means "generous patronage," elevated over ordinary repeat-guest language. 賜り (tamawari) expresses humble receiving, more formal than いただき.
+Key phrases: 平素より (heiso yori) means "always" with more formal weight than いつも. 格別のご愛顧 (kakubetsu no go-aiko) means "generous patronage," elevated over ordinary repeat-guest language. 賜り (tamawari) expresses humble receiving, more formal than いただき.
 
 Use this opening for VIP guests, corporate accounts, or guests with long histories at luxury properties.
 

@@ -4,7 +4,7 @@ section: 1
 title: Kaiseki, The Philosophy of the Seasonal Table
 ---
 
-**Kaiseki (懐石)** is the multi-course haute cuisine tradition of Japan. It represents the highest level of Japanese culinary hospitality. The word originally referred to a warm stone (*kaishi*, 懐石) that Zen monks placed against their stomachs to ease hunger during long meditation sessions, a reminder that kaiseki began not with abundance, but with restraint and mindfulness.
+**Kaiseki (懐石)** is the multi-course haute cuisine tradition of Japan. It represents the highest level of Japanese culinary hospitality. The word originally referred to a warm stone (*kaiseki*, 懐石) that Zen monks placed against their stomachs to ease hunger during long meditation sessions, a reminder that kaiseki began not with abundance, but with restraint and mindfulness.
 
 Today, kaiseki is a sequence of small, carefully prepared courses, each responding to the season. Every element, the ingredients, the preparation method, the vessel, the colour arrangement, the temperature, reflects the current moment in the natural year. Kaiseki is not a fixed menu. It is a living expression of the season that changes as ingredients reach their peak.
 

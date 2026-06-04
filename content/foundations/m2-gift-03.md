@@ -11,7 +11,7 @@ In Japanese gift culture, how a gift is presented is as important as what it con
 A noshi is the decorative emblem attached to the front of a gift box. Originally a strip of dried abalone, it has long since become a printed paper symbol. Noshi paper (熨斗紙) carries two written elements:
 
 <div class="keigo-card blue">
-<span class="keigo-badge info">Uwagaki (上書き)</span> the purpose or occasion of the gift, written above the ribbon pattern (e.g., *御礼* for gratitude, *御中元* for a mid-year gift)<br><br><span class="keigo-badge info">Shasho (差出人)</span> the giver's name, written below the ribbon pattern
+<span class="keigo-badge info">Uwagaki (上書き)</span> the purpose or occasion of the gift, written above the ribbon pattern (e.g., *御礼* for gratitude, *御中元* for a mid-year gift)<br><br><span class="keigo-badge info">Sashidashinin (差出人)</span> the giver's name, written below the ribbon pattern
 </div>
 
 
@@ -42,11 +42,11 @@ When a guest presents a gift to staff, it should be accepted with both hands, a 
 
 **Your property is preparing a thank-you gift for a corporate client who has hosted a large event at your venue. You need to attach a noshi paper. Where should you write "御礼" (gratitude) on the noshi?**
 
-- A. Above the ribbon patternthe uwagaki positionindicating the purpose of the gift
-- B. Below the ribbon patternthe shasho positionsince it describes the gift
+- A. Above the ribbon pattern (the uwagaki position), indicating the purpose of the gift
+- B. Below the ribbon pattern (the sashidashinin position), since it describes the gift
 - C. On the back of the noshi paper, hidden from view
 - D. Either position is acceptable as long as the writing is neat
 
 **Correct Answer:** A
 
-**Explanation:** On a noshi, the two text positions have fixed roles. The uwagaki (above the ribbon) states the occasion or purposesuch as 御礼 for gratitude. The giver's name goes in the shasho position below. Confusing the two positions would be a real error in formal gift presentation, making the property appear unprepared.
+**Explanation:** On a noshi, the two text positions have fixed roles. The uwagaki (above the ribbon) states the occasion or purpose, such as 御礼 for gratitude. The giver's name goes in the sashidashinin position below. Confusing the two positions would be a real error in formal gift presentation, making the property appear unprepared.

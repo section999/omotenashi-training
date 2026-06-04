@@ -10,7 +10,7 @@ Restaurant service requires precise keigo for seating, taking orders, presenting
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>何名様でいらっしゃいますか。</code></span><br>
-<em>nannmei-sama de irasshaimasu ka.</em><br>
+<em>nanmei-sama de irasshaimasu ka.</em><br>
 How many in your party?<br><br>
 <span class="keigo-jp"><code>こちらのお席へどうぞ。</code></span><br>
 <em>kochira no o-seki e douzo.</em><br>
