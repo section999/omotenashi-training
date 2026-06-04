@@ -1640,6 +1640,7 @@
 
     function toggleTree(el, id) {
       var t = document.getElementById(id);
+      if (!t) return;
       t.classList.toggle('open');
       el.setAttribute('aria-expanded', t.classList.contains('open') ? 'true' : 'false');
     }

@@ -998,7 +998,7 @@ var GameSpeedMatch={
     this.render();
   },
   barColor:function(pct){
-    if(pct>50)return 'var(--accent-yellow)';
+    if(pct>50)return 'var(--accent-green)';
     if(pct>25)return 'var(--accent-yellow)';
     return 'var(--accent-red)';
   },
@@ -1234,7 +1234,6 @@ var GameBlank={
       });
     });
     var opts=shuffle(pool).slice(0,3);
-    while(opts.length<3)opts.push(correct);
     opts.push(correct);
     shuffle(opts);
     return {display:display.join(''),correct:correct,options:opts};

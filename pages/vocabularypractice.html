@@ -270,13 +270,15 @@ function escHtml(s) {
   return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 function fcKey(f) { return 'omotenashi:fc:' + f; }
-function getStatus(f) { return localStorage.getItem(fcKey(f)); }
+function getStatus(f) { try { return localStorage.getItem(fcKey(f)); } catch(e) { return null; } }
 function setStatus(f, s) {
-  localStorage.setItem(fcKey(f), s);
-  if (s === 'know') {
-    const m = f.match(/\/([^/]+)-(\d+)\.md$/);
-    if (m) localStorage.setItem('omotenashi:' + m[1] + ':' + parseInt(m[2], 10), '1');
-  }
+  try {
+    localStorage.setItem(fcKey(f), s);
+    if (s === 'know') {
+      const m = f.match(/\/([^/]+)-(\d+)\.md$/);
+      if (m) localStorage.setItem('omotenashi:' + m[1] + ':' + parseInt(m[2], 10), '1');
+    }
+  } catch(e) {}
 }
 function allKnownCount() { return ALL_FILES.filter(f => getStatus(f) === 'know').length; }
 

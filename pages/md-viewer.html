@@ -3398,7 +3398,7 @@ function simShowResult() {
   document.getElementById('chatChoices').innerHTML = '';
   const pct = Math.round((_simTotalScore / _simMaxScore) * 100);
   const m = _simFileId.match(/(\d+)\.md$/);
-  if (m) localStorage.setItem('omotenashi:simulator:' + parseInt(m[1]), '1');
+  if (m) try { localStorage.setItem('omotenashi:simulator:' + parseInt(m[1], 10), '1'); } catch(e) {}
   document.getElementById('modalSectionTitle').textContent = _simScenario.title;
   const fill = document.getElementById('modalProgressFill');
   fill.style.width = pct + '%';

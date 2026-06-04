@@ -450,33 +450,37 @@ function countModuleDone(mod) {
 
 function countVocabFlashcards() {
   let known = 0, learning = 0;
-  for (let i = 0; i < localStorage.length; i++) {
-    const key = localStorage.key(i);
-    if (!key.startsWith('omotenashi:fc:')) continue;
-    const val = localStorage.getItem(key);
-    if (val === 'know') known++;
-    else if (val === 'learning') learning++;
-  }
+  try {
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (!key || !key.startsWith('omotenashi:fc:')) continue;
+      const val = localStorage.getItem(key);
+      if (val === 'know') known++;
+      else if (val === 'learning') learning++;
+    }
+  } catch(e) {}
   return { known, learning };
 }
 
 function getDueReviews() {
   const now = Date.now();
   const due = [];
-  for (let i = 0; i < localStorage.length; i++) {
-    const key = localStorage.key(i);
-    if (!key.startsWith('omotenashi:srs:')) continue;
-    try {
-      const data = JSON.parse(localStorage.getItem(key));
-      if (data.nextReview && data.nextReview <= now) {
-        const file = key.replace('omotenashi:srs:', '');
-        const parts = file.split('/');
-        const raw = parts[parts.length - 1].replace('.md', '');
-        const name = raw.replace(/-/g, ' ');
-        due.push({ file, name, reps: data.reps || 0 });
-      }
-    } catch(e) {}
-  }
+  try {
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (!key || !key.startsWith('omotenashi:srs:')) continue;
+      try {
+        const data = JSON.parse(localStorage.getItem(key));
+        if (data.nextReview && data.nextReview <= now) {
+          const file = key.replace('omotenashi:srs:', '');
+          const parts = file.split('/');
+          const raw = parts[parts.length - 1].replace('.md', '');
+          const name = raw.replace(/-/g, ' ');
+          due.push({ file, name, reps: data.reps || 0 });
+        }
+      } catch(e) {}
+    }
+  } catch(e) {}
   return due;
 }
 

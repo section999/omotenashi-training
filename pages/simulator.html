@@ -339,7 +339,8 @@ function updateSetupStats() {
   const val = document.getElementById('simSetupCat').value;
   const ids = val === 'all' ? Array.from({length: 100}, (_, i) => i + 1) : SIM_CATEGORIES[parseInt(val)].ids;
   const count = ids.length;
-  const done = ids.filter(id => localStorage.getItem('omotenashi:simulator:' + id) === '1').length;
+  let done = 0;
+  try { done = ids.filter(id => localStorage.getItem('omotenashi:simulator:' + id) === '1').length; } catch(e) {}
   const doneStr = done > 0 ? ' &nbsp;<span style="color:var(--accent-green);font-size:0.85em">' + done + '/' + count + ' completed</span>' : '';
   document.getElementById('setupStats').innerHTML = '<strong>' + count + '</strong> scenario' + (count !== 1 ? 's' : '') + ' available' + doneStr;
 }

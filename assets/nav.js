@@ -144,10 +144,12 @@ function updateBanner(name) {
 }
 function exportProgress() {
   var data = {};
-  for (var i = 0; i < localStorage.length; i++) {
-    var k = localStorage.key(i);
-    if (k && k.startsWith('omotenashi:')) data[k] = localStorage.getItem(k);
-  }
+  try {
+    for (var i = 0; i < localStorage.length; i++) {
+      var k = localStorage.key(i);
+      if (k && k.startsWith('omotenashi:')) data[k] = localStorage.getItem(k);
+    }
+  } catch(e) {}
   var blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
   var a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
@@ -209,6 +211,8 @@ function submitSignIn() {
 
 // Init banner
 (function () {
-  var name = localStorage.getItem('omotenashi:user:name');
-  if (name) updateBanner(name);
+  try {
+    var name = localStorage.getItem('omotenashi:user:name');
+    if (name) updateBanner(name);
+  } catch(e) {}
 })();
