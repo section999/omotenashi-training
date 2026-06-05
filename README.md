@@ -3,14 +3,36 @@
 ## Project Structure
 
 ```
-index.html           - course home page
-lesson/index.html    - lesson viewer
-src/
-  data/course.js     - course and module data
-  features/          - page-specific JS modules
-  styles/            - CSS (tokens, base, components)
-content/modules/     - lesson content (m1-m10)
-platform.yaml        - deployment config
+index.html                    - home page with continue banner
+404.html                      - custom 404 page
+manifest.json                 - PWA manifest
+sw.js                         - service worker
+
+pages/
+  curriculum.html             - lesson tree with progress tracking
+  md-viewer.html              - Markdown content renderer (lessons + vocab)
+  dashboard.html              - SRS queue and stats
+  games.html                  - 6 vocabulary games
+  languagedojo.html           - language practice hub
+  vocabularypractice.html     - flashcard and dictation drills
+  simulator.html              - chat-based role-play simulator
+
+assets/
+  tokens.css                  - shared CSS design tokens (dark + light mode)
+  nav.css                     - shared navigation styles
+  nav-template.js             - nav HTML renderer
+  nav.js                      - nav interactions (search, theme, sign-in, progress export)
+  search.js                   - search index data
+  search-init.js              - initializes nav search on page load
+  analytics.js                - analytics
+
+content/
+  foundations/                - 99 foundation lesson files (f01.md - f99.md)
+  vocabulary/
+    v01/ - v15/               - 429 vocabulary files (15 topic sets)
+
+scenarios/
+  01.md - 100.md              - simulator scenario files (100 scenarios)
 ```
 
 ## Running Locally
