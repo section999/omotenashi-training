@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <link rel="icon" type="image/png" href="../assets/favicon-32x32.png" />
   <link rel="manifest" href="../manifest.json" />
   <link rel="stylesheet" href="../assets/tokens.css" />
@@ -365,6 +365,7 @@ function startSimulator() {
 function showSetupScreen() {
   if (_simActiveRec) { _simActiveRec.abort(); _simActiveRec = null; }
   if (_simNextTimer) { clearTimeout(_simNextTimer); _simNextTimer = null; }
+  if (window.speechSynthesis) speechSynthesis.cancel();
   document.getElementById('setupScreen').style.display = '';
   document.getElementById('simScreen').style.display = 'none';
   document.getElementById('modalOverlay').classList.remove('open');
@@ -389,9 +390,12 @@ async function loadScenario(id) {
   const file = 'scenarios/' + String(id).padStart(2, '0') + '.md';
   document.getElementById('simContent').innerHTML = '<div class="sim-loading">Loading scenario\u2026</div>';
   updateQueueProgress();
+  const _ctrl = new AbortController();
+  const _tid = setTimeout(() => _ctrl.abort(), 8000);
   try {
     const base = location.pathname.replace(/\/pages\/[^/]*$/, '/');
-    const res = await fetch(base + file);
+    const res = await fetch(base + file, { signal: _ctrl.signal });
+    clearTimeout(_tid);
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const raw = (await res.text()).replace(/\r\n/g, '\n');
     const scenario = parseMD(raw);
@@ -771,7 +775,7 @@ function simMatchChoice(transcript, choices) {
     else { let mc = 0; for (let i = 0; i < t.length; i++) { if (ct.indexOf(t[i]) >= 0) mc++; } score = (mc / Math.max(t.length, ct.length)) * 50; }
     if (score > bestScore) { bestScore = score; bestIdx = idx; }
   });
-  return bestScore > 30 ? bestIdx : null;
+  return bestScore > 50 ? bestIdx : null;
 }
 
 // ── VOICE GUIDE ────────────────────────────────────────────────────────────────

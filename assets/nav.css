@@ -1,3 +1,15 @@
+/* ── iOS SAFE-AREA (notch / Dynamic Island) ──────────────────────────────── */
+.nav {
+  padding-top: env(safe-area-inset-top, 0px);
+}
+.nav-inner {
+  padding-left: max(16px, calc(16px + env(safe-area-inset-left, 0px)));
+  padding-right: max(16px, calc(16px + env(safe-area-inset-right, 0px)));
+}
+body {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
 /* ── ACCESSIBILITY ───────────────────────────────────────────────────────── */
 :focus-visible {
   outline: 2px solid #f1be32;
