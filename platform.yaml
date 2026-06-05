@@ -1,1 +1,4 @@
 site: omotenashi-training
+
+build:
+  output: .
