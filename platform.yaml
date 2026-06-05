@@ -2,6 +2,8 @@ site: omotenashi-training
 
 build:
   output: .
+
+deploy:
   ignore:
     - content/**
     - "**/*.md"
