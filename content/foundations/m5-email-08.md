@@ -49,12 +49,10 @@ Check-in begins at 15:00.<br><br>
 <span class="keigo-pair-label">Use soft verb forms for requests</span>
 <span class="keigo-jp"><code>パスポートをご持参いただけますと幸いでございます。</code></span><br>
 <em>pasupouto o go-jisan itadakemasu to saiwai de gozaimasu.</em><br>
-We would appreciate it if you could bring your passport.<br><br>
-<span class="keigo-pair-label">One topic per paragraph</span>
-Do not combine reservation details with parking instructions in the same paragraph. Each paragraph should cover one subject only.
+We would appreciate it if you could bring your passport.
 </div>
 
-でございます is professional without being stiff. ○○いただけますと幸いでございます is softer than ○○ください and more appropriate for guest-facing requests. Long compound sentences are harder to read; break them into shorter units.
+でございます is professional without being stiff. ○○いただけますと幸いでございます is softer than ○○ください and more appropriate for guest-facing requests. Keep each paragraph focused on a single topic — do not combine reservation details with parking instructions, for example. Long compound sentences are harder to read; break them into shorter units.
 
 ---
 

@@ -12,11 +12,11 @@
 
   /* Accents */
   --accent-yellow:   #f1be32;
-  --accent-blue:     #3a7fd4;
-  --accent-blue-rgb: 58,127,212;
+  --accent-blue:     #99c9ff;
+  --accent-blue-rgb: 153,201,255;
   --accent-green:    #f1be32;
-  --accent-red:      #c5442a;
-  --accent-purple:   #9b59b6;
+  --accent-red:      #002ead;
+  --accent-purple:   #99c9ff;
   --accent-rgb:      241,190,50;
 
   /* Text */
@@ -50,8 +50,8 @@
   --accent-blue:     #002ead;
   --accent-blue-rgb: 0,46,173;
   --accent-green:    #f1be32;
-  --accent-red:      #c5442a;
-  --accent-purple:   #9b59b6;
+  --accent-red:      #002ead;
+  --accent-purple:   #99c9ff;
 
   /* Text */
   --text-primary:    #1b1b32;

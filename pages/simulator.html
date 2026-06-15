@@ -99,7 +99,7 @@
     .choices-label { font-size:0.85rem; font-family:var(--font-mono); text-transform:uppercase; letter-spacing:0.1em; color:var(--text-muted); margin-bottom:4px; text-align:center; }
     .choice-btn { background:transparent; border:1px solid var(--border-default); color:var(--text-secondary); padding:13px 18px; border-radius:5px; text-align:left; font-size:1.05rem; cursor:pointer; transition:border-color 0.12s,color 0.12s,background 0.12s; line-height:1.5; line-break:strict; width:100%; font-family:inherit; }
     .choice-btn:hover { border-color:var(--accent-blue); color:#fff; background:rgba(241,190,50,0.06); }
-    .choice-btn.wrong { border-color:var(--accent-red); color:#e07060; opacity:0.6; }
+    .choice-btn.wrong { border-color:var(--accent-red); color:#f1be32; opacity:0.6; }
     .choice-btn.answered { opacity:0.4; cursor:default; pointer-events:none; }
     .choice-speak-icon { cursor:pointer; font-size:0.85rem; margin-left:4px; flex-shrink:0; opacity:0.45; transition:opacity 0.18s,transform 0.18s; line-height:1; }
     .choice-speak-icon:hover { opacity:1; transform:scale(1.25); text-shadow:0 0 6px rgba(241,190,50,0.5); }
@@ -110,7 +110,7 @@
     .choice-row .choice-btn { flex:1; }
     .practice-btn { flex-shrink:0; background:transparent; border:1px solid var(--border-default); color:var(--text-muted); width:44px; border-radius:5px; cursor:pointer; font-size:1.1rem; display:flex; align-items:center; justify-content:center; transition:border-color 0.12s,color 0.12s,background 0.12s; }
     .practice-btn:hover { border-color:var(--accent-blue); color:var(--accent-blue); }
-    .practice-btn.listening { border-color:var(--accent-red); color:var(--accent-red); background:rgba(197,68,42,0.1); animation:mic-pulse 0.9s ease-in-out infinite; }
+    .practice-btn.listening { border-color:var(--accent-red); color:var(--accent-red); background:rgba(241,190,50,0.1); animation:mic-pulse 0.9s ease-in-out infinite; }
     .practice-btn.done { border-color:var(--accent-green); color:var(--accent-green); }
     @keyframes mic-pulse { 0%,100% { opacity:1; } 50% { opacity:0.4; } }
     .typing-indicator { display:flex; gap:12px; align-items:flex-start; }
@@ -123,13 +123,13 @@
     .practice-result { margin-top:6px; font-size:0.83rem; padding:8px 12px; border-radius:5px; background:var(--bg-tertiary); border:1px solid var(--border-default); line-height:1.5; }
     .psc-good { color:var(--accent-green); }
     .psc-ok   { color:var(--accent-yellow); }
-    .psc-bad  { color:#e07060; }
+    .psc-bad  { color:#f1be32; }
 
     /* PRONUNCIATION */
     .pron-align { display:flex; flex-wrap:wrap; gap:2px; margin:6px 0 4px; font-size:1.1rem; }
     .pron-char { display:inline-block; padding:1px 2px; border-radius:3px; min-width:0.6em; text-align:center; transition:background 0.15s; }
     .pron-match { color:var(--accent-green); background:rgba(241,190,50,0.1); }
-    .pron-wrong { color:#e07060; background:rgba(197,68,42,0.12); text-decoration:underline; text-decoration-color:#e07060; }
+    .pron-wrong { color:#f1be32; background:rgba(241,190,50,0.12); text-decoration:underline; text-decoration-color:#f1be32; }
     .pron-extra { color:var(--accent-yellow); background:rgba(241,190,50,0.1); text-decoration:underline; text-decoration-style:dotted; }
     .pron-missing { color:var(--text-muted); background:rgba(255,255,255,0.03); opacity:0.5; }
     .pron-gap { display:inline-block; width:0.6em; }
@@ -580,14 +580,14 @@ function simShowPracticeResult(btn, spoken, analysis, confidence) {
   }
   const score = analysis.score;
   const cls = score >= 80 ? 'psc-good' : score >= 50 ? 'psc-ok' : 'psc-bad';
-  const fillColor = score >= 80 ? 'var(--accent-green)' : score >= 50 ? 'var(--accent-yellow)' : '#e07060';
+  const fillColor = score >= 80 ? 'var(--accent-green)' : score >= 50 ? 'var(--accent-yellow)' : '#f1be32';
   const msg = score >= 80 ? '\u4e0a\u624b\u3067\u3059\uff01 Great!' : score >= 50 ? '\u3082\u3046\u5c11\u3057\uff01 Keep practicing' : '\u3082\u3046\u4e00\u5ea6\uff01 Try again';
   let matchCnt = 0, wrongCnt = 0, extraCnt = 0, missingCnt = 0;
   if (analysis.expected) analysis.expected.forEach(c => { if (c.status === 'match') matchCnt++; else if (c.status === 'wrong') wrongCnt++; else if (c.status === 'missing') missingCnt++; });
   if (analysis.spoken) analysis.spoken.forEach(c => { if (c.status === 'extra') extraCnt++; });
   let parts = [];
   if (matchCnt) parts.push('<span style="color:var(--accent-green);">\u2713 ' + matchCnt + ' correct</span>');
-  if (wrongCnt) parts.push('<span style="color:#e07060;">\u2717 ' + wrongCnt + ' wrong</span>');
+  if (wrongCnt) parts.push('<span style="color:#f1be32;">\u2717 ' + wrongCnt + ' wrong</span>');
   if (extraCnt) parts.push('<span style="color:var(--accent-yellow);">+ ' + extraCnt + ' extra</span>');
   if (missingCnt) parts.push('<span style="color:var(--text-muted);">\u2212 ' + missingCnt + ' missing</span>');
   let alignHtml = '';
@@ -855,7 +855,7 @@ function simSelectChoice(idx) {
   const choice = turn.choices[idx];
   if (choice.score === 0) {
     _lastPracticeResult = null;
-    if (btn) { btn.classList.add('wrong'); if (choice.feedback) btn.innerHTML += '<div style="font-size:0.85rem;margin-top:6px;color:#e07060;">' + escapeHtml(choice.feedback) + '</div>'; }
+    if (btn) { btn.classList.add('wrong'); if (choice.feedback) btn.innerHTML += '<div style="font-size:0.85rem;margin-top:6px;color:#f1be32;">' + escapeHtml(choice.feedback) + '</div>'; }
     return;
   }
   document.querySelectorAll('.choice-btn').forEach(b => b.classList.add('answered'));
@@ -914,13 +914,13 @@ function simAddUserMessage(jp, label, feedback, badge, practiceResult) {
   if (practiceResult && practiceResult.analysis) {
     const pr = practiceResult;
     const score = pr.analysis.score;
-    const fillColor = score >= 80 ? 'var(--accent-green)' : score >= 50 ? 'var(--accent-yellow)' : '#e07060';
+    const fillColor = score >= 80 ? 'var(--accent-green)' : score >= 50 ? 'var(--accent-yellow)' : '#f1be32';
     let mc = 0, wc = 0, ec = 0, mis = 0;
     if (pr.analysis.expected) pr.analysis.expected.forEach(c => { if (c.status === 'match') mc++; else if (c.status === 'wrong') wc++; else if (c.status === 'missing') mis++; });
     if (pr.analysis.spoken) pr.analysis.spoken.forEach(c => { if (c.status === 'extra') ec++; });
     let parts = [];
     if (mc) parts.push('<span style="color:var(--accent-green);">' + mc + ' correct</span>');
-    if (wc) parts.push('<span style="color:#e07060;">' + wc + ' wrong</span>');
+    if (wc) parts.push('<span style="color:#f1be32;">' + wc + ' wrong</span>');
     if (ec) parts.push('<span style="color:var(--accent-yellow);">+' + ec + '</span>');
     if (mis) parts.push('<span style="color:var(--text-muted);">-' + mis + '</span>');
     let alignHtml = '';
@@ -961,7 +961,7 @@ function simShowResult() {
   document.getElementById('modalSectionTitle').textContent = _simScenario.title;
   const fill = document.getElementById('modalProgressFill');
   fill.style.width = pct + '%';
-  fill.style.background = pct >= 80 ? '#f1be32' : pct >= 50 ? '#f1be32' : '#c5442a';
+  fill.style.background = pct >= 80 ? '#f1be32' : pct >= 50 ? '#f1be32' : '#f1be32';
   document.getElementById('modalPercent').textContent = pct + '% complete';
   const hasNext = _simQueueIdx < _simQueue.length - 1;
   document.getElementById('modalNextBtn').textContent = hasNext ? 'Next Scenario \u2192' : 'Back to Setup';

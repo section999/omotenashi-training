@@ -17,6 +17,7 @@
       --bg-secondary: #ffffff;
       --bg-tertiary:  #eef0f2;
     }
+    :root { --accent-purple: #f1be32; }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { font-size: clamp(15px, 1vw + 13px, 18px); scroll-behavior: smooth; }
@@ -345,7 +346,7 @@
     <div class="save-actions">
       <button class="save-action-btn" onclick="exportProgress()">⬇ Export Progress</button>
       <button class="save-action-btn" onclick="importProgress()">⬆ Import Progress</button>
-      <button class="save-action-btn" onclick="resetProgress()" style="border-color:rgba(197,68,42,0.4);color:#c5442a;">⚠ Reset Progress</button>
+      <button class="save-action-btn" onclick="resetProgress()">⚠ Reset Progress</button>
     </div>
     <p class="save-note">Progress is stored in this browser only. Use Export / Import to move it across devices.</p>
   </div>
@@ -391,7 +392,7 @@
   </div>
 
   <!-- Storage warning -->
-  <div id="storage-warning" style="display:none;background:rgba(197,68,42,0.1);border:1px solid rgba(197,68,42,0.4);border-radius:8px;padding:10px 16px;margin-bottom:20px;font-size:0.82rem;color:#e06050;"></div>
+  <div id="storage-warning" style="display:none;background:rgba(241,190,50,0.1);border:1px solid rgba(241,190,50,0.4);border-radius:8px;padding:10px 16px;margin-bottom:20px;font-size:0.82rem;color:#f1be32;"></div>
 
   <!-- SRS due today -->
   <div class="section-label">// due for review</div>
@@ -403,7 +404,7 @@
 
 <script>
 // ── CURRICULUM DATA (auto-parsed from curriculum.html) ────────────────────
-const MODULE_COLORS = ['#f1be32','#4a6cf7','#c5442a','#f1be32','#9b59b6','#e67e22','#f1be32'];
+const MODULE_COLORS = ['#f1be32','#99c9ff','#f1be32','#f1be32','#f1be32','#f1be32','#f1be32'];
 async function fetchModules() {
   try {
     const resp = await fetch('curriculum.html');
