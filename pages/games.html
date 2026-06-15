@@ -74,14 +74,14 @@
     .hm-letter{width:36px;height:36px;border-radius:4px;border:1px solid var(--border-default);background:var(--bg-tertiary);color:var(--text-secondary);font-size:0.85rem;cursor:pointer;display:flex;align-items:center;justify-content:center;font-family:var(--font-mono)}
     .hm-letter.used{opacity:0.2;cursor:default}
     .hm-letter.ok{background:rgba(241,190,50,0.15);border-color:var(--accent-yellow);color:var(--accent-yellow)}
-    .hm-letter.bad{background:rgba(241,190,50,0.1);border-color:var(--accent-red);color:var(--accent-red)}
+    .hm-letter.bad{background:rgba(241,190,50,0.1);border-color:var(--accent-error);color:var(--accent-error)}
     /* Speed Match */
     .sm-q{text-align:center;font-size:1.6rem;font-weight:700;color:var(--accent-yellow);margin:12px 0 16px;min-height:2em}
     .sm-opts{display:grid;grid-template-columns:1fr 1fr;gap:10px;max-width:480px;margin:0 auto}
     .sm-opt{padding:12px 8px;border-radius:6px;border:1.5px solid var(--border-default);background:var(--bg-tertiary);color:var(--text-primary);font-size:0.85rem;cursor:pointer;text-align:center;transition:0.12s;font-family:inherit;font-weight:600}
     .sm-opt:hover{border-color:rgba(var(--accent-rgb),0.4)}
     .sm-opt.correct{background:rgba(241,190,50,0.15);border-color:var(--accent-yellow);color:var(--accent-yellow)}
-    .sm-opt.wrong{background:rgba(241,190,50,0.1);border-color:var(--accent-red);color:var(--accent-red)}
+    .sm-opt.wrong{background:rgba(241,190,50,0.1);border-color:var(--accent-error);color:var(--accent-error)}
     .sm-opt:disabled{opacity:0.5;cursor:default}
     .sm-bar{height:6px;background:var(--bg-tertiary);border-radius:3px;overflow:hidden;margin:16px 0}
     .sm-bar-fill{height:100%;background:var(--accent-yellow);border-radius:3px;transition:width 0.3s}
@@ -128,11 +128,11 @@
     .ty-word-num{font-size:0.72rem;color:var(--text-muted);font-family:var(--font-mono);text-align:center;margin-bottom:4px}
     .ty-feedback{text-align:center;font-size:0.9rem;min-height:2em;margin-top:8px;transition:opacity 0.15s}
     .ty-feedback.ok{color:var(--accent-yellow)}
-    .ty-feedback.bad{color:var(--accent-red)}
+    .ty-feedback.bad{color:var(--accent-error)}
 
     /* ── HANGMAN IMPROVEMENTS ── */
     .hm-gallows-area{font-family:var(--font-mono);font-size:0.7rem;color:var(--text-muted);text-align:center;line-height:1.25;margin:8px 0;white-space:pre;min-height:100px}
-    .hm-wrong-letters{text-align:center;font-size:0.78rem;color:var(--accent-red);margin-bottom:8px;min-height:1.5em}
+    .hm-wrong-letters{text-align:center;font-size:0.78rem;color:var(--accent-error);margin-bottom:8px;min-height:1.5em}
     .hm-kana-row{display:flex;flex-wrap:wrap;justify-content:center;gap:5px;margin-bottom:4px}
     .hm-kana-row-label{width:100%;font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;color:var(--text-muted);margin-bottom:2px;text-align:center}
 
@@ -142,7 +142,7 @@
     .sm-streak-num{font-family:var(--font-mono);font-size:0.85rem;color:var(--text-muted);margin-left:4px}
     .sm-feedback{text-align:center;font-size:0.85rem;min-height:1.6em;margin-bottom:4px;transition:opacity 0.15s}
     .sm-feedback.ok{color:var(--accent-yellow)}
-    .sm-feedback.bad{color:var(--accent-red)}
+    .sm-feedback.bad{color:var(--accent-error)}
 
     /* ── WORD SCRAMBLE ── */
     .sc-word-num{font-size:0.72rem;color:var(--text-muted);font-family:var(--font-mono);text-align:center;margin-bottom:4px}
@@ -153,16 +153,16 @@
     .sc-letter:hover{border-color:rgba(var(--accent-rgb),0.5);background:rgba(var(--accent-rgb),0.06)}
     .sc-answer-wrap{background:var(--bg-primary);border:1.5px dashed var(--border-strong);border-radius:8px;padding:10px;min-height:44px;margin:8px 0 12px;display:flex;flex-wrap:wrap;justify-content:center;gap:6px}
     .sc-answer-letter{width:36px;height:36px;border-radius:6px;border:1.5px solid var(--border-default);background:var(--bg-tertiary);color:var(--text-primary);font-size:0.95rem;font-weight:700;display:flex;align-items:center;justify-content:center;font-family:var(--font-mono);cursor:pointer;transition:0.12s;user-select:none}
-    .sc-answer-letter:hover{border-color:var(--accent-red);background:rgba(241,190,50,0.06)}
+    .sc-answer-letter:hover{border-color:var(--accent-error);background:rgba(241,190,50,0.06)}
     .sc-answer-letter.correct{background:rgba(241,190,50,0.15);border-color:var(--accent-yellow);color:var(--accent-yellow);cursor:default}
-    .sc-answer-letter.wrong{background:rgba(241,190,50,0.1);border-color:var(--accent-red);color:var(--accent-red);cursor:default}
+    .sc-answer-letter.wrong{background:rgba(241,190,50,0.1);border-color:var(--accent-error);color:var(--accent-error);cursor:default}
     .sc-answer-placeholder{font-size:0.8rem;color:var(--text-muted);padding:8px 0}
     .sc-check-btn{display:block;margin:0 auto;padding:10px 32px;border-radius:6px;border:none;background:var(--accent-yellow);color:#0a0a23;font-size:0.9rem;font-weight:700;cursor:pointer;font-family:inherit;transition:0.12s}
     .sc-check-btn:hover:not(:disabled){transform:translateY(-1px)}
     .sc-check-btn:disabled{opacity:0.3;cursor:default}
     .sc-feedback{text-align:center;font-size:0.9rem;min-height:2em;margin-top:8px}
     .sc-feedback.ok{color:var(--accent-yellow)}
-    .sc-feedback.bad{color:var(--accent-red)}
+    .sc-feedback.bad{color:var(--accent-error)}
     /* ── FILL THE BLANK ── */
     .bl-en{text-align:center;font-size:1rem;color:var(--text-secondary);margin:12px 0 8px}
     .bl-word{text-align:center;font-size:1.8rem;font-weight:700;color:var(--text-primary);margin:16px 0;letter-spacing:0.08em}
@@ -172,11 +172,11 @@
     .bl-opt{width:48px;height:48px;border-radius:8px;border:1.5px solid var(--border-default);background:var(--bg-tertiary);color:var(--text-primary);font-size:1.1rem;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;font-family:inherit;transition:0.12s}
     .bl-opt:hover{border-color:rgba(var(--accent-rgb),0.4)}
     .bl-opt.correct{background:rgba(241,190,50,0.15);border-color:var(--accent-yellow);color:var(--accent-yellow)}
-    .bl-opt.wrong{background:rgba(241,190,50,0.1);border-color:var(--accent-red);color:var(--accent-red)}
+    .bl-opt.wrong{background:rgba(241,190,50,0.1);border-color:var(--accent-error);color:var(--accent-error)}
     .bl-opt:disabled{opacity:0.5;cursor:default}
     .bl-feedback{text-align:center;font-size:0.9rem;min-height:2em;margin-top:8px}
     .bl-feedback.ok{color:var(--accent-yellow)}
-    .bl-feedback.bad{color:var(--accent-red)}
+    .bl-feedback.bad{color:var(--accent-error)}
     .bl-word-num{font-size:0.72rem;color:var(--text-muted);font-family:var(--font-mono);text-align:center;margin-bottom:4px}
 
     /* ── SCORE TRACKING ── */
@@ -830,7 +830,7 @@ var GameTyping={
   barColor:function(pct){
     if(pct>50)return 'var(--accent-yellow)';
     if(pct>25)return 'var(--accent-yellow)';
-    return 'var(--accent-red)';
+    return 'var(--accent-error)';
   },
   render:function(){
     var s=_gameState;
@@ -1000,7 +1000,7 @@ var GameSpeedMatch={
   barColor:function(pct){
     if(pct>50)return 'var(--accent-yellow)';
     if(pct>25)return 'var(--accent-yellow)';
-    return 'var(--accent-red)';
+    return 'var(--accent-error)';
   },
   render:function(){
     var s=_gameState;
@@ -1081,7 +1081,7 @@ var GameScramble={
   barColor:function(pct){
     if(pct>50)return 'var(--accent-yellow)';
     if(pct>25)return 'var(--accent-yellow)';
-    return 'var(--accent-red)';
+    return 'var(--accent-error)';
   },
   scramble:function(str){
     var arr=str.split('');
@@ -1215,7 +1215,7 @@ var GameBlank={
   barColor:function(pct){
     if(pct>50)return 'var(--accent-yellow)';
     if(pct>25)return 'var(--accent-yellow)';
-    return 'var(--accent-red)';
+    return 'var(--accent-error)';
   },
   buildBlank:function(jp){
     var chars=jp.split('');

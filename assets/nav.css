@@ -166,8 +166,8 @@ body {
 /* ── NAV ALWAYS DARK (even in light mode) ─────────────────────────────────── */
 [data-theme="light"] .nav { background: #0a0a23 !important; }
 [data-theme="light"] .nav-cta { color: #0a0a23 !important; }
-[data-theme="light"] .nav-dropdown { background: #1b1b32 !important; border-color: #3b3b5c !important; }
+[data-theme="light"] .nav-dropdown { background: #1b1b32 !important; border-color: var(--bg-card) !important; }
 [data-theme="light"] .nav-dropdown a,
-[data-theme="light"] .nav-dropdown button { color: #a3a3c2 !important; border-color: transparent !important; }
+[data-theme="light"] .nav-dropdown button { color: #d0d0d5 !important; border-color: transparent !important; }
 [data-theme="light"] .nav-dropdown a:hover,
 [data-theme="light"] .nav-dropdown button:hover { background: rgba(255,255,255,0.08) !important; color: #ffffff !important; }

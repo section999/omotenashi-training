@@ -7,26 +7,28 @@
   /* Backgrounds */
   --bg-primary:      #0a0a23;
   --bg-secondary:    #1b1b32;
-  --bg-tertiary:     #2a2a4a;
-  --bg-surface:      #0d0d1a;
+  --bg-tertiary:     #2a2a40;
+  --bg-surface:      #0a0a23;
+  --bg-deep:         #0a0a23;
+  --bg-card:         #3b3b4f;
 
   /* Accents */
   --accent-yellow:   #f1be32;
   --accent-blue:     #99c9ff;
   --accent-blue-rgb: 153,201,255;
-  --accent-red:      #002ead;
-  --accent-purple:   #99c9ff;
+  --accent-error:      #002ead;
   --accent-rgb:      241,190,50;
 
   /* Text */
   --text-primary:    #ffffff;
-  --text-secondary:  #a3a3c2;
-  --text-muted:      #5f5f7a;
+  --text-secondary:  #d0d0d5;
+  --text-muted:      #3b3b4f;
   --text-inverse:    #0a0a23;
+  --text-on-light:   #3b3b4f;
 
   /* Borders */
-  --border-default:  #2a2a4a;
-  --border-strong:   #4a4a6a;
+  --border-default:  #2a2a40;
+  --border-strong:   #3b3b4f;
 
   /* Typography */
   --font-sans: 'Segoe UI', system-ui, sans-serif;
@@ -41,25 +43,24 @@
   /* Backgrounds */
   --bg-primary:      #ffffff;
   --bg-secondary:    #f5f6f7;
-  --bg-tertiary:     #eaeaef;
+  --bg-tertiary:     #dfdfe2;
   --bg-surface:      #ffffff;
 
   /* Accents */
   --accent-yellow:   #f1be32;
   --accent-blue:     #002ead;
   --accent-blue-rgb: 0,46,173;
-  --accent-red:      #002ead;
-  --accent-purple:   #99c9ff;
+  --accent-error:      #002ead;
 
   /* Text */
   --text-primary:    #1b1b32;
-  --text-secondary:  #46465e;
-  --text-muted:      #5a5a6e;
+  --text-secondary:  #3b3b4f;
+  --text-muted:      #3b3b4f;
   --text-inverse:    #ffffff;
 
   /* Borders */
-  --border-default:  #c8c9cc;
-  --border-strong:   #8e8e9a;
+  --border-default:  #d0d0d5;
+  --border-strong:   #d0d0d5;
 }
 
 /* Keep nav always dark regardless of theme */

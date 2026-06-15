@@ -15,9 +15,8 @@
     [data-theme="light"] {
       --bg-primary:   #f5f6f7;
       --bg-secondary: #ffffff;
-      --bg-tertiary:  #eef0f2;
+      --bg-tertiary:  var(--bg-tertiary);
     }
-    :root { --accent-purple: #f1be32; }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { font-size: clamp(15px, 1vw + 13px, 18px); scroll-behavior: smooth; }
@@ -363,7 +362,7 @@
       <div class="stat-value" id="stat-vocab">0</div>
       <div class="stat-label">Vocab Known</div>
     </div>
-    <div class="stat-card" style="--stat-color:var(--accent-purple)">
+    <div class="stat-card" style="--stat-color:var(--accent-blue)">
       <div class="stat-value" id="stat-due">0</div>
       <div class="stat-label">Due for Review</div>
       <div class="stat-sub" id="stat-due-sub" style="font-size:0.72rem;color:var(--text-muted);margin-top:4px;"></div>

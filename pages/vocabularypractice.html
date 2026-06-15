@@ -554,7 +554,7 @@ function loadCard(file) {
     .then(data => updateCard(file, data))
     .catch(err => {
       const front = document.getElementById('csFront');
-      if (front) front.innerHTML = '<div style="color:var(--accent-red);font-size:0.82rem;">Failed to load.<br>' + escHtml(err.message) + '</div>';
+      if (front) front.innerHTML = '<div style="color:var(--accent-error);font-size:0.82rem;">Failed to load.<br>' + escHtml(err.message) + '</div>';
     });
 }
 
@@ -723,7 +723,7 @@ function checkDictation() {
       '<div class="answer">' + escHtml(data.jp) + '</div>' + defHtml;
   } else {
     result.innerHTML =
-      '<div style="color:var(--accent-red);font-size:1.05rem;">✗ Not quite</div>' +
+      '<div style="color:var(--accent-error);font-size:1.05rem;">✗ Not quite</div>' +
       '<div class="answer">' + escHtml(data.jp) + '</div>' +
       '<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">You typed: ' + escHtml(userAns) + '</div>' + defHtml;
   }
