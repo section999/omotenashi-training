@@ -42,14 +42,14 @@
     .setup-divider { border-top:1px solid var(--border-default); margin:18px 0; }
     .setup-check-col { display:flex; flex-direction:column; gap:14px; }
     .setup-check-label { display:flex; align-items:flex-start; gap:11px; cursor:pointer; }
-    .setup-check-label input[type="checkbox"] { margin-top:3px; flex-shrink:0; accent-color:var(--accent-green); width:15px; height:15px; cursor:pointer; }
+    .setup-check-label input[type="checkbox"] { margin-top:3px; flex-shrink:0; accent-color:var(--accent-yellow); width:15px; height:15px; cursor:pointer; }
     .setup-check-text { display:flex; flex-direction:column; gap:2px; }
     .setup-check-text strong { font-size:0.86rem; }
     .setup-check-sub { font-size:0.74rem; color:var(--text-muted); line-height:1.4; }
     .setup-start { width:100%; margin-top:22px; padding:13px; background:var(--accent-yellow); color:#0a0a23; border:none; border-radius:6px; font-size:0.95rem; font-weight:700; cursor:pointer; transition:opacity 0.15s; }
     .setup-start:hover { opacity:0.85; }
     .setup-stats { font-size:0.8rem; color:var(--text-muted); text-align:center; }
-    .setup-stats strong { color:var(--accent-green); }
+    .setup-stats strong { color:var(--accent-yellow); }
 
     /* ── CARD SCREEN ── */
     .cs-topbar { display:flex; align-items:center; gap:10px; margin-top:40px; margin-bottom:24px; }
@@ -59,7 +59,7 @@
     .cs-group-sel { margin-left:auto; background:var(--bg-tertiary); border:1px solid var(--border-default); border-radius:4px; color:var(--text-secondary); font-size:0.76rem; padding:5px 8px; cursor:pointer; max-width:190px; }
 
     .cs-prog-wrap { height:5px; background:var(--bg-tertiary); border-radius:3px; overflow:hidden; margin-bottom:6px; }
-    .cs-prog-bar { height:100%; background:var(--accent-green); border-radius:3px; transition:width 0.4s; }
+    .cs-prog-bar { height:100%; background:var(--accent-yellow); border-radius:3px; transition:width 0.4s; }
     .cs-prog-label { font-size:0.74rem; color:var(--text-muted); font-family:var(--font-mono); text-align:right; margin-bottom:16px; }
 
     .cs-card { background:var(--bg-primary); border:1px solid var(--border-default); border-radius:10px; height:400px; width:100%; cursor:pointer; padding:48px 40px; margin-bottom:28px; overflow:hidden; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; position:relative; transition:border-color 0.2s; user-select:none; }
@@ -84,13 +84,13 @@
     .cs-actions { display:flex; gap:10px; width:100%; margin-bottom:10px; justify-content:center; }
     .cs-btn { width:160px; padding:11px; border-radius:6px; font-size:0.88rem; font-weight:600; cursor:pointer; transition:opacity 0.15s; border:1px solid transparent; }
     .cs-btn:disabled { opacity:0.28; cursor:not-allowed; }
-    .cs-know { background:var(--accent-green); color:#fff; border-color:var(--accent-green); }
+    .cs-know { background:var(--accent-yellow); color:#fff; border-color:var(--accent-yellow); }
     .cs-know:hover:not(:disabled) { opacity:0.85; }
     .cs-learning { background:var(--accent-yellow); color:#0a0a23; border-color:var(--accent-yellow); }
     .cs-learning:hover:not(:disabled) { opacity:0.85; }
     .cs-status { font-size:0.76rem; color:var(--text-muted); text-align:center; min-height:1.1em; margin-bottom:6px; }
     .cs-adv-bar { height:3px; border-radius:2px; overflow:hidden; margin-bottom:10px; background:transparent; }
-    .adv-prog { height:100%; background:var(--accent-green); border-radius:2px; }
+    .adv-prog { height:100%; background:var(--accent-yellow); border-radius:2px; }
 
     .cs-nav { display:flex; align-items:center; justify-content:space-between; gap:12px; }
     .cs-nav-btn { padding:10px 18px; min-height:44px; border-radius:5px; border:1px solid var(--border-default); background:transparent; color:var(--text-secondary); font-size:0.83rem; cursor:pointer; }
@@ -136,7 +136,7 @@
     .c-stat { display:flex; flex-direction:column; align-items:center; gap:3px; }
     .c-stat-n { font-size:2rem; font-weight:700; font-family:var(--font-mono); }
     .c-stat-l { font-size:0.7rem; text-transform:uppercase; letter-spacing:0.08em; color:var(--text-muted); }
-    .c-know { color:var(--accent-green); }
+    .c-know { color:var(--accent-yellow); }
     .c-learning { color:var(--accent-yellow); }
     .complete-btns { display:flex; flex-direction:column; gap:9px; max-width:320px; margin:0 auto; }
     .c-btn-primary { padding:12px; background:var(--accent-yellow); color:#0a0a23; border:none; border-radius:6px; font-size:0.88rem; font-weight:700; cursor:pointer; }
@@ -606,7 +606,7 @@ function updateCard(file, data) {
   const saved = getStatus(file);
   const statusEl = document.getElementById('csStatus');
   if (statusEl) {
-    if (saved === 'know') statusEl.innerHTML = '<span style="color:var(--accent-green)">✓ Previously known</span>  tap to re-evaluate';
+    if (saved === 'know') statusEl.innerHTML = '<span style="color:var(--accent-yellow)">✓ Previously known</span>  tap to re-evaluate';
     else if (saved === 'learning') statusEl.innerHTML = '<span style="color:var(--accent-yellow)">△ Still learning</span>  tap to re-evaluate';
     else statusEl.textContent = '';
   }
@@ -661,7 +661,7 @@ function updateDictationCard(file, data) {
   const statusEl = document.getElementById('csStatus');
   const saved = getStatus(file);
   if (statusEl) {
-    if (saved === 'know') statusEl.innerHTML = '<span style="color:var(--accent-green)">✓ Previously known</span>';
+    if (saved === 'know') statusEl.innerHTML = '<span style="color:var(--accent-yellow)">✓ Previously known</span>';
     else if (saved === 'learning') statusEl.innerHTML = '<span style="color:var(--accent-yellow)">△ Previously marked learning</span>';
     else statusEl.textContent = '';
   }
@@ -719,7 +719,7 @@ function checkDictation() {
 
   if (isCorrect) {
     result.innerHTML =
-      '<div style="color:var(--accent-green);font-size:1.05rem;">✓ Correct!</div>' +
+      '<div style="color:var(--accent-yellow);font-size:1.05rem;">✓ Correct!</div>' +
       '<div class="answer">' + escHtml(data.jp) + '</div>' + defHtml;
   } else {
     result.innerHTML =
@@ -833,7 +833,7 @@ function markCard(status) {
     // Card not flipped - just mark, stay on card
     const statusEl = document.getElementById('csStatus');
     if (statusEl) statusEl.innerHTML = status === 'know'
-      ? '<span style="color:var(--accent-green)">✓ Marked as known</span>'
+      ? '<span style="color:var(--accent-yellow)">✓ Marked as known</span>'
       : '<span style="color:var(--accent-yellow)">△ Still learning</span>';
     if (session.settings.autoAdvance) startAutoAdv();
   }
@@ -895,7 +895,7 @@ function showCompleteScreen() {
 
   const studyAgainBtn = learningFiles.length > 0
     ? '<button class="c-btn-primary" onclick="doStudyLearning()">Study &ldquo;Still learning&rdquo; again (' + learningFiles.length + ' cards) →</button>'
-    : (allKnown ? '<div style="color:var(--accent-green);font-weight:600;margin-bottom:8px;">All cards known! 🎉</div>' : '');
+    : (allKnown ? '<div style="color:var(--accent-yellow);font-weight:600;margin-bottom:8px;">All cards known! 🎉</div>' : '');
 
   document.getElementById('main-content').innerHTML =
     '<div class="complete-wrap">' +

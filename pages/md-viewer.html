@@ -123,13 +123,13 @@
     .quiz-opt { display: flex; align-items: center; gap: 10px; padding: 9px 14px; border-radius: 5px; border: 1px solid var(--border-default); cursor: pointer; font-size: 1rem; color: #fff; transition: background 0.12s, border-color 0.12s; }
     .quiz-opt:hover { background: rgba(255,255,255,0.04); border-color: rgba(255,255,255,0.2); }
     .quiz-opt.selected { border-color: var(--accent-blue); background: rgba(241,190,50,0.08); }
-    .quiz-opt.correct { border-color: var(--accent-green); color: var(--accent-green); background: rgba(241,190,50,0.08); }
+    .quiz-opt.correct { border-color: var(--accent-yellow); color: var(--accent-yellow); background: rgba(241,190,50,0.08); }
     .quiz-opt.wrong { border-color: var(--accent-red); color: var(--accent-red); background: rgba(241,190,50,0.08); }
     .quiz-opt-letter { width: 22px; height: 22px; border-radius: 50%; border: 1px solid currentColor; display: flex; align-items: center; justify-content: center; font-family: var(--font-mono); font-size: 0.7rem; flex-shrink: 0; }
     .tf-options { display: flex; gap: 10px; margin-bottom: 12px; }
     .tf-btn { padding: 8px 24px; border-radius: 5px; border: 1px solid var(--border-default); background: transparent; color: #fff; font-size: 1rem; cursor: pointer; transition: background 0.12s, border-color 0.12s; }
     .tf-btn:hover { background: rgba(255,255,255,0.04); border-color: rgba(255,255,255,0.2); }
-    .tf-btn.correct { border-color: var(--accent-green); background: rgba(241,190,50,0.08); color: var(--accent-green); }
+    .tf-btn.correct { border-color: var(--accent-yellow); background: rgba(241,190,50,0.08); color: var(--accent-yellow); }
     .tf-btn.wrong { border-color: var(--accent-red); background: rgba(241,190,50,0.08); color: var(--accent-red); }
     .fitb-input { width: 100%; background: rgba(255,255,255,0.04); border: 1px solid var(--border-default); border-radius: 5px; padding: 10px 14px; color: var(--text-primary); font-size: 0.875rem; font-family: inherit; margin-bottom: 10px; }
     .fitb-input:focus { outline: none; border-color: var(--accent-blue); }
@@ -137,13 +137,13 @@
     .short-input { width: 100%; background: rgba(255,255,255,0.04); border: 1px solid var(--border-default); border-radius: 5px; padding: 10px 14px; color: var(--text-primary); font-size: 0.875rem; font-family: inherit; resize: vertical; min-height: 70px; margin-bottom: 10px; }
     .short-input:focus { outline: none; border-color: var(--accent-blue); }
     .model-answer { display: none; margin-top: 10px; padding: 12px 14px; border-radius: 5px; background: rgba(255,255,255,0.04); border: 1px solid var(--border-default); font-size: 0.875rem; color: var(--text-secondary); line-height: 1.6; }
-    .model-answer strong { color: var(--accent-green); display: block; margin-bottom: 4px; }
-    .quiz-check { display: block; margin: 12px auto 0; padding: 9px 20px; background: var(--accent-green); color: var(--text-inverse); border: none; border-radius: 5px; font-weight: 700; font-size: 1rem; cursor: pointer; transition: opacity 0.15s; }
+    .model-answer strong { color: var(--accent-yellow); display: block; margin-bottom: 4px; }
+    .quiz-check { display: block; margin: 12px auto 0; padding: 9px 20px; background: var(--accent-yellow); color: var(--text-inverse); border: none; border-radius: 5px; font-weight: 700; font-size: 1rem; cursor: pointer; transition: opacity 0.15s; }
     .quiz-check:hover { opacity: 0.85; }
     .quiz-check:disabled { opacity: 0.4; cursor: default; }
     .quiz-check.next-btn { background: var(--accent-yellow); color: var(--text-inverse); opacity: 1; cursor: pointer; }
     .quiz-feedback { margin-top: 12px; padding: 10px 14px; border-radius: 5px; font-size: 0.85rem; line-height: 1.5; display: none; }
-    .quiz-feedback.ok { background: rgba(241,190,50,0.12); border: 1px solid rgba(241,190,50,0.3); color: var(--accent-green); }
+    .quiz-feedback.ok { background: rgba(241,190,50,0.12); border: 1px solid rgba(241,190,50,0.3); color: var(--accent-yellow); }
     .quiz-feedback.err { background: rgba(241,190,50,0.12); border: 1px solid rgba(241,190,50,0.3); color: #f1be32; }
 
     /* MATCHING QUIZ */
@@ -152,7 +152,7 @@
     .match-left { flex: 1; font-size: 1rem; color: var(--text-primary); }
     .match-arrow { color: var(--text-muted); font-size: 0.875rem; }
     .match-select { padding: 6px 10px; border-radius: 4px; border: 1px solid var(--border-default); background: var(--bg-tertiary); color: var(--text-primary); font-size: 0.875rem; cursor: pointer; min-width: 120px; font-family: inherit; }
-    .match-select.correct { border-color: var(--accent-green); background: rgba(241,190,50,0.1); }
+    .match-select.correct { border-color: var(--accent-yellow); background: rgba(241,190,50,0.1); }
     .match-select.wrong { border-color: var(--accent-red); background: rgba(241,190,50,0.1); }
 
     /* ORDERING QUIZ */
@@ -216,7 +216,7 @@
     .practice-btn { flex-shrink: 0; background: transparent; border: 1px solid var(--border-default); color: var(--text-muted); width: 44px; border-radius: 5px; cursor: pointer; font-size: 1.1rem; display: flex; align-items: center; justify-content: center; transition: border-color 0.12s, color 0.12s, background 0.12s; }
     .practice-btn:hover { border-color: var(--accent-blue); color: var(--accent-blue); }
     .practice-btn.listening { border-color: var(--accent-red); color: var(--accent-red); background: rgba(241,190,50,0.1); animation: mic-pulse 0.9s ease-in-out infinite; }
-    .practice-btn.done { border-color: var(--accent-green); color: var(--accent-green); }
+    .practice-btn.done { border-color: var(--accent-yellow); color: var(--accent-yellow); }
     @keyframes mic-pulse { 0%,100% { opacity:1; } 50% { opacity:0.4; } }
     .typing-indicator { display:flex; gap:12px; align-items:flex-start; }
     .typing-indicator > div { max-width:50%; }
@@ -226,12 +226,12 @@
     .typing-dots span:nth-child(3) { animation-delay:0.4s; }
     @keyframes typing-bounce { 0%,60%,100% { transform:translateY(0); opacity:0.4; } 30% { transform:translateY(-5px); opacity:1; } }
 .practice-result { margin-top: 6px; font-size: 0.83rem; padding: 8px 12px; border-radius: 5px; background: var(--bg-tertiary); border: 1px solid var(--border-default); line-height: 1.5; }
-.psc-good { color: var(--accent-green); }
+.psc-good { color: var(--accent-yellow); }
 .psc-ok   { color: var(--accent-yellow); }
 .psc-bad  { color: #f1be32; }
 .pron-align { display:flex; flex-wrap:wrap; gap:2px; margin:6px 0 4px; font-size:1.1rem; }
 .pron-char { display:inline-block; padding:1px 2px; border-radius:3px; min-width:0.6em; text-align:center; transition:background 0.15s; }
-.pron-match { color:var(--accent-green); background:rgba(241,190,50,0.1); }
+.pron-match { color:var(--accent-yellow); background:rgba(241,190,50,0.1); }
 .pron-wrong { color:#f1be32; background:rgba(241,190,50,0.12); text-decoration:underline; text-decoration-color:#f1be32; }
 .pron-extra { color:var(--accent-yellow); background:rgba(241,190,50,0.1); text-decoration:underline; text-decoration-style:dotted; }
 .pron-missing { color:var(--text-muted); background:rgba(255,255,255,0.03); opacity:0.5; }
@@ -315,7 +315,7 @@
     @keyframes guide-glow { 0%,100% { box-shadow:0 0 0 0 rgba(241,190,50,0.4); } 50% { box-shadow:0 0 0 6px rgba(241,190,50,0); } }
     .practice-btn.guide-glow { animation:guide-glow 1.5s ease-in-out 3; border-color:var(--accent-blue); }
     .feedback-badge { display: inline-block; padding: 3px 10px; border-radius: 99px; font-size: 0.7rem; font-family: var(--font-mono); font-weight: 700; letter-spacing: 0.05em; margin-top: 6px; }
-    .badge-perfect { background: rgba(241,190,50,0.15); color: var(--accent-green); border: 1px solid rgba(241,190,50,0.3); }
+    .badge-perfect { background: rgba(241,190,50,0.15); color: var(--accent-yellow); border: 1px solid rgba(241,190,50,0.3); }
     .badge-good    { background: rgba(241,190,50,0.1);  color: var(--accent-yellow); border: 1px solid rgba(241,190,50,0.3); }
     .badge-review  { background: rgba(241,190,50,0.1);   color: #f1be32;              border: 1px solid rgba(241,190,50,0.3); }
     @media (max-width: 640px) {
@@ -337,7 +337,7 @@
     .dialogue-line { display: flex; align-items: flex-start; gap: 10px; }
     .dialogue-label { font-family: var(--font-mono); font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; margin-top: 8px; line-height: 1.3; }
     .dialogue-staff .dialogue-label { background: rgba(0,46,173,0.25); color: #99c9ff; }
-    .dialogue-guest .dialogue-label { background: rgba(241,190,50,0.15); color: var(--accent-green); }
+    .dialogue-guest .dialogue-label { background: rgba(241,190,50,0.15); color: var(--accent-yellow); }
     .dialogue-bubble { flex: 1; padding: 8px 14px; border-radius: 6px; font-size: 1rem; line-height: 1.7; min-width: 0; color: var(--text-primary); }
     .dialogue-staff .dialogue-bubble { background: rgba(0,46,173,0.25); border: 1px solid rgba(0,46,173,0.15); }
     .dialogue-guest .dialogue-bubble { background: rgba(241,190,50,0.15); border: 1px solid rgba(241,190,50,0.12); }
@@ -362,17 +362,17 @@
     .keigo-card { background: var(--bg-tertiary); border: 1px solid var(--border-default); border-radius: 8px; padding: 14px 18px; margin: 1rem 0; }
     .keigo-card-title { font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; display: block; }
     .keigo-card.blue { border-left: 4px solid var(--accent-blue); }
-    .keigo-card.green { border-left: 4px solid var(--accent-green); }
+    .keigo-card.green { border-left: 4px solid var(--accent-yellow); }
     .keigo-card.amber { border-left: 4px solid var(--accent-yellow); }
     .keigo-card.red { border-left: 4px solid var(--accent-red); }
     .keigo-card.blue .keigo-card-title { color: #99c9ff; }
-    .keigo-card.green .keigo-card-title { color: var(--accent-green); }
+    .keigo-card.green .keigo-card-title { color: var(--accent-yellow); }
     .keigo-card.amber .keigo-card-title { color: var(--accent-yellow); }
     .keigo-card.red .keigo-card-title { color: var(--accent-red); }
     .keigo-badge { display: inline-block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; padding: 2px 8px; border-radius: 4px; margin-right: 6px; }
     .jp-sentence-wrap > .keigo-badge { margin-right: 0; margin-bottom: 5px; align-self: flex-start; }
     .keigo-badge.bad { background: rgba(241,190,50,0.15); color: var(--accent-red); }
-    .keigo-badge.good { background: rgba(241,190,50,0.15); color: var(--accent-green); }
+    .keigo-badge.good { background: rgba(241,190,50,0.15); color: var(--accent-yellow); }
     .keigo-badge.info { background: rgba(0,46,173,0.25); color: #99c9ff; }
     .keigo-badge.use { background: rgba(241,190,50,0.15); color: #f1be32; }
     .email-toggle-btn { display: block; margin-bottom: 14px; padding: 5px 14px; font-size: 0.8rem; font-family: inherit; background: rgba(153,201,255,0.1); color: #99c9ff; border: 1px solid rgba(153,201,255,0.3); border-radius: 6px; cursor: pointer; transition: background 0.15s; }
@@ -399,7 +399,7 @@
     .keigo-pair .good-col { background: rgba(241,190,50,0.06); border-color: rgba(241,190,50,0.2); }
     .keigo-pair-label { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 4px; display: block; }
     .keigo-pair .bad-col .keigo-pair-label { color: var(--accent-red); }
-    .keigo-pair .good-col .keigo-pair-label { color: var(--accent-green); }
+    .keigo-pair .good-col .keigo-pair-label { color: var(--accent-yellow); }
     .keigo-jp code { background: rgba(241,190,50,0.08); padding: 1px 6px; border-radius: 3px; font-size: 0.95rem; font-weight: 600; color: var(--text-primary); }
     /* JP sentence wrapper: column layout for dropdown romaji */
     .jp-sentence-wrap { display: inline-flex; flex-direction: column; vertical-align: top; max-width: 100%; }
@@ -464,8 +464,8 @@
     .dialogue-en { display: none; font-size: 0.82rem; color: var(--text-muted); margin-top: 5px; padding-top: 5px; border-top: 1px dashed var(--border-default); line-height: 1.5; }
     .dialogue.show-en .dialogue-en { display: block; }
     .dialogue-meaning-btn { display: inline-flex; align-items: center; gap: 6px; background: transparent; border: 1px solid var(--border-default); border-radius: 5px; padding: 5px 10px; font-size: 0.72rem; font-family: inherit; color: var(--text-muted); cursor: pointer; transition: all 0.15s; line-height: 1.3; white-space: nowrap; }
-    .dialogue-meaning-btn:hover { border-color: var(--accent-green); color: var(--accent-green); background: rgba(241,190,50,0.06); }
-    .dialogue.show-en .dialogue-meaning-btn { border-color: var(--accent-green); color: var(--accent-green); background: rgba(241,190,50,0.08); }
+    .dialogue-meaning-btn:hover { border-color: var(--accent-yellow); color: var(--accent-yellow); background: rgba(241,190,50,0.06); }
+    .dialogue.show-en .dialogue-meaning-btn { border-color: var(--accent-yellow); color: var(--accent-yellow); background: rgba(241,190,50,0.08); }
     [data-theme="light"] .dialogue-meaning-btn:hover { color: #f1be32; border-color: #f1be32; }
     [data-theme="light"] .dialogue.show-en .dialogue-meaning-btn { color: #f1be32; border-color: #f1be32; background: rgba(241,190,50,0.06); }
     /* ── VOCAB PRONUNCIATION WIDGET ────────────────────────────────── */
@@ -494,7 +494,7 @@
     .fc-actions { display: none; gap: 10px; margin-top: 6px; width: 100%; max-width: 400px; }
     .fc-actions.visible { display: flex; }
     .fc-btn { flex: 1; padding: 9px 14px; border-radius: 5px; border: 1px solid transparent; font-size: 0.9rem; font-weight: 600; cursor: pointer; transition: opacity 0.15s; }
-    .fc-know { background: var(--accent-green); color: #fff; border-color: var(--accent-green); }
+    .fc-know { background: var(--accent-yellow); color: #fff; border-color: var(--accent-yellow); }
     .fc-know:hover { opacity: 0.85; }
     .fc-learning { background: transparent; color: var(--text-primary); border-color: var(--border-default); }
     .fc-learning:hover { background: rgba(255,255,255,0.04); }
@@ -572,7 +572,7 @@
     }
     .jp-word[data-romaji]:hover::after { opacity: 1; }
     .jp-word.speaking {
-      border-bottom-color: var(--accent-green);
+      border-bottom-color: var(--accent-yellow);
       background: rgba(241,190,50,0.12);
       animation: jp-pulse 0.6s ease-in-out infinite alternate;
     }
@@ -1711,7 +1711,7 @@ function handleQuizCheck(btn) {
     if (!fb) return;
     fb.style.display = 'block';
     if (ok) {
-      items.forEach(function(el) { el.style.borderColor = '#acd157' });
+      items.forEach(function(el) { el.style.borderColor = '#f1be32' });
       fb.className = 'quiz-feedback ok';
       fb.textContent = '✓ Correct order! ' + qData.exp;
       setTimeout(function() { showInlineCompletion(btn); }, 600);
@@ -2498,7 +2498,7 @@ function vocabShowScore(analysis, heard, confidence) {
   const score = analysis.score;
   const isGood = score >= 85, isOk = score >= 65;
   const cls = isGood ? 'ok' : isOk ? 'ok' : 'err';
-  const fillColor = isGood ? 'var(--accent-green)' : isOk ? 'var(--accent-yellow)' : '#f1be32';
+  const fillColor = isGood ? 'var(--accent-yellow)' : isOk ? 'var(--accent-yellow)' : '#f1be32';
   const label = isGood ? 'Perfect!' : isOk ? 'Good' : 'Try Again';
   let matchCnt = 0, wrongCnt = 0, extraCnt = 0, missingCnt = 0;
   if (analysis.expected) analysis.expected.forEach(function(c) {
@@ -2506,7 +2506,7 @@ function vocabShowScore(analysis, heard, confidence) {
   });
   if (analysis.spoken) analysis.spoken.forEach(function(c) { if (c.status === 'extra') extraCnt++; });
   let parts = [];
-  if (matchCnt) parts.push('<span style="color:var(--accent-green);">' + matchCnt + ' correct</span>');
+  if (matchCnt) parts.push('<span style="color:var(--accent-yellow);">' + matchCnt + ' correct</span>');
   if (wrongCnt) parts.push('<span style="color:#f1be32;">' + wrongCnt + ' wrong</span>');
   if (extraCnt) parts.push('<span style="color:var(--accent-yellow);">+' + extraCnt + '</span>');
   if (missingCnt) parts.push('<span style="color:var(--text-muted);">-' + missingCnt + '</span>');
@@ -3048,7 +3048,7 @@ function simShowPracticeResult(btn, spoken, analysis, confidence) {
   }
   const score = analysis.score;
   const cls = score >= 80 ? 'psc-good' : score >= 50 ? 'psc-ok' : 'psc-bad';
-  const fillColor = score >= 80 ? 'var(--accent-green)' : score >= 50 ? 'var(--accent-yellow)' : '#f1be32';
+  const fillColor = score >= 80 ? 'var(--accent-yellow)' : score >= 50 ? 'var(--accent-yellow)' : '#f1be32';
   const msg = score >= 80 ? '上手です！ Great!' : score >= 50 ? 'もう少し！ Keep practicing' : 'もう一度！ Try again';
   // Count statuses
   let matchCnt = 0, wrongCnt = 0, extraCnt = 0, missingCnt = 0;
@@ -3065,7 +3065,7 @@ function simShowPracticeResult(btn, spoken, analysis, confidence) {
   var msgHtml = '<div style="font-size:0.88rem;margin-bottom:2px;">' + msg + ' ' + simStars(score) + '</div>';
   // Summary
   var parts = [];
-  if (matchCnt) parts.push('<span style="color:var(--accent-green);">✓ ' + matchCnt + ' correct</span>');
+  if (matchCnt) parts.push('<span style="color:var(--accent-yellow);">✓ ' + matchCnt + ' correct</span>');
   if (wrongCnt) parts.push('<span style="color:#f1be32;">✗ ' + wrongCnt + ' wrong</span>');
   if (extraCnt) parts.push('<span style="color:var(--accent-yellow);">+ ' + extraCnt + ' extra</span>');
   if (missingCnt) parts.push('<span style="color:var(--text-muted);">− ' + missingCnt + ' missing</span>');
@@ -3348,7 +3348,7 @@ function simAddUserMessage(jp, label, feedback, badge, practiceResult) {
   if (practiceResult && practiceResult.analysis) {
     var pr = practiceResult;
     var score = pr.analysis.score;
-    var fillColor = score >= 80 ? 'var(--accent-green)' : score >= 50 ? 'var(--accent-yellow)' : '#f1be32';
+    var fillColor = score >= 80 ? 'var(--accent-yellow)' : score >= 50 ? 'var(--accent-yellow)' : '#f1be32';
     // Count statuses
     var m = 0, w = 0, e = 0, mis = 0;
     if (pr.analysis.expected) pr.analysis.expected.forEach(function(c) {
@@ -3356,7 +3356,7 @@ function simAddUserMessage(jp, label, feedback, badge, practiceResult) {
     });
     if (pr.analysis.spoken) pr.analysis.spoken.forEach(function(c) { if (c.status === 'extra') e++; });
     var parts = [];
-    if (m) parts.push('<span style="color:var(--accent-green);">' + m + ' correct</span>');
+    if (m) parts.push('<span style="color:var(--accent-yellow);">' + m + ' correct</span>');
     if (w) parts.push('<span style="color:#f1be32;">' + w + ' wrong</span>');
     if (e) parts.push('<span style="color:var(--accent-yellow);">+' + e + '</span>');
     if (mis) parts.push('<span style="color:var(--text-muted);">-'+mis+'</span>');

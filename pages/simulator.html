@@ -66,7 +66,7 @@
     .setup-start { width:100%; margin-top:22px; padding:13px; background:var(--accent-yellow); color:#0a0a23; border:none; border-radius:6px; font-size:0.95rem; font-weight:700; cursor:pointer; transition:opacity 0.15s; font-family:inherit; }
     .setup-start:hover { opacity:0.85; }
     .setup-stats { font-size:0.8rem; color:var(--text-muted); text-align:center; margin-top:10px; }
-    .setup-stats strong { color:var(--accent-green); }
+    .setup-stats strong { color:var(--accent-yellow); }
 
     /* SIMULATOR SCREEN */
     #simScreen { display:none; }
@@ -75,7 +75,7 @@
     .sim-back-btn:hover { background:var(--bg-tertiary); color:var(--text-primary); }
     .sim-queue-info { font-family:var(--font-mono); font-size:0.76rem; color:var(--text-muted); white-space:nowrap; flex-shrink:0; }
     .sim-prog-wrap { flex:1; height:5px; background:var(--bg-tertiary); border-radius:3px; overflow:hidden; }
-    .sim-prog-bar { height:100%; background:var(--accent-green); border-radius:3px; transition:width 0.4s; }
+    .sim-prog-bar { height:100%; background:var(--accent-yellow); border-radius:3px; transition:width 0.4s; }
     .sim-loading { text-align:center; padding:60px 24px; color:var(--text-muted); font-size:1rem; }
 
     /* CHAT */
@@ -111,7 +111,7 @@
     .practice-btn { flex-shrink:0; background:transparent; border:1px solid var(--border-default); color:var(--text-muted); width:44px; border-radius:5px; cursor:pointer; font-size:1.1rem; display:flex; align-items:center; justify-content:center; transition:border-color 0.12s,color 0.12s,background 0.12s; }
     .practice-btn:hover { border-color:var(--accent-blue); color:var(--accent-blue); }
     .practice-btn.listening { border-color:var(--accent-red); color:var(--accent-red); background:rgba(241,190,50,0.1); animation:mic-pulse 0.9s ease-in-out infinite; }
-    .practice-btn.done { border-color:var(--accent-green); color:var(--accent-green); }
+    .practice-btn.done { border-color:var(--accent-yellow); color:var(--accent-yellow); }
     @keyframes mic-pulse { 0%,100% { opacity:1; } 50% { opacity:0.4; } }
     .typing-indicator { display:flex; gap:12px; align-items:flex-start; }
     .typing-indicator > div { max-width:50%; }
@@ -121,14 +121,14 @@
     .typing-dots span:nth-child(3) { animation-delay:0.4s; }
     @keyframes typing-bounce { 0%,60%,100% { transform:translateY(0); opacity:0.4; } 30% { transform:translateY(-5px); opacity:1; } }
     .practice-result { margin-top:6px; font-size:0.83rem; padding:8px 12px; border-radius:5px; background:var(--bg-tertiary); border:1px solid var(--border-default); line-height:1.5; }
-    .psc-good { color:var(--accent-green); }
+    .psc-good { color:var(--accent-yellow); }
     .psc-ok   { color:var(--accent-yellow); }
     .psc-bad  { color:#f1be32; }
 
     /* PRONUNCIATION */
     .pron-align { display:flex; flex-wrap:wrap; gap:2px; margin:6px 0 4px; font-size:1.1rem; }
     .pron-char { display:inline-block; padding:1px 2px; border-radius:3px; min-width:0.6em; text-align:center; transition:background 0.15s; }
-    .pron-match { color:var(--accent-green); background:rgba(241,190,50,0.1); }
+    .pron-match { color:var(--accent-yellow); background:rgba(241,190,50,0.1); }
     .pron-wrong { color:#f1be32; background:rgba(241,190,50,0.12); text-decoration:underline; text-decoration-color:#f1be32; }
     .pron-extra { color:var(--accent-yellow); background:rgba(241,190,50,0.1); text-decoration:underline; text-decoration-style:dotted; }
     .pron-missing { color:var(--text-muted); background:rgba(255,255,255,0.03); opacity:0.5; }
@@ -174,7 +174,7 @@
     @keyframes guide-glow { 0%,100% { box-shadow:0 0 0 0 rgba(241,190,50,0.4); } 50% { box-shadow:0 0 0 6px rgba(241,190,50,0); } }
     .practice-btn.guide-glow { animation:guide-glow 1.5s ease-in-out 3; border-color:var(--accent-yellow); }
     .feedback-badge { display:inline-block; padding:3px 10px; border-radius:99px; font-size:0.7rem; font-family:var(--font-mono); font-weight:700; letter-spacing:0.05em; margin-top:6px; }
-    .badge-perfect { background:rgba(241,190,50,0.15); color:var(--accent-green); border:1px solid rgba(241,190,50,0.3); }
+    .badge-perfect { background:rgba(241,190,50,0.15); color:var(--accent-yellow); border:1px solid rgba(241,190,50,0.3); }
     .badge-good    { background:rgba(241,190,50,0.1); color:var(--accent-yellow); border:1px solid rgba(241,190,50,0.3); }
 
     /* TOAST */
@@ -341,7 +341,7 @@ function updateSetupStats() {
   const count = ids.length;
   let done = 0;
   try { done = ids.filter(id => localStorage.getItem('omotenashi:simulator:' + id) === '1').length; } catch(e) {}
-  const doneStr = done > 0 ? ' &nbsp;<span style="color:var(--accent-green);font-size:0.85em">' + done + '/' + count + ' completed</span>' : '';
+  const doneStr = done > 0 ? ' &nbsp;<span style="color:var(--accent-yellow);font-size:0.85em">' + done + '/' + count + ' completed</span>' : '';
   document.getElementById('setupStats').innerHTML = '<strong>' + count + '</strong> scenario' + (count !== 1 ? 's' : '') + ' available' + doneStr;
 }
 
@@ -580,13 +580,13 @@ function simShowPracticeResult(btn, spoken, analysis, confidence) {
   }
   const score = analysis.score;
   const cls = score >= 80 ? 'psc-good' : score >= 50 ? 'psc-ok' : 'psc-bad';
-  const fillColor = score >= 80 ? 'var(--accent-green)' : score >= 50 ? 'var(--accent-yellow)' : '#f1be32';
+  const fillColor = score >= 80 ? 'var(--accent-yellow)' : score >= 50 ? 'var(--accent-yellow)' : '#f1be32';
   const msg = score >= 80 ? '\u4e0a\u624b\u3067\u3059\uff01 Great!' : score >= 50 ? '\u3082\u3046\u5c11\u3057\uff01 Keep practicing' : '\u3082\u3046\u4e00\u5ea6\uff01 Try again';
   let matchCnt = 0, wrongCnt = 0, extraCnt = 0, missingCnt = 0;
   if (analysis.expected) analysis.expected.forEach(c => { if (c.status === 'match') matchCnt++; else if (c.status === 'wrong') wrongCnt++; else if (c.status === 'missing') missingCnt++; });
   if (analysis.spoken) analysis.spoken.forEach(c => { if (c.status === 'extra') extraCnt++; });
   let parts = [];
-  if (matchCnt) parts.push('<span style="color:var(--accent-green);">\u2713 ' + matchCnt + ' correct</span>');
+  if (matchCnt) parts.push('<span style="color:var(--accent-yellow);">\u2713 ' + matchCnt + ' correct</span>');
   if (wrongCnt) parts.push('<span style="color:#f1be32;">\u2717 ' + wrongCnt + ' wrong</span>');
   if (extraCnt) parts.push('<span style="color:var(--accent-yellow);">+ ' + extraCnt + ' extra</span>');
   if (missingCnt) parts.push('<span style="color:var(--text-muted);">\u2212 ' + missingCnt + ' missing</span>');
@@ -914,12 +914,12 @@ function simAddUserMessage(jp, label, feedback, badge, practiceResult) {
   if (practiceResult && practiceResult.analysis) {
     const pr = practiceResult;
     const score = pr.analysis.score;
-    const fillColor = score >= 80 ? 'var(--accent-green)' : score >= 50 ? 'var(--accent-yellow)' : '#f1be32';
+    const fillColor = score >= 80 ? 'var(--accent-yellow)' : score >= 50 ? 'var(--accent-yellow)' : '#f1be32';
     let mc = 0, wc = 0, ec = 0, mis = 0;
     if (pr.analysis.expected) pr.analysis.expected.forEach(c => { if (c.status === 'match') mc++; else if (c.status === 'wrong') wc++; else if (c.status === 'missing') mis++; });
     if (pr.analysis.spoken) pr.analysis.spoken.forEach(c => { if (c.status === 'extra') ec++; });
     let parts = [];
-    if (mc) parts.push('<span style="color:var(--accent-green);">' + mc + ' correct</span>');
+    if (mc) parts.push('<span style="color:var(--accent-yellow);">' + mc + ' correct</span>');
     if (wc) parts.push('<span style="color:#f1be32;">' + wc + ' wrong</span>');
     if (ec) parts.push('<span style="color:var(--accent-yellow);">+' + ec + '</span>');
     if (mis) parts.push('<span style="color:var(--text-muted);">-' + mis + '</span>');
