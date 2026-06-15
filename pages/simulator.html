@@ -91,7 +91,7 @@
     .msg-guest > div, .msg-user > div { max-width:50%; }
     .msg-bubble { max-width:100%; width:100%; padding:14px 18px; border-radius:8px; font-size:1.1rem; line-height:1.7; line-break:strict; overflow-wrap:anywhere; }
     .msg-guest .msg-bubble { background:var(--bg-tertiary); color:#fff; border-bottom-left-radius:2px; }
-    .msg-user .msg-bubble { background:rgba(31,173,105,0.15); color:#fff; border:1px solid rgba(31,173,105,0.3); border-bottom-right-radius:2px; }
+    .msg-user .msg-bubble { background:rgba(241,190,50,0.15); color:#fff; border:1px solid rgba(241,190,50,0.3); border-bottom-right-radius:2px; }
     .msg-label { font-size:0.85rem; color:var(--text-muted); margin-bottom:4px; }
     .msg-guest .msg-label { text-align:left; }
     .msg-user .msg-label { text-align:right; }
@@ -128,7 +128,7 @@
     /* PRONUNCIATION */
     .pron-align { display:flex; flex-wrap:wrap; gap:2px; margin:6px 0 4px; font-size:1.1rem; }
     .pron-char { display:inline-block; padding:1px 2px; border-radius:3px; min-width:0.6em; text-align:center; transition:background 0.15s; }
-    .pron-match { color:var(--accent-green); background:rgba(31,173,105,0.1); }
+    .pron-match { color:var(--accent-green); background:rgba(241,190,50,0.1); }
     .pron-wrong { color:#e07060; background:rgba(197,68,42,0.12); text-decoration:underline; text-decoration-color:#e07060; }
     .pron-extra { color:var(--accent-yellow); background:rgba(241,190,50,0.1); text-decoration:underline; text-decoration-style:dotted; }
     .pron-missing { color:var(--text-muted); background:rgba(255,255,255,0.03); opacity:0.5; }
@@ -174,7 +174,7 @@
     @keyframes guide-glow { 0%,100% { box-shadow:0 0 0 0 rgba(241,190,50,0.4); } 50% { box-shadow:0 0 0 6px rgba(241,190,50,0); } }
     .practice-btn.guide-glow { animation:guide-glow 1.5s ease-in-out 3; border-color:var(--accent-yellow); }
     .feedback-badge { display:inline-block; padding:3px 10px; border-radius:99px; font-size:0.7rem; font-family:var(--font-mono); font-weight:700; letter-spacing:0.05em; margin-top:6px; }
-    .badge-perfect { background:rgba(31,173,105,0.15); color:var(--accent-green); border:1px solid rgba(31,173,105,0.3); }
+    .badge-perfect { background:rgba(241,190,50,0.15); color:var(--accent-green); border:1px solid rgba(241,190,50,0.3); }
     .badge-good    { background:rgba(241,190,50,0.1); color:var(--accent-yellow); border:1px solid rgba(241,190,50,0.3); }
 
     /* TOAST */
@@ -961,7 +961,7 @@ function simShowResult() {
   document.getElementById('modalSectionTitle').textContent = _simScenario.title;
   const fill = document.getElementById('modalProgressFill');
   fill.style.width = pct + '%';
-  fill.style.background = pct >= 80 ? '#1fad69' : pct >= 50 ? '#f1be32' : '#c5442a';
+  fill.style.background = pct >= 80 ? '#f1be32' : pct >= 50 ? '#f1be32' : '#c5442a';
   document.getElementById('modalPercent').textContent = pct + '% complete';
   const hasNext = _simQueueIdx < _simQueue.length - 1;
   document.getElementById('modalNextBtn').textContent = hasNext ? 'Next Scenario \u2192' : 'Back to Setup';
