@@ -23,11 +23,22 @@ Keigo answers all four questions before the guest has even stated their request.
 
 Japanese has three formal speech systems that hotels use together in every interaction. Each has a distinct function, and all three must be active at once.
 
-| Register | Japanese | Function |
-|---|---|---|
-| Honorific | <span>尊敬語 (Sonkeigo)</span> | Describes the **guest's** actions; raises the guest |
-| Humble | <span>謙譲語 (Kenjogo)</span> | Describes the **staff's** actions; lowers the staff |
-| Polite | <span>丁寧語 (Teineigo)</span> | Sets the general professional tone |
+<div class="no-tts">
+<div class="keigo-card yellow">
+<span class="keigo-card-title">Honorific — 尊敬語 (Sonkeigo)</span>
+Describes the <strong>guest's</strong> actions; raises the guest.
+</div>
+
+<div class="keigo-card yellow">
+<span class="keigo-card-title">Humble — 謙譲語 (Kenjogo)</span>
+Describes the <strong>staff's</strong> actions; lowers the staff.
+</div>
+
+<div class="keigo-card yellow">
+<span class="keigo-card-title">Polite — 丁寧語 (Teineigo)</span>
+Sets the general professional tone.
+</div>
+</div>
 
 Using only one register is not enough. A hotel interaction that uses only teineigo sounds technically polite but emotionally flat. The combination of all three creates the distinctively warm, professional atmosphere of Japanese hospitality.
 

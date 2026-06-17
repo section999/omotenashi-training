@@ -12,11 +12,25 @@ To use keigo correctly is to express, at the level of language itself, that the 
 
 Keigo has three registers, each with a distinct function:
 
-| Type | Japanese | Purpose | Example |
-|------|----------|---------|---------|
-| Sonkeigo | 尊敬語 | Elevates the guest's actions and status | いらっしゃいます (for the guest: to be/come) |
-| Kenjōgo | 謙譲語 | Humbles the speaker's own actions, showing deference | 参ります (I, humbly, will go) |
-| Teineigo | 丁寧語 | General polite speech, the baseline register | です / ます forms |
+<div class="no-tts">
+<div class="keigo-card yellow">
+<span class="keigo-card-title">Sonkeigo — 尊敬語</span>
+Elevates the guest's actions and status.<br>
+<strong>Example:</strong> いらっしゃいます (for the guest: to be / come)
+</div>
+
+<div class="keigo-card yellow">
+<span class="keigo-card-title">Kenjōgo — 謙譲語</span>
+Humbles the speaker's own actions, showing deference.<br>
+<strong>Example:</strong> 参ります (I, humbly, will go)
+</div>
+
+<div class="keigo-card yellow">
+<span class="keigo-card-title">Teineigo — 丁寧語</span>
+General polite speech, the baseline register.<br>
+<strong>Example:</strong> です / ます forms
+</div>
+</div>
 
 ## Why Register Choice Matters
 

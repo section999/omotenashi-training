@@ -22,13 +22,32 @@ This history explains why many Japanese guests still approach onsen as something
 
 Different springs carry different minerals, and each is associated with specific therapeutic effects:
 
-| Type | Japanese | Associated benefits |
-|---|---|---|
-| Sulphur | 硫黄泉 | Skin conditions, circulation |
-| Sodium chloride | 塩化物泉 | Warming, joint pain |
-| Bicarbonate | 炭酸水素塩泉 | Skin softening, "beauty bath" |
-| Iron | 含鉄泉 | Anaemia, fatigue |
-| Simple thermal | 単純温泉 | General relaxation |
+<div class="no-tts">
+<div class="keigo-card yellow">
+<span class="keigo-card-title">Sulphur — 硫黄泉</span>
+Skin conditions, circulation
+</div>
+
+<div class="keigo-card yellow">
+<span class="keigo-card-title">Sodium chloride — 塩化物泉</span>
+Warming, joint pain
+</div>
+
+<div class="keigo-card yellow">
+<span class="keigo-card-title">Bicarbonate — 炭酸水素塩泉</span>
+Skin softening, "beauty bath"
+</div>
+
+<div class="keigo-card yellow">
+<span class="keigo-card-title">Iron — 含鉄泉</span>
+Anaemia, fatigue
+</div>
+
+<div class="keigo-card yellow">
+<span class="keigo-card-title">Simple thermal — 単純温泉</span>
+General relaxation
+</div>
+</div>
 
 Knowing your property's water type and describing its properties clearly and confidently is a genuine service skill. Guests ask about this regularly, and a clear, accurate answer builds trust immediately.
 
