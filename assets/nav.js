@@ -124,6 +124,7 @@ function toggleMode() {
 function signOut() {
   localStorage.removeItem('omotenashi:user:name');
   updateBanner(null);
+  if (typeof openSignInModal === 'function') openSignInModal();
 }
 function updateBanner(name) {
   var text = document.getElementById('banner-text');
@@ -140,6 +141,9 @@ function updateBanner(name) {
     btn.style.fontFamily = '\'Cascadia Code\',\'Fira Code\',\'Consolas\',monospace';
     text.style.display = 'inline';
     btn.style.display = 'inline-block';
+  } else {
+    text.style.display = 'none';
+    btn.style.display = 'none';
   }
 }
 function exportProgress() {

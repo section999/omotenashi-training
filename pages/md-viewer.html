@@ -121,7 +121,8 @@
     [data-theme="light"] .jp-speak:hover { color: var(--accent-yellow); }
 
     /* QUIZ */
-    .section-quiz { margin-top: 56px; background: var(--bg-primary); border: 1px solid var(--border-default); border-radius: 8px; padding: 20px 24px; }
+    .quiz-divider { border: none; border-top: 1px solid var(--border-default); margin: 40px 0 32px; }
+    .section-quiz { background: var(--bg-primary); border: 1px solid var(--border-default); border-radius: 8px; padding: 20px 24px; }
     .quiz-label { font-family: var(--font-mono); font-size: 0.875rem; letter-spacing: 0.1em; text-transform: uppercase; color: #fff; margin-bottom: 10px; text-align: center; }
     .quiz-q { font-size: 1rem; font-weight: 600; margin-bottom: 14px; line-height: 1.5; color: #fff; white-space: pre-line; }
     .quiz-options { display: flex; flex-direction: column; gap: 8px; }
@@ -640,26 +641,28 @@
 <script>document.getElementById('nav-root').innerHTML = renderNav()</script>
 
 <!-- SIGN-IN MODAL -->
-<div id="signin-modal" style="display:none;position:fixed;inset:0;z-index:900;background:rgba(0,0,0,0.65);align-items:center;justify-content:center;">
-  <div style="background:var(--bg-secondary);border:1px solid var(--border-default);border-radius:12px;padding:40px 36px;max-width:400px;width:90%;position:relative;">
-    <button onclick="closeSignInModal()" style="position:absolute;top:14px;right:18px;background:none;border:none;color:var(--text-secondary);font-size:1.25rem;cursor:pointer;line-height:1;">✕</button>
-    <h2 style="font-size:1.15rem;font-weight:700;margin-bottom:6px;">Save your progress</h2>
-    <p style="font-size:0.85rem;color:var(--text-secondary);margin-bottom:24px;">Enter your name to track completed lessons. Progress is stored locally in your browser.</p>
-    <label style="font-size:0.8rem;color:var(--text-secondary);display:block;margin-bottom:6px;">Your name</label>
+<div id="signin-modal" style="display:none;position:fixed;inset:0;z-index:900;background:rgba(0,0,0,0.65);backdrop-filter:blur(8px);align-items:center;justify-content:center;">
+  <div style="background:var(--bg-primary);border:1px solid var(--border-default);border-radius:16px;padding:44px 40px 36px;max-width:360px;width:90%;position:relative;">
+    <button onclick="closeSignInModal()" style="position:absolute;top:16px;right:18px;background:none;border:none;color:var(--text-muted);font-size:1rem;cursor:pointer;padding:4px;line-height:1;opacity:0.5;">✕</button>
+    <p style="font-family:var(--font-mono);font-size:0.65rem;text-transform:uppercase;letter-spacing:0.16em;color:#f1be32;margin-bottom:14px;">Track your progress</p>
+    <h2 style="font-size:1.35rem;font-weight:700;color:var(--text-primary);margin-bottom:28px;line-height:1.3;">What's your name?</h2>
     <input id="signin-name" type="text" placeholder="e.g. Tanaka" maxlength="40"
-      style="width:100%;padding:10px 14px;border-radius:6px;border:1px solid var(--border-default);background:var(--bg-tertiary);color:#fff;font-size:0.95rem;outline:none;margin-bottom:20px;"
+      style="width:100%;padding:12px 16px;border-radius:8px;border:1px solid var(--border-default);background:var(--bg-secondary);color:var(--text-primary);font-size:0.95rem;outline:none;margin-bottom:12px;box-sizing:border-box;transition:border-color 0.2s;"
+      onfocus="this.style.borderColor='#f1be32'" onblur="this.style.borderColor=''"
       onkeydown="if(event.key==='Enter')submitSignIn()" />
-    <button onclick="submitSignIn()" style="width:100%;background:var(--accent-blue);color:#fff;border:none;border-radius:6px;padding:11px;font-size:0.95rem;font-weight:700;cursor:pointer;">
+    <button onclick="submitSignIn()" style="width:100%;background:#f1be32;color:#0a0a23;border:none;border-radius:8px;padding:13px;font-size:0.95rem;font-weight:700;cursor:pointer;letter-spacing:0.02em;margin-bottom:6px;">
       Start Learning
     </button>
-    <hr style="border:none;border-top:1px solid var(--border-default);margin:20px 0;" />
-    <p style="font-size:0.78rem;color:var(--text-muted);margin-bottom:10px;">Progress is saved in this browser only. Use export/import to move it across devices.</p>
-    <div style="display:flex;gap:8px;">
-      <button onclick="exportProgress()" style="flex:1;background:transparent;color:var(--text-secondary);border:1px solid var(--border-default);border-radius:6px;padding:8px;font-size:0.82rem;font-weight:600;cursor:pointer;">
-        Export Progress
+    <button onclick="closeSignInModal()" style="width:100%;background:transparent;color:var(--text-secondary);border:none;padding:9px;font-size:0.95rem;cursor:pointer;">
+      Skip for now
+    </button>
+    <div style="display:flex;align-items:center;justify-content:center;gap:4px;margin-top:20px;">
+      <button onclick="exportProgress()" style="background:transparent;color:var(--text-secondary);border:none;padding:6px 12px;font-size:0.9rem;font-family:var(--font-mono);cursor:pointer;letter-spacing:0.08em;">
+        export
       </button>
-      <button onclick="importProgress()" style="flex:1;background:transparent;color:var(--text-secondary);border:1px solid var(--border-default);border-radius:6px;padding:8px;font-size:0.82rem;font-weight:600;cursor:pointer;">
-        Import Progress
+      <span style="color:var(--border-default);font-size:0.8rem;line-height:1;user-select:none;">|</span>
+      <button onclick="importProgress()" style="background:transparent;color:var(--text-secondary);border:none;padding:6px 12px;font-size:0.9rem;font-family:var(--font-mono);cursor:pointer;letter-spacing:0.08em;">
+        import
       </button>
     </div>
   </div>
@@ -1419,7 +1422,7 @@ function renderQuiz(meta) {
         <span class="quiz-opt-letter">${letter}</span>${marked.parseInline(o)}
       </div>`;
     }).join('');
-    return `<div class="section-quiz" data-qtype="mcq" data-qid="${qId}">
+    return `<hr class="quiz-divider"><div class="section-quiz" data-qtype="mcq" data-qid="${qId}">
       <div class="quiz-label">Quiz</div>
       <div class="quiz-q">${marked.parseInline(q)}</div>
       <div class="quiz-options" id="${qId}-opts">${optHtml}</div>
@@ -1429,7 +1432,7 @@ function renderQuiz(meta) {
   }
   if (type === 'tf') {
     _quizData.set(qId, { type, correct, exp });
-    return `<div class="section-quiz" data-qtype="tf" data-qid="${qId}">
+    return `<hr class="quiz-divider"><div class="section-quiz" data-qtype="tf" data-qid="${qId}">
       <div class="quiz-label">True / False</div>
       <div class="quiz-q">${marked.parseInline(q)}</div>
       <div class="tf-options">
