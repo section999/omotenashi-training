@@ -8,7 +8,7 @@ The front desk requires the widest keigo range of any hotel department. Staff mu
 
 ## Core Front Desk Phrases
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>いらっしゃいませ。</code></span><br>
 <em>irasshaimase.</em><br>
 Welcome.<br><br>

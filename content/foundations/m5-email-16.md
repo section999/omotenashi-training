@@ -10,7 +10,7 @@ This email must accomplish three key goals: acknowledge the guest's inquiry imme
 
 ## Full Template: Availability Inquiry
 
-<div class="keigo-card blue email-example">
+<div class="keigo-card yellow email-example">
 <span class="keigo-pair-label">Opening</span>
 <code>この度は、当ホテルへお問い合わせいただき、誠にありがとうございます。</code><br>
 <em>kono tabi wa, tou hoteru e o-toiawase itadaki, makotoni arigatou gozaimasu.</em><br>
@@ -38,7 +38,7 @@ This email must accomplish three key goals: acknowledge the guest's inquiry imme
 
 When a guest asks about special arrangements (accessibility, dietary needs, specific room requests):
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ご要望の[specific request]につきましては、対応可能でございます。ご到着前にご担当者からご連絡差し上げます。</code></span><br>
 <em>go-youbou no [ specific request ] ni tsuki mashite wa, taiou kanou de gozaimasu. go touchaku mae ni go tantou sha kara go-renraku sashiage masu.</em><br>
 We are able to accommodate your request for [specific request]. Our coordinator will contact you before your arrival.
@@ -46,7 +46,7 @@ We are able to accommodate your request for [specific request]. Our coordinator 
 
 If not fully possible:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ご要望の[specific request]につきましては、現在のところ[limitation]となっております。誠に恐れ入りますが、[alternative if available]でしたらご対応が可能でございます。</code></span><br>
 <em>go-youbou no [ specific request ] ni tsuki mashite wa, genzai no tokoro [ limitation ] to natte orimasu. makotoni osoreirimasu ga, [ alternative if available ] deshi tara go-taiou ga kanou de gozaimasu.</em><br>
 Regarding your request for [specific request], we are currently limited to [limitation]. I am very sorry, but [alternative] would be possible.

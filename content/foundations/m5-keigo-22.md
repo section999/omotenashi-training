@@ -8,7 +8,7 @@ Restaurant service requires precise keigo for seating, taking orders, presenting
 
 ## Core Dining Phrases
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>何名様でいらっしゃいますか。</code></span><br>
 <em>nanmei-sama de irasshaimasu ka.</em><br>
 How many in your party?<br><br>

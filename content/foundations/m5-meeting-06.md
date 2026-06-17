@@ -29,7 +29,7 @@ Room 210: Noise complaint. Adjacent room informed. Room 210 handled.<br><br>
 
 Every handover entry uses the same structure. This makes scanning fast even under pressure.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>[Location/Guest] + [Issue/Request] + [Status]</strong><br><br>
 <span class="keigo-badge info">Example</span> <span class="keigo-jp"><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br>
 <em>305 goushitsu: kuuchou furyou. shuri tehaizumi (ashita taiou yotei).</em><br>

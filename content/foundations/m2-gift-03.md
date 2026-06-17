@@ -10,7 +10,7 @@ In Japanese gift culture, how a gift is presented is as important as what it con
 
 A noshi is the decorative emblem attached to the front of a gift box. Originally a strip of dried abalone, it has long since become a printed paper symbol. Noshi paper (熨斗紙) carries two written elements:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Uwagaki (上書き)</span> the purpose or occasion of the gift, written above the ribbon pattern (e.g., *御礼* for gratitude, *御中元* for a mid-year gift)<br><br><span class="keigo-badge info">Sashidashinin (差出人)</span> the giver's name, written below the ribbon pattern
 </div>
 

@@ -86,7 +86,7 @@ The person in charge is here.<br><br>
 
 These three patterns cover the majority of questions directed at guests in a hotel setting.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>○○でいらっしゃいますか</code></span><br>
 <em>○○ de irasshaimasu ka</em><br>
 Are you ○○?<br>
@@ -97,7 +97,7 @@ Are you ○○?<br>
 Are you Mr./Ms. Tanaka?
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>○○はいかがでしょうか</code></span><br>
 <em>○○ wa ikaga deshou ka</em><br>
 Would you like ○○?<br>
@@ -108,7 +108,7 @@ Would you like ○○?<br>
 Would you like something to drink?
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>○○はいかがなさいますか</code></span><br>
 <em>○○ wa ikaga nasaimasu ka</em><br>
 How would you like to handle ○○?<br>

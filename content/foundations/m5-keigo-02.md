@@ -10,7 +10,7 @@ Before a guest sees their room, before they taste the food, before any service i
 
 Within the first sentence the guest hears, they assess all four of the following simultaneously:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <em>Is this staff member trained?</em><br>
 <em>Is this hotel organized?</em><br>
 <em>Do I feel welcomed here?</em><br>
@@ -31,7 +31,7 @@ Japanese has three formal speech systems that hotels use together in every inter
 
 Using only one register is not enough. A hotel interaction that uses only teineigo sounds technically polite but emotionally flat. The combination of all three creates the distinctively warm, professional atmosphere of Japanese hospitality.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>山田様でいらっしゃいますね。</code></span> <span class="keigo-badge info">尊敬語</span><br>
 <em>yamada-sama de irasshaimasu ne.</em><br>
 You are Mr./Ms. Yamada, correct?<br><br>

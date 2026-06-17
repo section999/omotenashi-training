@@ -10,7 +10,7 @@ The email must accomplish three key goals. First, it should organize practical i
 
 ## Full Template
 
-<div class="keigo-card blue email-example">
+<div class="keigo-card yellow email-example">
 <span class="keigo-pair-label">Opening</span>
 <code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code><br>
 <em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>

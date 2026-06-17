@@ -14,7 +14,7 @@ Acknowledgment → Identity verification → Reservation check → Cancellation 
 
 ## Complete Cancellation Script
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約をキャンセルしたいのですが。</code></span><br>
 <em>yoyaku o kyanseru shitai no desu ga.</em><br>
 I'd like to cancel my reservation.<br><br>
@@ -69,7 +69,7 @@ Your cancellation has been received.<br><br>
 
 If a cancellation fee applies, frame it as policy, not a personal decision. Never state a fee bluntly.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Standard phrase</span>
 <span class="keigo-jp"><code>誠に恐れ入りますが、ご予約のキャンセルポリシーにより、キャンセル料が発生いたします。</code></span><br>
 <em>makoto ni osore irimasu ga, go-yoyaku no kyanseru porishii ni yori, kyanseru ryou ga hassei itashimasu.</em><br>

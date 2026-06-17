@@ -8,7 +8,7 @@ In hotel keigo, the prefixes お and ご are added to nouns and verb stems to cr
 
 ## The Basic Rule
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">お</span> Native Japanese words (和語 / wago)<br>
 <span class="keigo-jp"><code>お部屋</code></span> (へや), <span class="keigo-jp"><code>お荷物</code></span> (にもつ), <span class="keigo-jp"><code>お水</code></span> (みず)<br><br>
 <span class="keigo-badge info">ご</span> Chinese-origin words (漢語 / kango)<br>
@@ -34,7 +34,7 @@ In hotel keigo, the prefixes お and ご are added to nouns and verb stems to cr
 
 ## お in Sentences
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>お荷物をお持ちいたします。</code></span><br>
 <em>o-nimotsu o o-mochi itashimasu.</em><br>
 I will carry your luggage.<br><br>

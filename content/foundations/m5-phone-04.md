@@ -8,7 +8,7 @@ This lesson covers apology and closing expressions, along with one of the most i
 
 ## Apology Expressions
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>申し訳ございません</code></span><br>
 <em>moushiwake gozaimasen</em><br>
 I am very sorry (standard formal apology)<br><br>
@@ -22,7 +22,7 @@ I am truly sorry to trouble you, but... (soft prefix before a refusal or limitat
 
 ## Closing Expressions
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>お電話ありがとうございました</code></span><br>
 <em>o-denwa arigatou gozaimashita</em><br>
 Thank you for your call<br><br>

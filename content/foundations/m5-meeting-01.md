@@ -54,7 +54,7 @@ Room changes, late check-outs, behavioral concerns, medical notes.
 
 ## Key Phrases
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>引き継ぎ</code></span> (hikitsugi), the handover process<br>
 <em>hikitsugi</em><br>
 <span class="keigo-jp"><code>申し送り</code></span> (moushiokuri), the written handover notes<br>

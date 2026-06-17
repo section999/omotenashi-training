@@ -10,7 +10,7 @@ These three sentence patterns cover the majority of guest-facing interactions wh
 
 Used at arrival and any time a guest's identity or status is being confirmed.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>[Name]様でいらっしゃいますか。</code></span><br>
 <em>[Name]-sama de irasshaimasu ka.</em><br>
 Are you Mr./Ms. [Name]?<br><br>
@@ -30,7 +30,7 @@ Used when telling the guest facts about the hotel, their room, or a service.
 
 Structure: <span class="keigo-jp"><code>[subject]は[information]でございます。</code></span>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>お部屋は702号室でございます。</code></span><br>
 <em>o-heya wa 702-goushitsu de gozaimasu.</em><br>
 Your room is Room 702.<br><br>
@@ -48,7 +48,7 @@ Components: お (prefix for 部屋, 和語) + でございます (teineigo refin
 
 Used when requesting a guest to do something. Always use the softened form to avoid sounding demanding.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>○○いただけますでしょうか。</code></span><br>
 <em>○○ itadakemasu deshou ka.</em><br>
 Could you please ○○?<br><br>

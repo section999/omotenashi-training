@@ -15,7 +15,7 @@ The end of a shift arrives alongside physical tiredness, the handover rush, and 
 The review does not need to be long or formal. Five minutes, done consistently, is far more valuable than an occasional hour-long debrief. It can happen on the walk to the locker room. A simple structure is all that is needed.
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">What went well?</span><br>
 Name one or two specific moments from the shift that felt right, a guest interaction handled with real care, a piece of teamwork that flowed well. Be specific. Not "service was good" but "the late check-in at 11pm, I noticed they were exhausted and moved quickly without making them feel rushed."
 <br><br>

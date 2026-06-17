@@ -16,7 +16,7 @@ Cross-department communication uses professional but functional language, not th
 
 ## Front Desk to Housekeeping
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Front Desk:</strong> <span class="keigo-jp"><code>フロントの〇〇です。701号室のお客様より、タオルの追加をご要望いただいております。お願いできますでしょうか。</code></span><br>
 <em>furonto no 〇 〇 desu. 701 gou shitsu no okyakusama yori, taoru no tsuika o go-youbou itadai te orimasu. onegai dekimasu deshou ka.</em><br>
 This is [Name] from the front desk. The guest in Room 701 has requested additional towels. Could you take care of that?<br><br>
@@ -30,7 +30,7 @@ Thank you.
 
 ## Front Desk to Maintenance
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Front Desk:</strong> <span class="keigo-jp"><code>フロントです。503号室のお客様より、シャワーのお湯が出ないとのご報告がございました。早急にご対応いただけますでしょうか。</code></span><br>
 <em>furonto desu. 503 gou shitsu no okyakusama yori, shawa no oyu ga de nai to no go-houkoku ga gozaimashita. soukyu ni go-taiou itadake masu deshou ka.</em><br>
 This is the front desk. The guest in Room 503 has reported that the shower has no hot water. Could you address this as soon as possible?<br><br>

@@ -22,7 +22,7 @@ Each of these patterns, however subtly, communicates: I am managing this situati
 ## The Qualities of a Sincere Apology
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">1. It Names the Issue Specifically</span><br>
 Not "I'm sorry for any inconvenience", this phrase has become so overused it carries almost no weight. Instead: "I'm sorry that the noise last night disturbed your sleep." The specificity shows that the situation was understood, not just acknowledged.
 <br><br>

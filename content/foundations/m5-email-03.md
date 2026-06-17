@@ -10,7 +10,7 @@ The guest relationship determines the recognition phrase, but the email type det
 
 For emails triggered by a booking action, the opening names the specific action so the guest immediately understands the subject.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">New reservation</span>
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
 <em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
@@ -29,7 +29,7 @@ We are writing to inform you that your cancellation has been processed.
 
 For informational emails (check-in reminders, facility updates, policy changes), the opening should be professional and neutral without referencing a specific action.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span><br>
 <em>heiso yori tou hoteru o go-riyou itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for your continued use of our hotel.
@@ -41,7 +41,7 @@ Thank you very much for your continued use of our hotel.
 
 The first line of an apology email must acknowledge the inconvenience immediately. Leading with gratitude in an apology context sounds dismissive.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">General inconvenience</span>
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
 <em>kono tabi wa, go-fuben o okake shi, makoto ni moushiwake gozaimasen.</em><br>
@@ -58,7 +58,7 @@ We sincerely apologize for the trouble caused on this occasion.
 
 After a guest departs, the opening must shift to past tense to reflect the completed stay.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span><br>
 <em>kono tabi wa, tou hoteru o go-riyou itadaki, makotoni arigatou gozaimashita.</em><br>
 Thank you very much for staying at our hotel on this occasion.

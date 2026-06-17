@@ -8,7 +8,7 @@ Late arrival notices are among the most operationally consequential schedule-bas
 
 ## Late Arrival Notices
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約しております山田ですが、チェックインが遅くなりそうで…</code></span><br>
 <em>yoyaku shite orimasu yamada desu ga, chekkuin ga osoku narisou de...</em><br>
 I have a reservation under Yamada. It looks like my check-in may be late...<br><br>

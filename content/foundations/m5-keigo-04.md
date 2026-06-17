@@ -26,7 +26,7 @@ The most important sonkeigo verbs are irregular, meaning they use completely dif
 
 いらっしゃいます is the sonkeigo form for いる, 来る, and 行く. Context determines which meaning is intended.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ロビーにいらっしゃいますか。</code></span><br>
 <em>robii ni irasshaimasu ka.</em><br>
 Are you in the lobby? (いる)<br><br>
@@ -40,7 +40,7 @@ Will you be going to the restaurant? (行く)
 
 ## Key Verbs in Context
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">いらっしゃいます : いる / 来る / 行く</span><br>
 <span class="keigo-jp"><code>こちらにいらっしゃいますか。</code></span><br>
 <em>kochira ni irasshaimasu ka.</em><br>
@@ -56,21 +56,21 @@ Will you be attending the party tonight?<br><br>
 Are you here to check in?
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">召し上がります : 食べる / 飲む</span><br>
 <span class="keigo-jp"><code>朝食はお召し上がりになりますか。</code></span><br>
 <em>choushoku wa o-meshiagari ni narimasu ka.</em><br>
 Will you be having breakfast?
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">おっしゃいます : 言う</span><br>
 <span class="keigo-jp"><code>何かおっしゃいましたか。</code></span><br>
 <em>nani ka osshaimashita ka.</em><br>
 Did you say something?
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">ご覧になります : 見る</span><br>
 <span class="keigo-jp"><code>パンフレットをご覧になりますか。</code></span><br>
 <em>panfuretto o go-ran ni narimasu ka.</em><br>

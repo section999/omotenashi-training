@@ -19,7 +19,7 @@ Responding to reviews has a direct impact on how the property is perceived:
 
 A professional response to a negative review follows a clear structure:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">1. Thank</span><br>the reviewer for taking the time to share their feedback.<br><br><span class="keigo-badge info">2. Acknowledge</span><br>the specific issue they raised, not generically.<br><br><span class="keigo-badge info">3. Apologise</span><br>sincerely for the experience, without deflection or excuse.<br><br><span class="keigo-badge info">4. Explain</span><br>briefly what action has been taken or will be taken, if genuine.<br><br><span class="keigo-badge info">5. Invite</span><br>the guest to return and contact you directly: "We would be honoured to welcome you again and to show you the standard we aspire to."
 </div>
 
@@ -28,7 +28,7 @@ A professional response to a negative review follows a clear structure:
 
 Certain responses undermine the property's credibility, even when well-intentioned:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Defensive language</span> "We are sorry you felt that way" is not an apology. It places the failure in the guest's perception rather than in the service.<br><br><span class="keigo-badge info">Generic responses</span> Copy-pasted replies show the review was not actually read. Guests notice, and so do future readers.<br><br><span class="keigo-badge info">Arguing with the reviewer</span> Even if a review is factually inaccurate, a public dispute damages the property's image more than the original review.<br><br><span class="keigo-badge info">Identifying staff by name</span> in a negative response: this deflects responsibility onto an individual, which is unprofessional and unfair.
 </div>
 

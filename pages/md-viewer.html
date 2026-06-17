@@ -97,11 +97,14 @@
     .section-body ul, .section-body ol { margin: 0.5rem 0 1rem 1.4rem; color: #fff; }
     .section-body li { margin-bottom: 0.4rem; line-height: 1.65; font-size: 1rem; color: #fff; }
     .section-body hr { border: none; border-top: 1px solid var(--border-default); margin: 28px 0; }
-    .section-body table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 1rem; }
+    .section-body .table-wrap { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; width: 100%; margin: 1rem 0; }
+    .section-body table { width: 100%; border-collapse: collapse; font-size: 1rem; }
     .section-body th { background: rgba(255,255,255,0.04); text-align: center; padding: 8px 14px; color: #fff; font-weight: 600; border-bottom: 1px solid var(--border-default); border-right: 1px solid var(--border-default); white-space: nowrap; }
     .section-body th:last-child { border-right: none; }
     .section-body td { padding: 8px 14px; border-bottom: 1px solid rgba(255,255,255,0.04); border-right: 1px solid rgba(255,255,255,0.06); color: #fff; text-align: left; }
     .section-body td:last-child { border-right: none; }
+    .section-body th:first-child, .section-body td:first-child { width: 38%; }
+    .section-body th:last-child, .section-body td:last-child { width: 62%; }
     @media (max-width: 640px) {
       .section-body table { font-size: 0.875rem; }
       .section-body th { padding: 6px 10px; white-space: normal; }
@@ -362,7 +365,7 @@
     .keigo-card { background: var(--bg-tertiary); border: 1px solid var(--border-default); border-radius: 8px; padding: 14px 18px; margin: 1rem 0; }
     .keigo-card-title { font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; display: block; }
     .keigo-card.blue { border-left: 4px solid var(--accent-blue); }
-    .keigo-card.yellow { border-left: 4px solid var(--accent-yellow); }
+    .keigo-card.yellow { border-left: 4px solid var(--accent-yellow); background: rgba(241,190,50,0.06); border-color: rgba(241,190,50,0.2); }
     .keigo-card.amber { border-left: 4px solid var(--accent-yellow); }
     .keigo-card.red { border-left: 4px solid var(--accent-error); }
     .keigo-card.blue .keigo-card-title { color: #99c9ff; }
@@ -371,9 +374,9 @@
     .keigo-card.red .keigo-card-title { color: var(--accent-error); }
     .keigo-badge { display: inline-block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; padding: 2px 8px; border-radius: 4px; margin-right: 6px; }
     .jp-sentence-wrap > .keigo-badge { margin-right: 0; margin-bottom: 5px; align-self: flex-start; }
-    .keigo-badge.bad { background: rgba(241,190,50,0.15); color: var(--accent-error); }
+    .keigo-badge.bad { background: rgba(241,190,50,0.15); color: var(--accent-yellow); }
     .keigo-badge.good { background: rgba(241,190,50,0.15); color: var(--accent-yellow); }
-    .keigo-badge.info { background: rgba(0,46,173,0.25); color: #99c9ff; }
+    .keigo-badge.info { background: rgba(241,190,50,0.15); color: var(--accent-yellow); }
     .keigo-badge.use { background: rgba(241,190,50,0.15); color: #f1be32; }
     .email-toggle-btn { display: block; margin-bottom: 14px; padding: 5px 14px; font-size: 0.8rem; font-family: inherit; background: rgba(153,201,255,0.1); color: #99c9ff; border: 1px solid rgba(153,201,255,0.3); border-radius: 6px; cursor: pointer; transition: background 0.15s; }
     .email-toggle-btn:hover { background: rgba(153,201,255,0.2); }
@@ -398,7 +401,7 @@
     .keigo-pair .bad-col { background: rgba(241,190,50,0.06); border-color: rgba(241,190,50,0.2); }
     .keigo-pair .good-col { background: rgba(241,190,50,0.06); border-color: rgba(241,190,50,0.2); }
     .keigo-pair-label { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 4px; display: block; }
-    .keigo-pair .bad-col .keigo-pair-label { color: var(--accent-error); }
+    .keigo-pair .bad-col .keigo-pair-label { color: var(--accent-yellow); }
     .keigo-pair .good-col .keigo-pair-label { color: var(--accent-yellow); }
     .keigo-jp code { background: rgba(241,190,50,0.08); padding: 1px 6px; border-radius: 3px; font-size: 0.95rem; font-weight: 600; color: var(--text-primary); }
     /* JP sentence wrapper: column layout for dropdown romaji */
@@ -410,13 +413,13 @@
     .keigo-card .jp-top-line .jp-action-btns { margin-left: 0; }
     .keigo-card .jp-sentence-wrap + br { display: none; }
     /* Romaji: distinct font, dropdown below JP text */
-    em.keigo-romaji { display: none; font-style: normal; font-family: 'Menlo','Courier New',monospace; font-size: 0.78rem; letter-spacing: 0.05em; color: #99c9ff; background: rgba(153,201,255,0.07); border-left: 2px solid rgba(153,201,255,0.35); border-radius: 0 4px 4px 0; padding: 3px 10px; margin-top: 5px; line-height: 1.5; }
+    em.keigo-romaji { display: none; font-style: normal; font-family: 'Menlo','Courier New',monospace; font-size: 0.78rem; letter-spacing: 0.05em; color: var(--accent-yellow); background: rgba(241,190,50,0.07); border-left: 2px solid rgba(241,190,50,0.35); border-radius: 0 4px 4px 0; padding: 3px 10px; margin-top: 5px; line-height: 1.5; }
     em.keigo-romaji.shown { display: block; width: fit-content; }
-    [data-theme="light"] em.keigo-romaji { color: #002ead; background: rgba(0,46,173,0.06); border-left-color: rgba(0,46,173,0.3); }
+    [data-theme="light"] em.keigo-romaji { color: #4d3800; background: rgba(241,190,50,0.08); border-left-color: rgba(241,190,50,0.4); }
     /* td span em (status table pattern) */
-    em.td-romaji { display: none; font-style: italic; font-family: 'Menlo','Courier New',monospace; font-size: 0.8em; color: #99c9ff; }
+    em.td-romaji { display: none; font-style: italic; font-family: 'Menlo','Courier New',monospace; font-size: 0.8em; color: var(--accent-yellow); }
     em.td-romaji.shown { display: inline; }
-    [data-theme="light"] em.td-romaji { color: #002ead; }
+    [data-theme="light"] em.td-romaji { color: #4d3800; }
     /* Reading column (vocab tables) */
     .section-body td.vocab-reading-cell { color: transparent !important; transition: color 0.15s; font-family: 'Menlo','Courier New',monospace; font-size: 0.88em; }
     .section-body td.vocab-reading-cell.shown { color: #99c9ff !important; }
@@ -444,9 +447,9 @@
     /* ── PHRASE BLOCK ────────────────────────────────────────────── */
     .phrase-block { background: var(--bg-tertiary); border: 1px solid var(--border-default); border-left: 4px solid var(--accent-blue); border-radius: 8px; padding: 14px 18px; margin: 1rem 0; }
     .phrase-jp { font-size: 1.05rem; font-weight: 700; margin-bottom: 4px; color: var(--text-primary); }
-    .phrase-romaji { display: none; font-style: normal; font-family: 'Menlo','Courier New',monospace; font-size: 0.78rem; letter-spacing: 0.05em; color: #99c9ff; background: rgba(153,201,255,0.07); border-left: 2px solid rgba(153,201,255,0.35); border-radius: 0 4px 4px 0; padding: 3px 10px; margin-top: 5px; line-height: 1.5; }
+    .phrase-romaji { display: none; font-style: normal; font-family: 'Menlo','Courier New',monospace; font-size: 0.78rem; letter-spacing: 0.05em; color: var(--accent-yellow); background: rgba(241,190,50,0.07); border-left: 2px solid rgba(241,190,50,0.35); border-radius: 0 4px 4px 0; padding: 3px 10px; margin-top: 5px; line-height: 1.5; }
     .phrase-romaji.shown { display: block; width: fit-content; }
-    [data-theme="light"] .phrase-romaji { color: #002ead; background: rgba(0,46,173,0.06); border-left-color: rgba(0,46,173,0.3); }
+    [data-theme="light"] .phrase-romaji { color: #4d3800; background: rgba(241,190,50,0.08); border-left-color: rgba(241,190,50,0.4); }
     .phrase-jp { display: flex; align-items: center; flex-wrap: wrap; gap: 6px; }
     .phrase-en { color: var(--text-primary); margin-top: 6px; }
     /* Phrase-block: bigger buttons pushed to right */
@@ -3588,6 +3591,9 @@ async function render() {
   });
   // Body HTML via marked
   let bodyHtml = DOMPurify.sanitize(marked.parse(processedContent));
+
+  // Wrap tables for responsive overflow scrolling
+  bodyHtml = bodyHtml.replace(/<table>/g, '<div class="table-wrap"><table>').replace(/<\/table>/g, '</table></div>');
 
   // Wrap Japanese terms in table first-cells with clickable speak spans
   bodyHtml = bodyHtml.replace(

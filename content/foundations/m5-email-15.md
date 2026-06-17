@@ -10,7 +10,7 @@ This email must accomplish three key goals: clearly confirm that the cancellatio
 
 ## Template 1: Simple Cancellation (No Fee)
 
-<div class="keigo-card blue email-example">
+<div class="keigo-card yellow email-example">
 <span class="keigo-pair-label">Opening</span>
 <code>この度は、ご連絡いただきありがとうございます。</code><br>
 <em>kono tabi wa, go-renraku itadaki arigatou gozaimasu.</em><br>
@@ -30,7 +30,7 @@ This email must accomplish three key goals: clearly confirm that the cancellatio
 
 ## Template 2: Cancellation with Fee
 
-<div class="keigo-card blue email-example">
+<div class="keigo-card yellow email-example">
 <span class="keigo-pair-label">Opening</span>
 <code>この度は、ご連絡いただきありがとうございます。</code><br>
 <em>kono tabi wa, go-renraku itadaki arigatou gozaimasu.</em><br>
@@ -58,7 +58,7 @@ This email must accomplish three key goals: clearly confirm that the cancellatio
 
 ## Key Phrase
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>誠に恐れ入りますが</code></span><br>
 <em>makotoni osoreirimasu ga</em><br>
 I am truly sorry to say, but...

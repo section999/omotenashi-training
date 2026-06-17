@@ -14,7 +14,7 @@ Kaiseki is not merely a menu structure. It is a statement of values. The chef's 
 
 Three principles govern kaiseki:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Shun (旬)</span> using ingredients at their seasonal peak, when they are freshest, most nutritious, and most deeply flavoured. An ingredient served in its peak season has been earned; the same ingredient served out of season is a compromise.<br><br><span class="keigo-badge info">Ma (間)</span> the meaningful pause between courses that allows the guest to experience each dish fully before the next arrives. Kaiseki is not rushed. The pace is part of the experience.<br><br><span class="keigo-badge info">Wabi-sabi</span> the aesthetic preference for handmade vessels, natural materials, and visual restraint. A dish presented in a rough, asymmetrical ceramic made by a local artisan communicates something different from one served in a smooth, mass-produced bowl.
 </div>
 

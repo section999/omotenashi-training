@@ -12,7 +12,7 @@ Approach a guest too early and you interrupt. Approach too late and you signal n
 
 Good timing comes from watching for specific cues rather than following a fixed schedule:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">In a restaurant:</span> a guest who has set down their cutlery, pushed their plate slightly forward, and is looking around has signalled readiness. A guest who is eating with one hand while gesturing in conversation with the other is not ready. Do not approach.<br><br><span class="keigo-badge info">At the bar:</span> a glass approaching empty is an opening; a glass still three-quarters full is not. Watch the glass, not the clock.<br><br><span class="keigo-badge info">At the desk:</span> a guest who has finished their question and is looking at you expectantly is ready for your response. A guest who is still sorting through their bag or looking at their phone is not yet fully present.<br><br><span class="keigo-badge info">In the lobby:</span> a guest standing still and looking around is likely disoriented and open to assistance. A guest moving with purpose toward a known destination does not need to be intercepted.
 </div>
 

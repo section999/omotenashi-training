@@ -29,7 +29,7 @@ I sincerely apologize for the inconvenience.<br><br>
 
 When a complaint requires a manager's involvement, never transfer abruptly. Always apologize before connecting, so the guest feels guided rather than passed on.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Standard escalation phrase</span>
 <span class="keigo-jp"><code>誠に恐れ入りますが、ただいま担当の者にお繋ぎいたします。少々お待ちくださいませ。</code></span><br>
 <em>makoto ni osore irimasu ga, tadaima tantou no mono ni o-tsunagi itashimasu. shoushou o-machi kudasaimase.</em><br>

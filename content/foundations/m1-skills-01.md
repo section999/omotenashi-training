@@ -16,7 +16,7 @@ The information needed for good preparation is almost always already available: 
 
 Different roles require different kinds of pre-arrival preparation:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Front desk / reception:</span> Review all arriving guests before your shift begins. Note names, practise unfamiliar pronunciations, and check special requests, loyalty tier, occasion notes, and any dietary requirements linked to dining reservations.<br><br><span class="keigo-badge info">Housekeeping:</span> A guest who noted a preference for firm pillows should find firm pillows in the room, not a card offering to swap them. A family room should anticipate children's needs: lower towel placement, minibar secured if requested, child-friendly amenities visible and accessible.<br><br><span class="keigo-badge info">Restaurant:</span> A business lunch table may need a nearby power socket, extra space between neighbouring tables, and water ready on arrival. A birthday dinner requires the kitchen briefed, the cake coordinated, and the celebration confirmed before the guest sits down.<br><br><span class="keigo-badge info">Concierge:</span> If a guest mentioned an interest in local pottery or hiking, have recommendations ready before they ask. Assembling them while someone stands waiting is not preparation.
 </div>
 

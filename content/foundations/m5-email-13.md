@@ -10,7 +10,7 @@ These emails must accomplish four key goals: clearly inform the guest about what
 
 ## Full Template
 
-<div class="keigo-card blue email-example">
+<div class="keigo-card yellow email-example">
 <span class="keigo-pair-label">Opening</span>
 <code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code><br>
 <em>heiso yori tou hoteru o go-riyou itadaki, makotoni arigatou gozaimasu.</em><br>
@@ -39,7 +39,7 @@ These emails must accomplish four key goals: clearly inform the guest about what
 
 ## Key Phrase
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span><br>
 <em>nanitozo go rikai no hodo yoroshiku onegai moushiage masu</em><br>
 We humbly ask for your understanding.
@@ -51,7 +51,7 @@ This phrase is standard in Japanese professional notice emails. It requests the 
 
 ## Alternate Versions
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>現在、ホテルの一部エリアにて改装工事を実施しております。</code></span><br>
 <em>genzai, hoteru no ichibu eria nite kaisou kouji o jisshi shite orimasu.</em><br>
 We are currently conducting renovation work in part of the hotel.<br><br>

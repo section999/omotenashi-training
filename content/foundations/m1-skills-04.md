@@ -12,7 +12,7 @@ Faster is not always better. Slower is not always more elegant. The skill is mat
 
 Guests communicate their preferred pace through several channels:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Energy level:</span> A tired, slow-moving guest needs efficient, low-friction service. An animated, engaged guest may welcome a longer interaction.<br><br><span class="keigo-badge info">The nature of the occasion:</span> A business lunch calls for efficiency, precision, and minimal interruption. A birthday dinner calls for generosity with time, unhurried attention, and presence without hovering.<br><br><span class="keigo-badge info">The stage of the meal:</span> An appetiser course early in the evening should not arrive in five minutes if guests have barely touched their welcome drinks. A main course at a table that has been waiting fifty minutes should not require another twenty.<br><br><span class="keigo-badge info">Direct signals:</span> A guest checking their watch, putting on their coat, or picking up their phone is communicating urgency. A guest who keeps refilling their own wine glass has a rhythm they want maintained.
 </div>
 

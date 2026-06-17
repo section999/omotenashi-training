@@ -16,7 +16,7 @@ The same applies to religious dietary restrictions. A guest who keeps halal or k
 
 The moment a dietary requirement is disclosed, whether at booking, at check-in, or at the table, the communication chain must begin immediately.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Record it clearly and specifically.</span> "No nuts" must specify whether this includes nut-derived oils, traces, and cross-contamination. "Vegetarian" must be clarified: does it include fish? Dairy? Eggs? Do not assume.<br><br><span class="keigo-badge info">Communicate immediately to the kitchen.</span> Do not pass a note and assume it will be read. Confirm with the kitchen directly. For a serious allergy, confirm verbally with the chef or sous chef.<br><br><span class="keigo-badge info">Confirm back to the guest.</span> For example: "I've let the kitchen know about your allergy. Our chef will ensure that all courses are prepared without any nuts, including traces. Please let me know if you have any concerns about any particular dish."<br><br><span class="keigo-badge info">Follow through on every course.</span> At each dish, confirm that it meets the guest's requirement. Do not present a dish and say "I think this is fine." Know that it is.
 </div>
 

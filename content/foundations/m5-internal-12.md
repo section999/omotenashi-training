@@ -10,7 +10,7 @@ Escalation is not failure; it is professional judgment. The ability to recognize
 
 When a guest situation is beyond what you can handle independently, escalation must be done with the same structured clarity as any other 報告 or 相談. State what is happening, what you have tried, and why you are escalating.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>私の対応範囲を超えていると判断し、ご相談いたします。</code></span><br>
 <em>watashi no taiou han'i o koe te iru to handan shi, go-soudan itashimasu.</em><br>
 I have judged that this is beyond what I can handle on my own and am bringing it to you.<br><br>

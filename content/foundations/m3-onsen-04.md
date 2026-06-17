@@ -20,7 +20,7 @@ Kashikiri is the right recommendation for:
 Many guests are unaware that this option exists until a staff member mentions it. Proactively offering the information is part of good service.
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Managing Kashikiri Reservations</span><br>
 • Inform guests of available times and booking procedures at check-in<br>• Confirm the reservation the day before or the morning of the booking<br>• Prepare the bath 15 minutes before the reserved time: heat the water, set the lighting, place fresh towels, and check that the space is spotless<br>• A seasonal flower or small natural element at the bath entrance elevates the experience from functional to memorable
 </div>

@@ -29,7 +29,7 @@ The person in charge is here.<br><br>
 
 For a neutral third party such as another hotel, use standard polite language:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>近隣のホテルをご案内することができます。</code></span><br>
 <em>kinrin no hoteru o go-annai suru koto ga dekimasu.</em><br>
 I can provide information about nearby hotels.
@@ -39,7 +39,7 @@ I can provide information about nearby hotels.
 
 When referring to the guest's family, use 尊敬語 because they are guests too; their connection to the guest extends the honorific context to them.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ご家族様もいらっしゃいますか。</code></span><br>
 <em>go-kazoku-sama mo irasshaimasu ka.</em><br>
 Will your family be joining you?<br><br>

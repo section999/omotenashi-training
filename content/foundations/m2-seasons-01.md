@@ -11,7 +11,7 @@ This comes from Japan's long relationship with nature. The four seasons carry em
 ## Three Dimensions of Seasonal Awareness
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Visual Environment</span><br>
 Decorations, flower arrangements (ikebana), table settings, and even uniforms shift to reflect the season. A New Year's arrangement displayed in June, or summer-themed displays in autumn, disrupts the guest's sense of immersion. Seasonal alignment is noticed, sometimes consciously, sometimes not, but it always registers.
 <br><br>

@@ -12,7 +12,7 @@ For this reason, the staff member's immediate objective is not to provide a solu
 
 Guest emotion follows a predictable path: Frustration → Need to be heard → Need to be validated → Ready to hear solutions. Skipping to solutions before the guest feels heard escalates tension rather than resolving it. The 4-A Framework follows this emotional path step by step.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">1. Apologize</span>
 Express genuine regret immediately, before asking any questions.<br><br>
 <span class="keigo-pair-label">2. Acknowledge</span>
@@ -25,7 +25,7 @@ Confirm the situation will be resolved and that the guest can rely on the staff.
 
 ## Noise Complaint Script
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>隣の部屋がうるさくて眠れません。</code></span><br>
 <em>tonari no heya ga urusaku te nemure masen.</em><br>
 The room next to mine is so noisy I can't sleep.<br><br>
@@ -39,7 +39,7 @@ The room next to mine is so noisy I can't sleep.<br><br>
 
 ## Facility Problem Script
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>エアコンが動きません。</code></span><br>
 <em>eakon ga ugokimasen.</em><br>
 The air conditioning isn't working.<br><br>

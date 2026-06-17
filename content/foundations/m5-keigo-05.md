@@ -22,7 +22,7 @@ The masu-stem is the part of the verb that remains after removing ます from it
 | <span>持つ</span> | <span>持ちます</span> | <span>持ち</span> | <span>お持ちになります</span> |
 | <span>読む</span> | <span>読みます</span> | <span>読み</span> | <span>お読みになります</span> |
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>お使いになります</code></span><br>
 <em>o-tsukai ni narimasu</em><br>
 Guest uses<br><br>
@@ -56,7 +56,7 @@ For verbs of Chinese origin (漢語), usually formed by adding する to a Sino-
 | <span>到着する</span> | <span>到着</span> | <span>ご到着になります</span> |
 | <span>滞在する</span> | <span>滞在</span> | <span>ご滞在になります</span> |
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ご利用になります</code></span><br>
 <em>go-riyou ni narimasu</em><br>
 Guest uses a service<br><br>

@@ -22,7 +22,7 @@ Once the subject is identified, apply the correct verb form and prefixes to buil
 
 ### 尊敬語 (Subject: Guest)
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Example</span>
 「お客様が食事をします」<br><br>
 <span class="vocab-example-label">Keigo form</span>
@@ -31,7 +31,7 @@ Once the subject is identified, apply the correct verb form and prefixes to buil
 The guest is eating.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Practice</span>
 The guest is walking to the elevator.<br><br>
 <span class="vocab-example-label">Keigo form</span>
@@ -42,7 +42,7 @@ Are you heading to the elevator? It is this way. I will guide you.
 
 ### 謙譲語 (Subject: Staff)
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Example</span>
 「私が荷物を運びます」<br><br>
 <span class="vocab-example-label">Keigo form</span>
@@ -51,7 +51,7 @@ Are you heading to the elevator? It is this way. I will guide you.
 I will carry your luggage.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Practice</span>
 You are about to bring the guest's luggage to their room.<br><br>
 <span class="vocab-example-label">Keigo form</span>
@@ -62,7 +62,7 @@ I will bring your luggage to your room.
 
 ### 丁寧語 (Subject: None)
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Example</span>
 「朝食は1階です」<br><br>
 <span class="vocab-example-label">Keigo form</span>
@@ -71,7 +71,7 @@ I will bring your luggage to your room.
 Breakfast is on the 1st floor.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Practice</span>
 You are telling the guest the pool is on the 3rd floor.<br><br>
 <span class="vocab-example-label">Keigo form</span>

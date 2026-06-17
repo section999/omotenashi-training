@@ -9,7 +9,7 @@ The face and body are constant broadcasters of emotional state. Learning to obse
 ## Key Facial Signals
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">The Genuine Smile</span><br>
 A real smile engages the eyes: the corners crinkle slightly and the lower eyelids rise. This is known as the Duchenne smile. A polite social smile only moves the mouth.<br>When a guest gives a genuine smile, they are relaxed and satisfied. A smile that does not reach the eyes may suggest politeness masking discomfort.
 <br><br>

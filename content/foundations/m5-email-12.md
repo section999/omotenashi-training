@@ -10,7 +10,7 @@ This email must accomplish three key goals: thank the guest sincerely for their 
 
 ## Full Template
 
-<div class="keigo-card blue email-example">
+<div class="keigo-card yellow email-example">
 <span class="keigo-pair-label">Opening</span>
 <code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code><br>
 <em>kono tabi wa, tou hoteru o go-riyou itadaki, makotoni arigatou gozaimashita.</em><br>
@@ -35,7 +35,7 @@ Note: ありがとうございました (past tense). The stay is complete. Usin
 
 ## Key Phrases Explained
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか</code></span><br>
 <em>go-taizai wa ikaga deshita deshou ka</em><br>
 How was your stay?<br><br>
@@ -57,7 +57,7 @@ We sincerely look forward to the day we can meet you again.
 
 The second body sentence invites feedback without demanding it. This is a deliberate language choice.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Avoid:</strong> <span class="keigo-jp"><code>アンケートにご回答ください。</code></span><br>
 <em>anketo ni go kaitou kudasai.</em><br>
 Sounds like a requirement, not an invitation.<br><br>

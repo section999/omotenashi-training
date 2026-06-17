@@ -36,7 +36,7 @@ Knowing individual keigo forms is not enough. Professional hotel keigo requires 
 
 The three questions work together to build any hotel sentence.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Example 1</span>
 <strong>Step 1:</strong> Guest is arriving → 尊敬語<br>
 <strong>Step 2:</strong> No noun prefix needed<br>
@@ -47,7 +47,7 @@ The three questions work together to build any hotel sentence.
 Around what time will you be arriving?
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Example 2</span>
 <strong>Step 1:</strong> Staff is guiding → 謙譲語<br>
 <strong>Step 2:</strong> 部屋 (和語) → お部屋; 案内 (漢語) → ご案内<br>
@@ -58,7 +58,7 @@ Around what time will you be arriving?
 I will guide you to your room.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Example 3</span>
 <strong>Step 1:</strong> Subject: None → 丁寧語<br>
 <strong>Step 2:</strong> No noun prefix needed<br>

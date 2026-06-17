@@ -9,7 +9,7 @@ Once the guest has been heard and a sincere apology has been made, the interacti
 ## Principles of Solution-Finding
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Speed Matters</span><br>
 The longer a guest waits for a resolution after a complaint, the more the initial failure compounds. Move quickly, not frantically, but with deliberate, visible urgency. If you need to consult a manager or check availability, tell the guest exactly what you are doing and how long it will take. Do not disappear without explanation.
 <br><br>

@@ -15,7 +15,7 @@ This does not require performance. It requires the genuine understanding that th
 ## Handling Standards
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Luggage</span><br>
 - When collecting bags at arrival, identify each piece clearly before lifting and confirm with the guest: "May I take all three pieces?"<br>• Walk at the guest's pace, not ahead of them, which leaves them behind, and not behind them, which many guests find unsettling. Slightly ahead and to the side is the right position.<br>• Place bags on the luggage rack with the guest's access in mind: handles facing outward, heavier items stable, anything fragile visible and separated.<br>• Do not place luggage on the floor unless there is genuinely no other option.
 <br><br>

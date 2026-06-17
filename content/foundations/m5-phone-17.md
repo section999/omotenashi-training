@@ -16,7 +16,7 @@ This lesson covers the five most frequent mistakes in telephone communication an
 | Emotional reaction | <span>えっ！どうしましょう！</span> in response to a complaint | Guest loses confidence in the hotel's ability to handle the situation |
 | Skipping the closing | Ending the call abruptly after the request is handled | Guest's final impression is incomplete; relationship does not close warmly |
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>確認いたしますので少々お待ちくださいませ。</code></span><br>
 <em>kakunin itashimasu node shoushou omachi kudasaimase.</em><br>
 I will confirm that, so please wait a moment.

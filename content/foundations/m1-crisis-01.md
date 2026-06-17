@@ -29,7 +29,7 @@ Treated as feedback rather than attack, complaints are an ongoing quality audit.
 
 At minimum, every complaint deserves:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Immediate, undivided attention</span> stop what you are doing and be fully present<br><br><span class="keigo-badge info">Genuine acknowledgement</span> not a scripted apology but a real expression of understanding<br><br><span class="keigo-badge info">Clear action</span> not a vague promise but a specific next step<br><br><span class="keigo-badge info">Follow-up</span> return to confirm that the resolution actually worked
 </div>
 

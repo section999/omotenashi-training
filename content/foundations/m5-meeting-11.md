@@ -10,7 +10,7 @@ The close of a verbal briefing and the incoming staff's response are as importan
 
 The outgoing staff closes with a summary, an invitation for questions, and a statement that refers the incoming staff to the written record.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>以上が本日の引き継ぎ事項です。何かご不明な点はございますか。</code></span><br>
 <em>ijou ga honjitsu no hikitsugi jikou desu. nani ka go-fumei na ten wa gozaimasu ka.</em><br>
 That concludes today's handover. Do you have any questions?<br><br>
@@ -26,7 +26,7 @@ I am counting on you for today's shift.
 
 The incoming staff also has responsibilities during a verbal briefing. Passive listening is not enough; any unclear item must be confirmed before the outgoing staff leaves.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>かしこまりました。</code></span><br>
 <em>kashikomarimashita.</em><br>
 Understood.<br><br>
@@ -43,7 +43,7 @@ I have received the briefing.
 
 ## What the Incoming Staff Is Responsible For
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Confirm unclear items:</strong> Ask during the briefing, not after the outgoing staff has left.<br><br>
 <strong>Verify deadlines:</strong> Every pending task should have a time attached before the briefing ends.<br><br>
 <strong>Identify owners:</strong> If a task has no named owner, ask who is responsible before confirming receipt.

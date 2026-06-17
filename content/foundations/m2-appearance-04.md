@@ -26,7 +26,7 @@ title: Bowing, Ojigi, the Language of Respect
 
 ## Common Errors to Avoid
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Nodding instead of bowing</span> a head nod is not a bow and reads as casual or dismissive.<br><br><span class="keigo-badge info">Bowing while speaking</span> the bow and the words should be separate, bow, then speak, or speak, then bow.<br><br><span class="keigo-badge info">Mechanical repetition</span> bowing without intention is less effective than a simple, genuine acknowledgement. A bow that is clearly automatic, performed without awareness, can land worse than no bow at all.
 </div>
 

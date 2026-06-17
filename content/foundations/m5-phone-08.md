@@ -8,7 +8,7 @@ Availability calls are not simple information delivery. They are **decision-supp
 
 ## Availability Check: Room Available
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>6月10日に空いていますか。</code></span><br>
 <em>6 tsuki 10 nichi ni ai te imasu ka.</em><br>
 Do you have availability on June 10th?<br><br>
@@ -42,7 +42,7 @@ Unfortunately, we are fully booked today.<br><br>
 </div>
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Staff:</strong> <span class="keigo-jp"><code>確認いたします。少々お待ちくださいませ。</code></span><br>
 <em>kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
 I will check. Please wait a moment.<br><br>

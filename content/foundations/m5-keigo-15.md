@@ -10,7 +10,7 @@ Two of the most frequent staff-to-guest communication tasks are asking guests to
 
 When asking guests to do something, never use a direct command. Two patterns handle this.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Pattern 1: ○○いただけますでしょうか</strong><br>
 The most polite request form. Used when asking guests to do something.<br><br>
 <span class="keigo-jp"><code>こちらにご記入いただけますでしょうか。</code></span><br>
@@ -21,7 +21,7 @@ Could you please fill this in?<br><br>
 Could you please show your passport?
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Pattern 2: ○○くださいませ</strong><br>
 A polished invitation or instruction. Used to guide the guest's action.<br><br>
 <span class="keigo-jp"><code>少々お待ちくださいませ。</code></span><br>

@@ -8,7 +8,7 @@ This lesson applies the structure from Part 1 to a complete email example, then 
 
 ## A Complete Email Example
 
-<div class="keigo-card blue email-example">
+<div class="keigo-card yellow email-example">
 <span class="keigo-pair-label">件名 (Subject)</span>
 <code>【ご予約確認】山田様 8月10日〜11日 1泊</code><br>
 <span class="email-en">Reservation Confirmation – Mr. Yamada | August 10–11 (1 Night)</span><br>

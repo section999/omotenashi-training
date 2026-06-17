@@ -25,7 +25,7 @@ I sincerely apologize. We will address this immediately.<br><br>
 </div>
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>部屋の電気が全部消えました。</code></span><br>
 <em>heya no denki ga zenbu kiemashita.</em><br>
 All the lights in my room went out.<br><br>
@@ -40,7 +40,7 @@ Room 503.<br><br>
 Room 503, understood. A staff member is heading to your room now. Please wait a moment.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>具合が悪いです。助けてください。</code></span><br>
 <em>guai ga warui desu. tasuke te kudasai.</em><br>
 I feel unwell. Please help.<br><br>

@@ -17,7 +17,7 @@ A brief follow-up answers that question without a word being said about it. It c
 ## How to Follow Up
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Timing</span><br>
 Follow up within a few hours of the resolution, at the next natural interaction point. For a dining complaint, check in during dessert. For a front desk issue, a short call to the room that evening is appropriate.
 <br><br>

@@ -8,7 +8,7 @@ This lesson reviews the key expressions covered throughout the Email Communicati
 
 ## Openings
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">First-time reservation</span>
 <i>Use when the guest has no previous stay history and has just made a new booking.</i><br><br>
 <span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます</code></span><br>
@@ -16,7 +16,7 @@ This lesson reviews the key expressions covered throughout the Email Communicati
 Thank you very much for your reservation on this occasion.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Repeat guest</span>
 <i>Use when the guest has an established relationship with the hotel.</i><br><br>
 <span class="keigo-jp"><code>いつもお世話になっております</code></span><br>
@@ -24,7 +24,7 @@ Thank you very much for your reservation on this occasion.
 Thank you for your continued support.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">General notice</span>
 <i>Use for broadcast emails sent to all guests or hotel members.</i><br><br>
 <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます</code></span><br>
@@ -32,7 +32,7 @@ Thank you for your continued support.
 Thank you for your continued patronage of our hotel.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Apology opening</span>
 <i>Use when the email's primary purpose is to apologize. Lead with this; do not open with gratitude.</i><br><br>
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません</code></span><br>
@@ -40,7 +40,7 @@ Thank you for your continued patronage of our hotel.
 We sincerely apologize for the inconvenience caused on this occasion.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Post-stay</span>
 <i>Use when the guest has checked out. Note the past tense: ありがとうございました, not ありがとうございます.</i><br><br>
 <span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございました</code></span><br>
@@ -50,7 +50,7 @@ Thank you very much for staying with us on this occasion.
 
 ## Body
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Details are as follows</span>
 <i>Use before a list of reservation details, room information, or policy items.</i><br><br>
 <span class="keigo-jp"><code>○○は以下のとおりでございます</code></span><br>
@@ -58,7 +58,7 @@ Thank you very much for staying with us on this occasion.
 [Topic] is as follows.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">State a fact</span>
 <i>Use to present a specific piece of information: times, rates, policies.</i><br><br>
 <span class="keigo-jp"><code>○○でございます</code></span><br>
@@ -66,7 +66,7 @@ Thank you very much for staying with us on this occasion.
 [Fact] is / This is [fact].
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Soft request</span>
 <i>Use when asking the guest to do something. Softer and more appropriate than ください.</i><br><br>
 <span class="keigo-jp"><code>○○いただけますと幸いでございます</code></span><br>
@@ -74,7 +74,7 @@ Thank you very much for staying with us on this occasion.
 We would appreciate it if you could ○○.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Confirmation request</span>
 <i>Use when asking the guest to review and confirm the details provided.</i><br><br>
 <span class="keigo-jp"><code>ご確認いただけますと幸いでございます</code></span><br>
@@ -82,7 +82,7 @@ We would appreciate it if you could ○○.
 We would appreciate your confirmation.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Request for understanding</span>
 <i>Use when communicating a policy, limitation, or fee the guest may not welcome.</i><br><br>
 <span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span><br>
@@ -92,7 +92,7 @@ We humbly ask for your understanding.
 
 ## Closings
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Pre-arrival close</span>
 <i>Use to close any email sent before the guest's arrival.</i><br><br>
 <span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております</code></span><br>
@@ -100,7 +100,7 @@ We humbly ask for your understanding.
 We sincerely look forward to your arrival.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Pre-arrival close (collective)</span>
 <i>Use when you want to express that the whole team is anticipating the guest's visit.</i><br><br>
 <span class="keigo-jp"><code>スタッフ一同ご到着を心よりお待ち申し上げております</code></span><br>
@@ -108,7 +108,7 @@ We sincerely look forward to your arrival.
 Our entire team sincerely looks forward to your arrival.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Post-stay close</span>
 <i>Use to close a post-stay thank-you email, expressing hope to see the guest again.</i><br><br>
 <span class="keigo-jp"><code>またお会いできる日を心よりお待ち申し上げております</code></span><br>
@@ -116,7 +116,7 @@ Our entire team sincerely looks forward to your arrival.
 We sincerely look forward to seeing you again.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Repeat guest / relationship</span>
 <i>Use when writing to a long-term guest or business partner to reinforce the ongoing relationship.</i><br><br>
 <span class="keigo-jp"><code>今後ともよろしくお願い申し上げます</code></span><br>
@@ -124,7 +124,7 @@ We sincerely look forward to seeing you again.
 We look forward to your continued support.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Universal support close</span>
 <i>Use as a general-purpose closing that invites the guest to reach out with any questions.</i><br><br>
 <span class="keigo-jp"><code>お気軽にご連絡くださいませ</code></span><br>
@@ -132,7 +132,7 @@ We look forward to your continued support.
 Please feel free to contact us at any time.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Apology / inquiry close</span>
 <i>Use after an apology or inquiry response, linking the support close directly to the guest's concern.</i><br><br>
 <span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ</code></span><br>

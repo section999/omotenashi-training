@@ -8,7 +8,7 @@ Guests often call to understand what types of rooms are available before committ
 
 ## Room Type Inquiry
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>どんな部屋がありますか。</code></span><br>
 <em>donna heya ga arimasu ka.</em><br>
 What kinds of rooms do you have?<br><br>
@@ -27,7 +27,7 @@ Two guests. For two, I would recommend our twin room or deluxe room. Shall I als
 
 When guiding a guest toward an alternative, end with a question that invites their input. Each phrase below places the decision with the guest rather than the staff.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>いかがでしょうか</code></span><br>
 <em>ikaga deshou ka</em><br>
 How does that sound?<br>

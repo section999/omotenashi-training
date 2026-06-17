@@ -32,7 +32,7 @@ We have confirmed your reservation. If you have any questions, please feel free 
 
 Small word choices can have a significant impact on how an email is perceived by guests. Understanding the preferred language used in hotel communication helps create a more professional and polished impression.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge bad">Everyday</span> <span class="keigo-jp"><code>ありがとうございます</code></span><br>
 <em>arigatou gozaimasu.</em><br>
 <span class="keigo-badge good">Hotel</span> <span class="keigo-jp"><code>誠にありがとうございます</code></span><br>

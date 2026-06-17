@@ -12,7 +12,7 @@ China is Japan's largest source of inbound tourists, and Chinese guest expectati
 
 Key points:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Payment</span> Mobile payment (WeChat Pay, Alipay) is widely expected; many Chinese travellers carry minimal cash. Properties that accept these platforms will be genuinely appreciated.<br><br><span class="keigo-badge info">Group travel</span> Many Chinese tourists travel in groups with a guide. Coordinate with the guide, who is often the primary communicator for the group and will appreciate being treated with respect rather than bypassed.<br><br><span class="keigo-badge info">Face (面子, *miànzi*)</span> Public correction or embarrassment should be avoided, as with all guests, but the felt intensity is particularly acute for guests where public face is a deeply held concern.<br><br><span class="keigo-badge info">Language</span> Mandarin-language menus, signage, or even a brief welcome card in Chinese makes a real impression. Small gestures carry weight.
 </div>
 
@@ -21,7 +21,7 @@ Key points:
 
 Key points:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Hierarchy awareness</span> Korean guests, like Japanese guests, are sensitive to age and status hierarchies. Address the eldest or most senior member of a group first.<br><br><span class="keigo-badge info">Shared dishes</span> Korean dining culture is communal. Service that understands and accommodates this, rather than defaulting to Japanese individual-serving norms, is appreciated.<br><br><span class="keigo-badge info">Directness</span> Korean communication can be more direct than Japanese. A guest who gives clear, assertive feedback is not being rude, they are communicating in their normal register.
 </div>
 

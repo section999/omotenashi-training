@@ -13,7 +13,7 @@ The apology itself is the most important part of the recovery. Delivered well, i
 A sincere apology has three parts, and the order matters.
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">1. The Expression of Regret</span><br>
 Name what happened, specifically, not vaguely. "I am truly sorry that you were made to wait for over an hour after a long journey" tells the guest you actually listened. "I'm sorry you had a bad experience" tells them almost nothing. The goal is to reflect their experience back to them accurately, without assigning blame, but with clear and honest recognition of what occurred.
 <br><br>

@@ -8,7 +8,7 @@ Every professional handover follows the same five-section structure. The order i
 
 ## The Five-Section Structure
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>1. 最優先情報 (Priority Guests)</strong><br>
 The first thing the incoming shift reads. Covers any guest who requires elevated attention.<br><br>
 <span class="keigo-badge info">VIP</span> VIP guests, first-time VIPs, VIP family members<br>
@@ -16,7 +16,7 @@ The first thing the incoming shift reads. Covers any guest who requires elevated
 <span class="keigo-badge info">Active Complaint</span> Guests with complaints in progress or not fully resolved
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>2. 対応中案件 (Active Issues)</strong><br>
 Issues currently being managed that the incoming staff must continue or monitor.<br><br>
 <span class="keigo-badge info">Maintenance</span> Room or facility issues in progress<br>
@@ -24,7 +24,7 @@ Issues currently being managed that the incoming staff must continue or monitor.
 <span class="keigo-badge info">Requests</span> Ongoing special requests (extra items, room changes, etc.)
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>3. 客室状況 (Room Status)</strong><br>
 Any deviation from the standard room assignment or condition.<br><br>
 <span class="keigo-badge info">Changes</span> Room upgrades or moves completed or in progress<br>
@@ -32,7 +32,7 @@ Any deviation from the standard room assignment or condition.<br><br>
 <span class="keigo-badge info">Out of Order</span> Rooms that cannot be assigned
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>4. 未完了タスク (Pending Tasks)</strong><br>
 Requests received but not yet completed, and items requiring the incoming shift to take action.<br><br>
 <span class="keigo-badge info">Pending Requests</span> Items the guest asked for that have not been delivered<br>
@@ -40,7 +40,7 @@ Requests received but not yet completed, and items requiring the incoming shift 
 <span class="keigo-badge info">Awaiting Approval</span> Items requiring manager or department authorization
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>5. 特記事項 (Special Notes)</strong><br>
 Anything that does not fit the above categories but must be communicated.<br><br>
 <span class="keigo-badge info">Medical</span> Allergies, medications, health concerns<br>

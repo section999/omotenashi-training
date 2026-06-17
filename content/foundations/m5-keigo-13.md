@@ -35,7 +35,7 @@ Checkout is at 11:00.<br><br>
 
 ## Core Usage Patterns
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Stating facts</span>
 <span class="keigo-jp"><code>朝食は1階でございます。</code></span><br>
 <em>choushoku wa ikkai de gozaimasu.</em><br>
@@ -45,21 +45,21 @@ Breakfast is on the 1st floor.<br><br>
 Checkout is at 11:00.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Identifying the guest</span>
 <span class="keigo-jp"><code>山田様でございますね。</code></span><br>
 <em>yamada-sama de gozaimasu ne.</em><br>
 You are Mr./Ms. Yamada, correct?
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Confirming a reservation</span>
 <span class="keigo-jp"><code>2泊でございますね。</code></span><br>
 <em>nihaku de gozaimasu ne.</em><br>
 That is a 2-night stay, correct?
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Presenting objects</span>
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます。</code></span><br>
 <em>kochira ga o-heya no kagi de gozaimasu.</em><br>
@@ -70,7 +70,7 @@ Here is your room key.
 
 When verifying information, でございますね is the refined form of ですね. The soft ね at the end invites gentle confirmation rather than demanding agreement.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>3泊でございますね。</code></span><br>
 <em>sanhaku de gozaimasu ne.</em><br>
 That is a 3-night stay, correct?<br><br>

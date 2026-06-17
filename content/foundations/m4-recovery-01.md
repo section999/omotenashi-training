@@ -24,7 +24,7 @@ Staff must also develop sensitivity to unexpressed dissatisfaction: the guest wh
 
 Effective service recovery follows a consistent structure:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">1. Listen</span><br>without interruption, without defence<br><br><span class="keigo-badge info">2. Acknowledge</span><br>validate the guest's experience sincerely<br><br><span class="keigo-badge info">3. Act</span><br>take specific, appropriate action to address the issue<br><br><span class="keigo-badge info">4. Follow up</span><br>confirm that the resolution has satisfied the guest
 </div>
 

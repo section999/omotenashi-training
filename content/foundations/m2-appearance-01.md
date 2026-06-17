@@ -12,7 +12,7 @@ This is not about superficial aesthetics. It is about the message that physical 
 
 Japanese culture draws a clear distinction between two concepts:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Oshare (おしゃれ)</span> is personal style, dressing to express individuality.<br><br><span class="keigo-badge info">Midashinami (身だしなみ)</span> is professional grooming, presenting yourself to put others at ease.
 </div>
 

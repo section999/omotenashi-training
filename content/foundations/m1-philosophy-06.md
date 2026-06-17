@@ -18,7 +18,7 @@ Every shift is an opportunity to notice one thing you could do better: one momen
 
 ## Practical Expressions of Omotenashi in Daily Work
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Before the shift:</span> Review what you know about today's guests, arrivals, anniversaries, dietary needs, preferences noted from previous stays. Preparation is where omotenashi begins.<br><br><span class="keigo-badge info">During the shift:</span> Practice kikubari continuously. Read the room and each guest, and act on what you observe. Do not wait to be asked.<br><br><span class="keigo-badge info">At the moment of service:</span> Make every interaction feel unhurried and personal, even when you are busy. The guest should never feel like a queue number.<br><br><span class="keigo-badge info">After the interaction:</span> Note what was said, what was preferred, what would improve the next visit. Memory, or its systematic equivalent in guest notes, is what transforms one good stay into a lasting relationship.
 </div>
 

@@ -10,7 +10,7 @@ Holds and callbacks are moments where the guest has no visibility into what is h
 
 Holds are moments of silence, and silence creates anxiety. The staff member must manage hold time actively:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>確認いたしますので、少々お待ちくださいませ。</code></span><br>
 <em>kakunin itashimasu node, shoushou omachi kudasaimase.</em><br>
 I will check on that, please wait a moment.
@@ -18,7 +18,7 @@ I will check on that, please wait a moment.
 
 Never place a guest on hold without explaining what you are checking. The guest needs to know the silence has a purpose.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>大変お待たせいたしました。</code></span><br>
 <em>taihen o-matase itashimashita.</em><br>
 Thank you very much for waiting.
@@ -26,7 +26,7 @@ Thank you very much for waiting.
 
 Always acknowledge the wait before continuing. 大変 (taihen) emphasizes the acknowledgment; the guest's patience is genuinely recognized.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 If the check takes longer than expected, return to the line briefly:
 
 <span class="keigo-jp"><code>大変お待たせしております。もう少々お時間をいただけますでしょうか。</code></span><br>
@@ -40,7 +40,7 @@ An unannounced long hold feels like disconnection. A brief check-in reassures th
 
 When a request cannot be handled immediately, offer a callback rather than asking the guest to call again:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>現在担当者が対応中でございます。折り返しご連絡いたしますが、よろしいでしょうか。</code></span><br>
 <em>genzai tantou sha ga taiou chu de gozaimasu. orikaeshi go-renraku itashimasu ga, yoroshii deshou ka.</em><br>
 Our specialist is currently with another guest. May I have us call you back?<br><br>

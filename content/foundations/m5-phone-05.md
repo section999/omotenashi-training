@@ -10,7 +10,7 @@ Reservation calls are among the most operationally critical interactions in a ho
 
 Greeting → Date inquiry → Availability check → Option presentation → Guest details → Final confirmation
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約したいんですが。</code></span><br>
 <em>yoyaku shitai n desu ga.</em><br>
 I'd like to make a reservation.<br><br>

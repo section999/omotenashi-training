@@ -31,7 +31,7 @@ I have received and accepted your request.<br><br>
 
 承ります is used when receiving requests, reservations, or instructions in any service context.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ご予約を承りました。</code></span><br>
 <em>go-yoyaku o uketamawarimashita.</em><br>
 I have received your reservation.<br><br>
@@ -55,7 +55,7 @@ These two forms are often used together. Each plays a distinct role.
 | <span>かしこまりました</span> | Acknowledges the guest's instruction; "I understand and comply" |
 | <span>承りました</span> | Confirms receipt of a specific item (reservation, order, request) |
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>かしこまりました。ご予約を承りました。</code></span><br>
 <em>kashikomarimashita. go-yoyaku o uketamawarimashita.</em><br>
 Certainly. I have received your reservation.

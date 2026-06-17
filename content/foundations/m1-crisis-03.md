@@ -12,7 +12,7 @@ At the same time, some situations genuinely require escalation, for reasons of a
 
 The following situations require escalation:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 - The issue involves **health, safety, or legal liability**: a slip and fall, a food reaction, a security concern. These must always be escalated, even if the guest is not asking for a manager.<br><br><span class="keigo-badge info">Financial compensation or a significant upgrade</span> is being requested, beyond the front-line team's authorisation level.<br>• The guest **specifically requests to speak with a manager**: this request must always be honoured immediately.<br>• The situation is **beyond your authority or knowledge to resolve**, and continuing to attempt a resolution is making things worse.<br>• The guest is **extremely distressed** and the presence of a senior person is likely to reassure them more effectively than continued front-line engagement.
 </div>
 

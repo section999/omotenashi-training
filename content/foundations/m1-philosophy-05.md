@@ -12,7 +12,7 @@ In hospitality, wabi-sabi is sometimes misread as a preference for the rustic or
 
 The modern luxury hotel expresses wabi-sabi through several consistent choices:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Natural materials:</span> wood with visible grain, stone with natural variation, linen rather than synthetic fabric. These materials age and shift over time rather than holding an artificial perfection.<br><br><span class="keigo-badge info">Seasonal rotation:</span> decorations, flower arrangements, and menu items that change with the season. A permanent display or an out-of-season menu signals that attention has lapsed.<br><br><span class="keigo-badge info">Deliberate absence of clutter:</span> the tokonoma alcove holds only one carefully chosen scroll and one arrangement. The room breathes, leaving space for the guest's eye and mind to rest.<br><br><span class="keigo-badge info">Quiet and calm as design choices:</span> the absence of background music in certain spaces, the preference for natural light, the use of sound-absorbing materials. Silence is not emptiness, it is the space in which the guest's experience can actually exist.
 </div>
 

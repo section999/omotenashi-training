@@ -20,7 +20,7 @@ Senior professionals understand this. Stillness is not laziness; it is preparati
 
 ## The Three Qualities of Good Waiting
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Readiness</span> physical and mental preparedness to act the moment the moment arrives<br><br><span class="keigo-badge info">Awareness</span> a continuous, gentle monitoring of the environment and the guest's state<br><br><span class="keigo-badge info">Stillness</span> an internal composure that does not project need, impatience, or distraction onto the guest
 </div>
 

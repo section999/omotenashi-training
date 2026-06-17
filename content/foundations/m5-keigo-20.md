@@ -12,7 +12,7 @@ Used when the staff member states what they are about to do or are doing.
 
 Structure: <span class="keigo-jp"><code>ただいま○○いたします。</code></span> (I will ○○ right now.)
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ただいまご確認いたします。</code></span><br>
 <em>tadaima go-kakunin itashimasu.</em><br>
 I will confirm that right now.<br><br>
@@ -30,7 +30,7 @@ Components: ご (prefix for 漢語 verb stems) + いたします / 承りまし�
 
 Used when the hotel cannot fully fulfill a request. Structure: apology buffer + situation + alternative.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>誠に恐れ入りますが、○○でございます。</code></span><br>
 <em>makotoni osoreirimasu ga, ○○ de gozaimasu.</em><br>
 I am truly sorry, but ○○.<br><br>
@@ -48,7 +48,7 @@ Components: 誠に恐れ入りますが (kenjogo apology buffer) + でござい�
 
 All five patterns appear in a standard check-in interaction.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>いらっしゃいませ。</code></span> <span class="keigo-badge info">尊敬語</span><br>
 <em>irasshaimase.</em><br>
 Welcome.<br><br>

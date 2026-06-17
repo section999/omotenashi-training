@@ -10,7 +10,7 @@ Wake-up calls and taxi arrangements share a critical characteristic: they are **
 
 A wake-up call that is logged incorrectly, or not logged at all, can cause a guest to miss a flight, meeting, or departure. This is one of the highest-consequence errors in hotel operations.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>モーニングコールをお願いします。</code></span><br>
 <em>mouningu kouru o onegai shimasu.</em><br>
 I'd like a wake-up call, please.<br><br>
@@ -33,7 +33,7 @@ Room 702, we will call you tomorrow morning at 6:00. Thank you.
 
 ## Taxi Arrangements
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>タクシーを手配してもらえますか。</code></span><br>
 <em>takushi o tehai shite morae masu ka.</em><br>
 Can you arrange a taxi for me?<br><br>

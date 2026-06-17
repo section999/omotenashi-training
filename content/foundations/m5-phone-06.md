@@ -10,7 +10,7 @@ The same verification chain that applies to new bookings also governs modificati
 
 Acknowledge request → Verify identity → Confirm current booking → Ask for new details → Check availability → Confirm new booking
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約の日程を変更したいのですが。</code></span><br>
 <em>yoyaku no nittei o henkou shitai no desu ga.</em><br>
 I'd like to change my reservation dates.<br><br>

@@ -8,7 +8,7 @@ This lesson continues from the previous lesson's standards with three additional
 
 ## Concierge to Restaurant
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Concierge:</strong> <span class="keigo-jp"><code>コンシェルジュの〇〇です。本日の夕食のご予約で、202号室の田中様、2名様、19時でお願いできますでしょうか。</code></span><br>
 <em>konsheruju no 〇 〇 desu. honjitsu no yushoku no go-yoyaku de, 202 gou shitsu no tanaka sama, 2 mei sama, 19 ji de onegai dekimasu deshou ka.</em><br>
 This is [Name] from the concierge desk. I would like to make a dinner reservation for Mr./Ms. Tanaka in Room 202, two guests at 7:00 PM tonight. Is that possible?<br><br>
@@ -21,7 +21,7 @@ Understood. Mr./Ms. Tanaka, two guests, 7:00 PM.
 
 Cross-department communication also flows in reverse, with departments contacting the front desk to pass information back:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Housekeeping:</strong> <span class="keigo-jp"><code>ハウスキーピングです。605号室の清掃が完了いたしました。</code></span><br>
 <em>hausukipingu desu. 605 gou shitsu no seisou ga kanryou itashimashita.</em><br>
 This is housekeeping. Cleaning of Room 605 is complete.<br><br>
@@ -35,7 +35,7 @@ Also, I am letting you know that the shower head in the bathroom is aging.
 
 ## When the Other Department Cannot Fulfill the Request
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ただいま手が離せない状況ですが、〇〇分後には対応できます。</code></span><br>
 <em>tadaima te ga hanase nai joukyou desu ga, 〇 〇 fun go ni wa taiou dekimasu.</em><br>
 We are currently occupied, but we can address it in approximately [X] minutes.<br><br>

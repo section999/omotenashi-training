@@ -27,7 +27,7 @@ I will connect you to the restaurant.<br><br>
 </div>
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Guest:</strong> <span class="keigo-jp"><code>レストランの予約をしたいのですが。</code></span><br>
 <em>resutoran no yoyaku o shitai no desu ga.</em><br>
 I'd like to make a restaurant reservation.<br><br>

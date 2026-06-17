@@ -38,7 +38,7 @@ I need to report something. I made a verification error regarding [matter]. The 
 
 ## Script: Reporting a Check-In Error
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ご報告いたします。先ほど田中様のチェックインの際に、お部屋を702号室でご案内してしまいましたが、正しくは703号室でございました。現在、田中様は702号室にいらっしゃいます。お鍵の交換とお部屋の移動をご案内すべきかと思いますが、ご指示いただけますでしょうか。</code></span><br>
 <em>go-houkoku itashimasu. saki hodo tanaka sama no chekkuin no sai ni, o-heya o 702 gou shitsu de go-annai shite shimaimashita ga, masashiku wa 703 gou shitsu de gozaimashita. genzai, tanaka sama wa 702 gou shitsu ni irasshaimasu. o kagi no koukan to o-heya no idou o go-annai su beki ka to omoimasu ga, go shiji itadake masu deshou ka.</em><br>
 I need to report something. When checking in Mr./Ms. Tanaka a moment ago, I directed them to Room 702, but the correct room is 703. Mr./Ms. Tanaka is currently in Room 702. I believe we should arrange a key exchange and room move. Could you advise on how to handle this?

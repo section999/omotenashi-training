@@ -10,7 +10,7 @@ First, it must confirm the reservation clearly so the guest can easily review an
 
 ## Full Template
 
-<div class="keigo-card blue email-example">
+<div class="keigo-card yellow email-example">
 <span class="keigo-pair-label">Opening</span>
 <code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code><br>
 <em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
@@ -43,7 +43,7 @@ First, it must confirm the reservation clearly so the guest can easily review an
 
 ## Key Phrases Explained
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>スタッフ一同</code></span><br>
 <em>sutaffu ichidou</em><br>
 all of our staff<br><br>
@@ -63,7 +63,7 @@ sincerely look forward to
 
 ## Variations
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>いつもお世話になっております。この度もご予約いただき、誠にありがとうございます。</code></span><br>
 <em>itsumo osewa ni natte orimasu. kono tabi mo go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you for your continued support. Thank you very much for booking with us again on this occasion.

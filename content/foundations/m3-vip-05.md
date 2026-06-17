@@ -18,7 +18,7 @@ A VIP guest who has experienced a failure should hear from a senior person, the 
 
 The senior staff member should:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">1.</span> Acknowledge the failure specifically and without deflection<br><br><span class="keigo-badge info">2.</span> Apologise sincerely, not formulaically<br><br><span class="keigo-badge info">3.</span> Explain what is being done to resolve it<br><br><span class="keigo-badge info">4.</span> Offer a meaningful gesture of recovery, calibrated to the nature of the failure<br><br><span class="keigo-badge info">5.</span> Follow up personally to confirm that the resolution was satisfactory
 </div>
 

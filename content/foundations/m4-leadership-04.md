@@ -15,7 +15,7 @@ This cultural context does not require dishonesty. It requires care in timing, s
 ## The Four Conditions for Feedback
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Privacy</span><br>
 Feedback that points to a shortcoming is always given privately, never in front of colleagues, guests, or anyone whose presence might cause the recipient embarrassment. Even gentle, well-intentioned feedback can become devastating if delivered publicly.
 <br><br>

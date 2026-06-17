@@ -10,7 +10,7 @@ Written handover notes cover what happened during the shift. Verbal handover is 
 
 Written notes capture facts. Verbal briefings add the nuance that notes cannot easily convey: tone of voice, the level of urgency, the emotional state of a difficult guest, or the context behind an unusual decision.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <strong>Urgency cues:</strong> "This guest is expecting a callback in the next 30 minutes."<br>
 <strong>Context:</strong> "The noise complaint was resolved, but the guest seemed unsatisfied."<br>
 <strong>Judgment guidance:</strong> "If the VIP in 305 calls, escalate immediately to the manager."<br>
@@ -23,7 +23,7 @@ None of this nuance fits cleanly into the structured format of a written entry. 
 
 A clear opening signals to the incoming staff that the briefing has begun and they should focus.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>では、引き継ぎをお伝えいたします。</code></span><br>
 <em>dewa, hikitsugi o otsutae itashimasu.</em><br>
 I will now brief you on the handover.<br><br>
@@ -36,7 +36,7 @@ I will start with the priority items.
 
 The verbal briefing follows the same five-section order as written notes: priority guests first, then active problems, room status, pending tasks, and special notes.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>305号室の山田様がVIPでいらっしゃいます。</code></span><br>
 <em>305 goushitsu no Yamada-sama ga VIP de irasshaimasu.</em><br>
 Mr./Ms. Yamada in Room 305 is a VIP guest.<br><br>

@@ -9,7 +9,7 @@ Reading emotional cues is only half the skill. The harder half is responding in 
 ## Match Your Response to the Signal
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">When You Detect Mild Discomfort</span><br>
 Approach quietly and offer without assumption:<br>> "Would you like me to adjust anything for you?"<br>Do not name what you observed. Do not say "you looked uncomfortable." Simply offer.
 <br><br>
@@ -38,7 +38,7 @@ Before responding to a frustrated guest:
 
 Regardless of what emotional cue is detected, the gold standard response combines four elements:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">1. Calm presence</span><br>you are not rattled<br><br><span class="keigo-badge info">2. Genuine warmth</span><br>your concern is real<br><br><span class="keigo-badge info">3. Practical action</span><br>you offer or do something concrete<br><br><span class="keigo-badge info">4. Discretion</span><br>no fuss, no audience, no drama
 </div>
 

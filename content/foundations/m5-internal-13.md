@@ -8,27 +8,27 @@ Strong internal communication is the infrastructure beneath every smooth guest i
 
 ## The Five Standards
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">1. Use ホウレンソウ consistently</span>
 Every situation fits one of three types: 報告 (report outcomes and problems upward), 連絡 (pass information to whoever needs it), 相談 (consult when uncertain). Choosing the right type determines the right structure and timing.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">2. Conclusion first</span>
 State the key fact before the context. Supervisors and colleagues need the outcome or situation immediately; supporting detail follows.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">3. Include who, what, when, and next step</span>
 Incomplete messages cause follow-up questions that slow operations. Every message should answer these four elements.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">4. Match register to the relationship</span>
 Use formal language upward (to supervisors and senpai). Use professional but functional language with peers. Do not use guest-facing keigo internally; it slows communication and sounds unnatural.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">5. Never delay a report to solve it first</span>
 Report the problem, then solve it. A supervisor who hears about a problem two hours after it occurred cannot manage the floor effectively. Report early and update as the situation develops.
 </div>

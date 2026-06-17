@@ -13,7 +13,7 @@ Japanese culture places high value on *tatemae* (表向き), the public face one
 ## The Three Channels
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Body Language</span><br>
 Posture, movement, and gesture reveal a guest's comfort level.<br>• A guest who leans slightly away may be uncomfortable, even if they say "it's fine"<br>• Crossed arms often signal defensiveness or unease<br>• Avoiding direct facing can indicate reluctance or discomfort
 <br><br>

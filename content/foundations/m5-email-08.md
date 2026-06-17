@@ -10,7 +10,7 @@ In this lesson, you will learn the structural foundations of hotel email writing
 
 ## The Three-Part Structure
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Opening</span>
 Establish who you are addressing, recognize the guest relationship, and set the emotional tone.<br>
 Length: one to two sentences.<br><br>
@@ -26,7 +26,7 @@ Length: one to two sentences.
 
 The subject line is the first thing a guest sees. It must be clear and specific. A vague subject line causes the guest to delay reading or miss the email entirely.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge good">Correct</span> <code>【ご予約確認】山田様 7月15日〜16日 1泊</code><br>
 Guest name, dates, and purpose are all visible at a glance.<br><br>
 <span class="keigo-badge good">Correct</span> <code>【設備点検のお知らせ】7月20日(土) プール一時休止</code><br>
@@ -41,7 +41,7 @@ Use 【】 brackets to label the email type. This is standard in Japanese profes
 
 The body must be organized, specific, and easy to read. Avoid long unstructured paragraphs.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Use でございます for facts</span>
 <span class="keigo-jp"><code>チェックインは15時からでございます。</code></span><br>
 <em>chekkuin wa 15-ji kara de gozaimasu.</em><br>

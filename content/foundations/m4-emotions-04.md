@@ -11,7 +11,7 @@ The best complaint is the one that never happens. By detecting the early signs o
 Guest dissatisfaction rarely appears suddenly. It builds in stages.
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Stage 1: Minor Irritation</span><br>
 Something is slightly off. The guest notices but says nothing.<br>• Brief frown or reduced eye contact with staff<br>• Slower pace or checking their watch<br>• Subtle signs of disengagement
 <br><br>
@@ -24,7 +24,7 @@ The guest decides to voice a complaint, or, worse, decides not to and simply lea
 
 ## Environmental Triggers to Watch
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Wait times</span> Guests checking the time repeatedly, standing stiffly, sighing<br><br><span class="keigo-badge info">Temperature</span> Guests pulling at their clothing, fanning themselves, sitting with arms pulled in<br><br><span class="keigo-badge info">Noise</span> Guests leaning in closer to hear, wincing at sudden sounds, covering ears<br><br><span class="keigo-badge info">Service gaps</span> Guests looking around with an empty glass, an untouched menu, or a searching expression
 </div>
 

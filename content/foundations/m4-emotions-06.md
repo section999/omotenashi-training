@@ -9,7 +9,7 @@ Not every quiet, withdrawn, or irritable guest is dissatisfied with the service.
 ## What Travel Fatigue Looks Like
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Physical Signs</span><br>
 - Glazed or heavy-lidded eyes<br>• Slower movement, shuffling steps<br>• Slumped posture or leaning against surfaces<br>• Pale or puffy complexion<br>• Frequent yawning or rubbing of the face
 <br><br>

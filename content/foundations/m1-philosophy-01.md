@@ -19,7 +19,7 @@ One famous idea connected to omotenashi is that the guest should feel cared for 
 ## Three Defining Qualities of Omotenashi
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">1. Anticipation</span><br>
 Omotenashi involves recognising a guest's needs before they are spoken.<br>• Offering a warm towel to a tired traveller<br>• Preparing extra umbrellas on a rainy day<br>• Adjusting a room to a returning guest's preferred temperature before arrival<br>The guest may never request these things directly, but thoughtful preparation improves comfort and reduces stress.
 <br><br>

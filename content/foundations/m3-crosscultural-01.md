@@ -16,7 +16,7 @@ A guest who does not remove their shoes at the threshold is not disrespecting th
 
 Every culture has its own version of *kuuki wo yomu*, reading the atmosphere. The signals are different, not absent. Learning to read them takes:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Curiosity</span> Genuine interest in where the guest comes from and what they are used to<br><br><span class="keigo-badge info">Observation</span> Watching how guests interact with each other and with the space<br><br><span class="keigo-badge info">Asking when appropriate</span> "Is there anything we can adjust to make you more comfortable?" is always a valid question
 </div>
 

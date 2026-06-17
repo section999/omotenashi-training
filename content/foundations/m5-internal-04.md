@@ -8,7 +8,7 @@ Knowing the conclusion-first principle is not enough on its own. You also need r
 
 ## Report Type 1: Task Completion
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>〇〇の件、完了いたしました。</code></span><br>
 <em>〇 〇 no ken, kanryou itashimashita.</em><br>
 The matter of [task] has been completed.<br><br>
@@ -22,7 +22,7 @@ It was handled without any issues.
 
 ## Report Type 2: Problem Discovery
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>〇〇にて問題が発生いたしました。ご報告いたします。</code></span><br>
 <em>〇 〇 nite mondai ga hassei itashimashita. go-houkoku itashimasu.</em><br>
 A problem has occurred with [matter]. I am reporting this now.<br><br>
@@ -36,7 +36,7 @@ The current situation is [X]. How would you like me to proceed?
 
 ## Report Type 3: Guest Situation Requiring Supervisor Awareness
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>〇〇様よりご要望がございました。ご確認いただけますでしょうか。</code></span><br>
 <em>〇 〇 you yori go-youbou ga gozaimashita. go-kakunin itadake masu deshou ka.</em><br>
 We have received a request from Mr./Ms. [Name]. Could you please take a look?<br><br>

@@ -47,7 +47,7 @@ Uses でございます, establishes formal service register
 
 ## Analyzing the Opening Line
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>お電話ありがとうございます。ホテル○○でございます。</code></span><br>
 <em>o-denwa arigatou gozaimasu. hoteru ○ ○ de gozaimasu.</em><br>
 Thank you for your call. This is Hotel ○○.

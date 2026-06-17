@@ -8,7 +8,7 @@ Once you understand when and why to consult, you need ready-made language for ea
 
 ## Consulting a Supervisor
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>少しご相談してもよろしいでしょうか。</code></span><br>
 <em>sukoshi go-soudan shite mo yoroshii deshou ka.</em><br>
 May I consult with you for a moment?<br><br>
@@ -22,7 +22,7 @@ Regarding [matter], I was thinking of [approach]. Does that seem right to you?
 
 ## Consulting a Senior Colleague (先輩)
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>経験をお借りしてよろしいでしょうか。</code></span><br>
 <em>keiken o o kari shite yoroshii deshou ka.</em><br>
 May I benefit from your experience for a moment?<br><br>
@@ -56,7 +56,7 @@ Mr. Tanaka in Room 603 is requesting a late checkout until 1:00 PM. As the hotel
 
 After a supervisor or senpai provides guidance, acknowledge it clearly:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>かしこまりました。そのように対応いたします。</code></span><br>
 <em>kashikomarimashita. sono you ni taiou itashimasu.</em><br>
 Understood. I will proceed accordingly.<br><br>

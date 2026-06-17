@@ -11,7 +11,7 @@ In many Western cultures, silence in conversation feels awkward, something to mo
 Japanese communication is often described as *high-context*, meaning a significant part of the message travels through tone, context, and implication rather than words alone. Silence is a tool, not a gap.
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Silence as Consideration</span><br>
 When a guest pauses before answering, they are most likely thinking carefully. Do not rush to fill the pause or repeat the question. Wait, and show patience with a calm expression and open posture.
 <br><br>

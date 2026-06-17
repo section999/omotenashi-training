@@ -16,7 +16,7 @@ Hotel email openings fall into three relationship categories. Before writing any
 
 ## Opening for First-Time Guests
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます。</code></span><br>
 <em>kono tabi wa, go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for making a reservation on this occasion.<br><br>
@@ -30,7 +30,7 @@ Thank you very much for reaching out on this occasion.
 
 ## Opening for Repeat Guests
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>いつもお世話になっております。</code></span><br>
 <em>itsumo osewa ni natte orimasu.</em><br>
 Thank you for your continued support.<br><br>
@@ -44,7 +44,7 @@ It has been a while. Thank you very much for booking with us again on this occas
 
 ## Opening for VIP or Long-Term Guests
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>平素より格別のご愛顧を賜り、誠にありがとうございます。</code></span><br>
 <em>heiso yori kakubetsu no go aiko o tamawari, makotoni arigatou gozaimasu.</em><br>
 Thank you sincerely for your continued and generous patronage.

@@ -20,7 +20,7 @@ A VIP guest treated with ceremony but without warmth will feel processed, not we
 ## What Changes
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Information Depth</span><br>
 For a VIP guest, staff know more: preferred room temperature, dietary restrictions, previous stay history, the names of their spouse and children, their hobbies. This information is gathered in advance and acted on quietly, without drawing attention to the fact that it is known.
 <br><br>

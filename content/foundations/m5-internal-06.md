@@ -8,7 +8,7 @@ The four most common 連絡 scenarios each require slightly different language. 
 
 ## Passing Information to a Colleague (Same Level)
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>〇〇の件、お伝えしておきます。</code></span><br>
 <em>〇 〇 no ken, otsutae shite okimasu.</em><br>
 I'd like to pass along something about [matter].<br><br>
@@ -22,7 +22,7 @@ There are about three more check-ins expected. Please be aware.
 
 ## Passing Information Upward
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ご連絡させていただきます。</code></span><br>
 <em>go-renraku sa se te itadakimasu.</em><br>
 I would like to share some information with you.<br><br>
@@ -36,7 +36,7 @@ I am sharing this for your reference.
 
 ## Passing Information Downward
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>〇〇の件を共有しておきます。</code></span><br>
 <em>〇 〇 no ken o kyouyu shite okimasu.</em><br>
 I want to share something about [matter].<br><br>

@@ -25,7 +25,7 @@ Like sonkeigo, the most important 謙譲語 verbs are irregular. They have compl
 
 ## Key Verbs in Context
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ただいま参ります。</code></span><br>
 <em>tadaima mairimasu.</em><br>
 I will come right away.<br><br>
@@ -52,7 +52,7 @@ Both are humble forms of movement verbs, but their nuance differs.
 | <span>参ります</span> | General movement toward a place or person; "I will come / go" |
 | <span>伺います</span> | Going to the guest's location, visiting, or humbly asking; carries a more deferential nuance |
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>お部屋までお荷物をお持ちして参ります。</code></span><br>
 <em>o-heya made o-nimotsu o o-mochi shite mairimasu.</em><br>
 I will bring your luggage to your room.<br><br>

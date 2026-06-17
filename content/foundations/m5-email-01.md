@@ -8,7 +8,7 @@ In the hotel industry, email is not simply a written message. It is a service to
 
 When a guest reads a reservation confirmation, a pre-arrival notice, or an apology letter, they are forming an opinion based entirely on the language, not on the room, the amenities, or the food. All four impressions below are formed before the guest reads the first piece of information in the body of the email.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Professionalism</span>
 Does this hotel know how to communicate?<br><br>
 <span class="keigo-pair-label">Care</span>
@@ -21,7 +21,7 @@ Do they actually want me here?
 
 ## The Four Requirements of Hotel Email Language
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">1. Appropriate Register</span>
 The level of formality must match the relationship (first-time guest, repeat guest, VIP) and the email type (confirmation, apology, notice).<br><br>
 <span class="keigo-pair-label">2. Tone Consistency</span>
@@ -59,7 +59,7 @@ Friendly but not appropriate for professional hotel correspondence.
 </div>
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Hotel standard</span>
 <span class="keigo-jp"><code>誠にありがとうございます。ご到着を心よりお待ち申し上げております。</code></span><br><br>
 Polite, warm, and appropriately professional.

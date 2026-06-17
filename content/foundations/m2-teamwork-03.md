@@ -14,7 +14,7 @@ An **invisible handover** is when the receiving colleague is already informed, a
 
 ## How to Execute an Invisible Handover
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Communicate ahead (renraku)</span> Before the guest arrives at the next touchpoint, relay what the receiving colleague needs to know, name, room number, any preferences or special needs, and the context of the interaction so far.<br><br><span class="keigo-badge info">Introduce personally where possible</span> Walk the guest to the next colleague rather than pointing them in the right direction. Introduce the colleague by name.<br><br><span class="keigo-badge info">Brief the receiving colleague on mood, not just facts</span> Is the guest relaxed or in a hurry? Pleased or mildly frustrated? That emotional context shapes how the next colleague opens the conversation.<br><br><span class="keigo-badge info">Follow up</span> If you were involved in a guest issue or special request, check later whether it was resolved. Close the loop yourself rather than assuming someone else did.
 </div>
 

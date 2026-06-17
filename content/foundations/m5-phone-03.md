@@ -10,7 +10,7 @@ This lesson covers acknowledgment, wait and hold, and transfer expressions: the 
 
 ## Acknowledgment Expressions
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>かしこまりました</code></span><br>
 <em>kashikomarimashita</em><br>
 Certainly (highest formality; used when receiving requests or instructions from a guest)<br><br>
@@ -24,7 +24,7 @@ Is that so? (formal empathetic response; shows you are listening closely)
 
 ## Wait and Hold Expressions
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>少々お待ちくださいませ</code></span><br>
 <em>shoushou o-machi kudasaimase</em><br>
 Please wait a moment<br><br>
@@ -38,7 +38,7 @@ Thank you very much for waiting (use when returning after any wait)
 
 ## Transfer and Connection Expressions
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>おつなぎいたします</code></span><br>
 <em>o-tsunagi itashimasu</em><br>
 I will connect you (frames transfer as coordination, not abandonment)<br><br>

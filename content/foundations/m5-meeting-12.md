@@ -8,19 +8,19 @@ The technical skills of handover writing are learnable in hours. The professiona
 
 ## What the Professional Standard Looks Like
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Traceable</span>
 <em>Can the incoming staff trace every guest situation from start to current state?</em><br><br>
 Every entry must include who, what, and what was done. Time, room number, and responsible party should always be present.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Actionable</span>
 <em>Does every entry tell the incoming staff what to do?</em><br><br>
 If an entry contains only a problem with no status or next step, it is not actionable. It is noise.
 </div>
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Complete</span>
 <em>Is there anything the incoming staff would need to ask about?</em><br><br>
 If the answer is yes, the handover is not done yet.

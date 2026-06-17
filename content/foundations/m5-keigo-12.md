@@ -24,7 +24,7 @@ A common misunderstanding is that using desu and masu is enough. In hotel contex
 
 丁寧語 is not a separate system from the other two; it runs underneath every sentence. A complete hotel exchange uses all three simultaneously.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>山田様でいらっしゃいますね。</code></span> <span class="keigo-badge info">尊敬語</span><br>
 <em>yamada-sama de irasshaimasu ne.</em><br>
 You are Mr./Ms. Yamada, correct?<br><br>

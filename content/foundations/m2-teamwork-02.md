@@ -8,7 +8,7 @@ Japanese workplace culture operates with a clear awareness of **hierarchy (上�
 
 Three key terms define these relationships:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Senpai (先輩)</span> a senior colleague; someone with more experience in the role or organisation<br><br><span class="keigo-badge info">Kōhai (後輩)</span> a junior colleague; someone with less experience<br><br><span class="keigo-badge info">Jōshi (上司)</span> a direct superior or manager
 </div>
 

@@ -17,7 +17,7 @@ Mentoring is also not correction. Constantly pointing out every mistake in the m
 Effective mentoring in a hospitality context involves three recurring practices.
 
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Debriefing After Significant Interactions</span><br>
 After a challenging guest interaction, a complaint, a VIP arrival, a special request, a brief, unhurried conversation with a junior colleague about what happened, what worked, and what could be improved is among the most valuable development tools available. The debrief is not a review; it is a thinking-together exercise that develops judgment.
 <br><br>

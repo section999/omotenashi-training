@@ -19,7 +19,7 @@ The choice between わかりました and かしこまりました is one of the
 
 ## かしこまりました in Practice
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>かしこまりました。ただいまご確認いたします。</code></span><br>
 <em>kashikomarimashita. tadaima go-kakunin itashimasu.</em><br>
 Certainly. I will confirm that right now.<br><br>

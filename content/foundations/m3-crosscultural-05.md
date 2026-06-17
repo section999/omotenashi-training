@@ -18,7 +18,7 @@ If a guest's behaviour conflicts with a clear property rule, the onsen policy, n
 
 Effective approach:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">1.</span> Acknowledge the guest's perspective: "I understand this may be different from what you are accustomed to."<br><br><span class="keigo-badge info">2.</span> Explain the rule briefly and without judgment: "In our property / in Japanese custom, [X] is observed because [brief reason]."<br><br><span class="keigo-badge info">3.</span> Offer an alternative where possible: "We do have a private option that might suit you better."
 </div>
 

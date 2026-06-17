@@ -16,7 +16,7 @@ The goal is for eye contact to make the guest feel seen, not scrutinised. A glan
 
 Eye contact changes meaning depending on context:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">During a greeting or bow:</span> as you bow, eye contact naturally breaks, this is correct and appropriate. Meeting the guest's eyes as you straighten to complete the bow is the natural close of the gesture.<br><br><span class="keigo-badge info">While listening:</span> soften your gaze and maintain intermittent contact. Looking away briefly is not rudeness; it often signals that you are processing what is being said rather than simply waiting to respond.<br><br><span class="keigo-badge info">During a complaint or apology:</span> a downward gaze combined with a slight bow communicates humility and acknowledgement. Maintaining hard eye contact during an apology can read as defiance or defensiveness.<br><br><span class="keigo-badge info">When guiding a guest:</span> make periodic eye contact to check that they are following comfortably and have not fallen behind or become confused.<br><br><span class="keigo-badge info">In a group:</span> distribute eye contact among all members. Consistently directing attention to one person while ignoring another is a service error, all guests present deserve acknowledgement.
 </div>
 

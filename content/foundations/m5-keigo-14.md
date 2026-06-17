@@ -37,7 +37,7 @@ Do you have any unclear points?<br><br>
 
 しております is the 丁寧語 form of しています. It conveys that the staff is in the middle of an action, with an added feeling of service attention.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ただいまご確認しております。</code></span><br>
 <em>tadaima go-kakunin shite orimasu.</em><br>
 I am confirming that right now.<br><br>

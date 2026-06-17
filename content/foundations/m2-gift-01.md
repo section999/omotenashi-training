@@ -16,7 +16,7 @@ Giri is best understood as the formalised expression of care for ongoing relatio
 
 Japanese gift culture centres on two annual seasons:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Ochugen (お中元)</span> the mid-year gift season, typically in July (June in some regions). Gifts are sent to those who have provided support over the first half of the year, such as mentors, clients, doctors, and teachers.<br><br><span class="keigo-badge info">Oseibo (お歳暮)</span> the year-end gift season, held in December. Broader in scope than ochugen, oseibo gifts express gratitude for the year as a whole.
 </div>
 

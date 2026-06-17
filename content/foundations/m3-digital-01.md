@@ -12,7 +12,7 @@ A well-written reply carries the same qualities as excellent in-person service: 
 
 A professional reply follows a consistent structure:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Salutation</span> Address the guest by name with appropriate formality, "Dear Mr Smith" or "Dear Ms Yamada," never "Hi there" or "Hello," without a name.<br><br><span class="keigo-badge info">Acknowledgement</span> Thank the guest for their enquiry before answering it, "Thank you for your enquiry regarding our property."<br><br><span class="keigo-badge info">Response</span> Answer the question clearly and completely. Do not omit parts of the enquiry and force the guest to follow up.<br><br><span class="keigo-badge info">Proactive information</span> Anticipate the next question. If a guest asks about room types, consider also mentioning relevant seasonal activities or current promotions.<br><br><span class="keigo-badge info">Close</span> Invite further questions warmly, "Please do not hesitate to contact me directly if you have any further questions."<br><br><span class="keigo-badge info">Signature</span> Full name, title, property name, and direct contact number.
 </div>
 

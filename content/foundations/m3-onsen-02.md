@@ -8,14 +8,14 @@ The communal onsen operates according to a set of customs that are not merely po
 
 ## Before Entering the Bath
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">1. Remove all clothing and leave it in the changing room.</span><br>Onsen are entered without swimwear in most traditional settings.<br><br><span class="keigo-badge info">2. Wash thoroughly at the shower station (カラン, *karan*).</span><br>Every bather must wash and rinse completely before entering the communal bath. This is both a hygiene requirement and a deeply held cultural expectation. Entering without washing is a serious breach.<br><br><span class="keigo-badge info">3. Rinse the shower station after use.</span><br>Leave the space ready for the next person.
 </div>
 
 
 ## In the Bath
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-badge info">Enter slowly and quietly.</span> Onsen are places of calm. Splashing, loud conversation, and running are inappropriate.<br><br><span class="keigo-badge info">Small towel handling.</span> The small modesty towel (手拭い) does not go into the bath. It may be placed folded on the head or left at the bath's edge.<br><br><span class="keigo-badge info">No swimming or vigorous movement.</span> The bath is for soaking, not exercise.<br><br><span class="keigo-badge info">Time your soak.</span> Onsen water is hot, typically 40 to 44°C. First-time bathers should soak in shorter intervals (10 to 15 minutes) and rest between sessions.<br><br><span class="keigo-badge info">Hair must not touch the water.</span> Long hair should be tied up or pinned.
 </div>
 

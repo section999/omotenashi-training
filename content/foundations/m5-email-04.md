@@ -10,7 +10,7 @@ The closing of a hotel email creates the final impression. A well-constructed op
 
 Every email closing serves one or more of these purposes:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Support</span>
 The hotel remains available; please feel free to ask.<br><br>
 <span class="keigo-pair-label">Welcome</span>
@@ -25,7 +25,7 @@ We want your experience to be excellent.
 
 This is the safest, most versatile closing. It fits reservation emails, information notices, inquiry responses, and apology emails. It leaves the guest feeling the hotel is accessible.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ご不明な点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
 <em>go fumei na ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
 If you have any questions, please feel free to contact us.
@@ -37,7 +37,7 @@ If you have any questions, please feel free to contact us.
 
 Used in reservation confirmations and pre-arrival emails. Creates emotional warmth and anticipation.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております。</code></span><br>
 <em>go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
 We sincerely look forward to your arrival.
@@ -49,7 +49,7 @@ We sincerely look forward to your arrival.
 
 Used when expressing appreciation for continued patronage. Best suited to emails to repeat guests or at the end of post-stay messages.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>今後ともよろしくお願い申し上げます。</code></span><br>
 <em>kongo to mo yoroshiku onegai moushiage masu.</em><br>
 We look forward to your continued patronage.
@@ -59,7 +59,7 @@ We look forward to your continued patronage.
 
 For a lighter, less formal tone with repeat guests:
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>またのお越しをお待ちしております。</code></span><br>
 <em>mata no o-koshi o o-machi shite orimasu.</em><br>
 We look forward to welcoming you again.

@@ -10,7 +10,7 @@ Each support department has its own primary keigo challenge. This lesson covers 
 
 The concierge role combines information delivery with physical service. Keigo here emphasizes readiness to assist and the humble offering of help.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>お荷物をお持ちいたします。</code></span><br>
 <em>o-nimotsu o o-mochi itashimasu.</em><br>
 I will carry your luggage.<br><br>
@@ -29,7 +29,7 @@ Please ask us anytime if you have any questions.
 
 Housekeeping often operates without direct guest interaction. When communication is needed, the priority is asking permission to enter and handling complaints with appropriate apology language.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ハウスキーピングでございます。お部屋のお掃除をさせていただいてもよろしいでしょうか。</code></span><br>
 <em>hausukipingu de gozaimasu. o-heya no o-souji o sasete itadaite mo yoroshii deshou ka.</em><br>
 This is housekeeping. May we clean your room?<br><br>
@@ -45,7 +45,7 @@ I have come to deliver the items you requested.
 
 When handling calls, keigo must be applied based on conversational role without visual cues. The opening line and hold/transfer language are the most important.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>お電話ありがとうございます。[Hotel name]でございます。</code></span><br>
 <em>o-denwa arigatou gozaimasu. [Hotel name] de gozaimasu.</em><br>
 Thank you for calling. This is [Hotel name].<br><br>

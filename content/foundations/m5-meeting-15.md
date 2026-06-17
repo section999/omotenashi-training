@@ -42,7 +42,7 @@ Any status term that accurately reflects the actual state of the task is accepta
 
 ## Making a Decision from the Note
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Scenario</span>
 You are the incoming night staff. It is now 22:00.<br><br>
 <em>Which task requires your attention first, and why?</em>

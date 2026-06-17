@@ -20,7 +20,7 @@ For native Japanese verbs (和語) without a special kenjogo form, apply:
 | <span>伝える</span> | <span>伝えます</span> | <span>伝え</span> | <span>お伝えいたします</span> |
 | <span>連れる</span> | <span>連れます</span> | <span>連れ</span> | <span>お連れいたします</span> |
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>お持ちいたします</code></span><br>
 <em>o-mochi itashimasu</em><br>
 I will carry / bring<br><br>
@@ -52,7 +52,7 @@ For verb stems of Chinese origin (漢語), use **ご** instead of お:
 | <span>用意する</span> | <span>用意</span> | <span>ご用意いたします</span> |
 | <span>説明する</span> | <span>説明</span> | <span>ご説明いたします</span> |
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>ご案内いたします</code></span><br>
 <em>go-annai itashimasu</em><br>
 I will guide you<br><br>

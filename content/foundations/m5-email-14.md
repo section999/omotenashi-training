@@ -10,7 +10,7 @@ This email must accomplish four key goals: acknowledge the specific inconvenienc
 
 ## Full Template
 
-<div class="keigo-card blue email-example">
+<div class="keigo-card yellow email-example">
 <span class="keigo-pair-label">Opening</span>
 <code>この度は、ご不便をおかけし、誠に申し訳ございません。</code><br>
 <em>kono tabi wa, go-fuben o okake shi, makotoni moushiwake gozaimasen.</em><br>
@@ -37,7 +37,7 @@ Name the specific issue. A general apology without naming what happened sounds d
 
 ## Phrases to Avoid in Apology Emails
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-pair-label">Excuse language</span>
 <span class="keigo-badge bad">Avoid</span> <span class="keigo-jp"><code>設備の老朽化によりご不便をおかけしました</code></span><br>
 <em>setsubi no roukyuuka ni yori go-fuben o o-kake shimashita.</em><br>

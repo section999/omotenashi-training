@@ -10,7 +10,7 @@ Two more edge cases require careful judgment: situations where the staff is the 
 
 Sometimes staff receive something from a guest (a form, a payment, a request). The humble verb いただく applies even when the physical action is the guest handing something over; receiving a guest's action is still a service act.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>こちらの用紙にご記入いただけますでしょうか。</code></span><br>
 <em>kochira no youshi ni go-kinyu itadakemasu deshou ka.</em><br>
 Could you fill in this form?<br><br>
@@ -25,7 +25,7 @@ In the first phrase, the staff humbly receives the guest's completed form (い�
 
 On the telephone, there is no visual confirmation of who is speaking. Keigo must be applied based on conversational role alone.
 
-<div class="keigo-card blue">
+<div class="keigo-card yellow">
 <span class="keigo-jp"><code>田中様がご予約なさっているとのことでございますね。</code></span><br>
 <em>tanaka-sama ga go-yoyaku nasatte iru to no koto de gozaimasu ne.</em><br>
 I understand you have a reservation, Mr./Ms. Tanaka.<br><br>
