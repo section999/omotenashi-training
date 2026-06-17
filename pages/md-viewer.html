@@ -75,10 +75,12 @@
     .main { flex: 1; margin-left: auto; margin-right: auto; padding: 48px 40px 80px; max-width: 860px; }
 
     /* BREADCRUMB */
-    .breadcrumb { display: flex; align-items: center; gap: 8px; font-size: 0.875rem; color: var(--text-muted); margin-bottom: 32px; flex-wrap: wrap; }
-    .breadcrumb a { color: var(--text-muted); text-decoration: none; }
-    .breadcrumb a:hover { color: var(--text-secondary); }
-    .breadcrumb span { color: var(--border-default); }
+    .breadcrumb { display: flex; align-items: center; gap: 8px; font-size: 1rem; color: var(--text-secondary); margin-bottom: 32px; flex-wrap: wrap; }
+    .breadcrumb a { color: var(--text-secondary); text-decoration: none; }
+    .breadcrumb a:hover { color: var(--text-primary); }
+    .breadcrumb span { color: var(--text-muted); }
+    .breadcrumb-current { color: var(--accent-yellow) !important; }
+    [data-theme="light"] .breadcrumb-current { color: #4d3800 !important; }
 
     /* SECTION */
     .lesson-section { margin-bottom: 48px; }
@@ -176,10 +178,10 @@
     /* STEP INDICATOR */
     /* LESSON NAV */
     .lesson-nav { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 1px solid var(--border-default); }
-    .lesson-nav-btn { display: inline-flex; align-items: center; gap: 6px; padding: 9px 18px; border: 1px solid var(--border-default); border-radius: 5px; color: var(--text-secondary); text-decoration: none; font-family: var(--font-mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; transition: border-color 0.12s, color 0.12s, background 0.12s; background: transparent; }
-    .lesson-nav-btn:hover { border-color: var(--accent-yellow); color: var(--accent-yellow); background: rgba(241,190,50,0.04); }
+    .lesson-nav-btn { display: inline-flex; align-items: center; gap: 6px; padding: 12px 24px; border: none; color: var(--text-secondary); text-decoration: none; font-family: var(--font-mono); font-size: 1.4rem; text-transform: uppercase; letter-spacing: 0.1em; transition: color 0.12s, background 0.12s; background: transparent; }
+    .lesson-nav-btn:hover { color: var(--accent-yellow); }
     .lesson-nav-placeholder { padding: 9px 18px; visibility: hidden; pointer-events: none; }
-    .step-indicator { font-family: var(--font-mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); text-align: center; flex: 1; min-width: 0; }
+    .step-indicator { font-family: var(--font-mono); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-secondary); text-align: center; flex: 1; min-width: 0; }
 
     /* KEYBOARD NAV HINT */
     .keynav-hint { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); display: flex; gap: 8px; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
@@ -365,7 +367,7 @@
     .keigo-card { background: var(--bg-tertiary); border: 1px solid var(--border-default); border-radius: 8px; padding: 14px 18px; margin: 1rem 0; }
     .keigo-card-title { font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; display: block; }
     .keigo-card.blue { border-left: 4px solid var(--accent-blue); }
-    .keigo-card.yellow { border-left: 4px solid var(--accent-yellow); background: rgba(241,190,50,0.06); border-color: rgba(241,190,50,0.2); }
+    .keigo-card.yellow { border-left: 4px solid var(--accent-yellow); background: var(--bg-primary); border-color: var(--border-default); }
     .keigo-card.amber { border-left: 4px solid var(--accent-yellow); }
     .keigo-card.red { border-left: 4px solid var(--accent-error); }
     .keigo-card.blue .keigo-card-title { color: #99c9ff; }
@@ -398,8 +400,8 @@
     .email-example.show-all .email-en { display: block; margin-top: 3px; }
     .keigo-pair { display: flex; gap: 12px; margin: 0.5rem 0; }
     .keigo-pair > div { flex: 1; padding: 10px 14px; border-radius: 6px; border: 1px solid var(--border-default); min-width: 0; }
-    .keigo-pair .bad-col { background: rgba(241,190,50,0.06); border-color: rgba(241,190,50,0.2); }
-    .keigo-pair .good-col { background: rgba(241,190,50,0.06); border-color: rgba(241,190,50,0.2); }
+    .keigo-pair .bad-col { background: var(--bg-primary); border-color: var(--border-default); }
+    .keigo-pair .good-col { background: var(--bg-primary); border-color: var(--border-default); }
     .keigo-pair-label { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 4px; display: block; }
     .keigo-pair .bad-col .keigo-pair-label { color: var(--accent-yellow); }
     .keigo-pair .good-col .keigo-pair-label { color: var(--accent-yellow); }
@@ -440,10 +442,11 @@
     [data-theme="light"] .jp-action-btn.active { background: rgba(0,46,173,0.08); color: #002ead; border-color: rgba(0,46,173,0.4); }
     [data-theme="light"] .keigo-card { background: #f5f6f7; border-color: var(--border-default); }
     [data-theme="light"] .keigo-card.blue .keigo-card-title { color: #002ead; }
+    [data-theme="light"] .keigo-card.yellow { background: var(--bg-primary); }
     [data-theme="light"] .keigo-card.yellow .keigo-card-title { color: #f1be32; }
     [data-theme="light"] .keigo-card.amber .keigo-card-title { color: #4d3800; }
     [data-theme="light"] .keigo-card.red .keigo-card-title { color: #f1be32; }
-    [data-theme="light"] .keigo-pair > div { background: var(--bg-secondary); }
+    [data-theme="light"] .keigo-pair > div { background: var(--bg-primary); }
     /* ── PHRASE BLOCK ────────────────────────────────────────────── */
     .phrase-block { background: var(--bg-tertiary); border: 1px solid var(--border-default); border-left: 4px solid var(--accent-blue); border-radius: 8px; padding: 14px 18px; margin: 1rem 0; }
     .phrase-jp { font-size: 1.05rem; font-weight: 700; margin-bottom: 4px; color: var(--text-primary); }
@@ -461,8 +464,8 @@
     .vocab-ex-jp { font-size: 1rem; font-weight: 700; color: var(--text-primary); flex: 1; min-width: 0; }
     .vocab-ex-row .jp-action-btns { gap: 4px; flex-shrink: 0; }
     [data-theme="light"] .phrase-block { background: #f5f6f7; border-color: var(--border-default); }
-    [data-theme="light"] .keigo-pair .bad-col { background: rgba(241,190,50,0.04); }
-    [data-theme="light"] .keigo-pair .good-col { background: rgba(241,190,50,0.04); }
+    [data-theme="light"] .keigo-pair .bad-col { background: var(--bg-primary); border-color: var(--border-default); }
+    [data-theme="light"] .keigo-pair .good-col { background: var(--bg-primary); border-color: var(--border-default); }
     /* ── DIALOGUE EN (inline meaning) ──────────────────────────── */
     .dialogue-en { display: none; font-size: 0.82rem; color: var(--text-muted); margin-top: 5px; padding-top: 5px; border-top: 1px dashed var(--border-default); line-height: 1.5; }
     .dialogue.show-en .dialogue-en { display: block; }
@@ -2742,7 +2745,7 @@ function _showVoices() {
   overlay.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.6);z-index:99999;display:flex;align-items:center;justify-content:center';
   overlay.onclick = e => { if (e.target === overlay) overlay.remove(); };
   const box = document.createElement('div');
-  box.style.cssText = 'background:#fff;color:#333;border-radius:8px;max-width:600px;max-height:80vh;overflow:auto;padding:20px;font:14px/1.4 monospace';
+  box.style.cssText = 'background:#fff;color:#1b1b32;border-radius:8px;max-width:600px;max-height:80vh;overflow:auto;padding:20px;font:14px/1.4 monospace';
   box.innerHTML = '<h3 style="margin:0 0 10px;font:bold 16px sans-serif">Available TTS Voices</h3>' + html +
     '<button onclick="this.closest(\'div[style]\').remove()" style="margin-top:10px;padding:4px 16px">Close</button>';
   overlay.appendChild(box);
@@ -3138,7 +3141,7 @@ function renderSimulator(scenario, file, info) {
     <span>/</span>
     <a href="curriculum.html">${catName}</a>
     <span>/</span>
-    <span>${scenario.title}</span>
+    <span class="breadcrumb-current">${scenario.title}</span>
   </div>`;
 
   document.getElementById('main').innerHTML = `
@@ -3544,7 +3547,7 @@ async function render() {
     <span>/</span>
     <a href="curriculum.html">${moduleLabel}</a>
     <span>/</span>
-    <span>${lessonLabel}</span>
+    <span class="breadcrumb-current">${lessonLabel}</span>
   </div>`;
 
   // Pre-process dialogue blocks to raw HTML (bypasses marked extension issues)
