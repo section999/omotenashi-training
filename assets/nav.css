@@ -162,6 +162,7 @@ body {
 }
 .nav-dropdown a:hover,
 .nav-dropdown button:hover { background: var(--bg-tertiary); color: var(--text-primary); }
+.nav-dropdown-sep { height: 1px; background: var(--border-default); margin: 4px 0; }
 
 /* ── NAV ALWAYS DARK (even in light mode) ─────────────────────────────────── */
 [data-theme="light"] .nav { background: #0a0a23 !important; }

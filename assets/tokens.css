@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
 /* ── DESIGN TOKENS ──────────────────────────────────────────────────────────
    Shared CSS custom properties for all Omotenashi Training pages.
    Link this file before any page-specific styles.
@@ -31,7 +33,7 @@
   --border-strong:   #3b3b4f;
 
   /* Typography */
-  --font-sans: 'Segoe UI', system-ui, sans-serif;
+  --font-sans: 'Lato', 'Segoe UI', system-ui, sans-serif;
   --font-mono: 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
 
   /* Motion */
@@ -65,6 +67,15 @@
 
 /* Keep nav always dark regardless of theme */
 [data-theme="light"] .nav { background: #0a0a23 !important; }
+
+/* Font rendering */
+html {
+  font-size: 20px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: normal;
+  font-variation-settings: normal;
+}
 
 /* Respect reduced motion preference */
 @media (prefers-reduced-motion: reduce) {

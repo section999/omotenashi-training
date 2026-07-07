@@ -19,21 +19,20 @@ function renderNav() {
     <div style="display:flex;align-items:center;gap:16px;margin-left:auto;">
       <span id="banner-text" style="display:none;font-size:0.78rem;color:#5f5f7a;white-space:nowrap;"></span>
       <button id="banner-btn" style="display:none;padding:5px 10px;border-radius:4px;font-size:0.72rem;font-weight:600;cursor:pointer;font-family:inherit;white-space:nowrap;color:#a3a3c2;background:transparent;border:1px solid #2a2a4a;"></button>
-      <a href="${toPages}dashboard.html" class="nav-cta" style="display:inline-flex;align-items:center;gap:6px;padding:6px 14px;background:#f1be32;color:#0a0a23;font-size:0.78rem;font-weight:700;font-family:'Cascadia Code','Fira Code',monospace;border-radius:6px;text-decoration:none;transition:opacity 0.15s;" onmouseover="this.style.opacity='0.85'" onmouseout="this.style.opacity='1'">
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#0a0a23" stroke-width="2.5"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
-        <span class="nav-cta-label">Dashboard</span>
-      </a>
-      <div class="nav-menu-wrap">
+<div class="nav-menu-wrap">
         <button class="nav-menu-btn" aria-label="Open menu" onclick="this.nextElementSibling.classList.toggle('open')">
           <span></span><span></span><span></span>
         </button>
         <div class="nav-dropdown">
           <a href="${toRoot}index.html">Main</a>
+          <a href="${toPages}dashboard.html">Dashboard</a>
+          <div class="nav-dropdown-sep"></div>
           <a href="${toPages}curriculum.html">Curriculum</a>
           <a href="${toPages}languagedojo.html">Language Dojo</a>
           <a href="${toPages}games.html">Games</a>
-          <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
+          <div class="nav-dropdown-sep"></div>
           <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>
+          <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
         </div>
       </div>
     </div>
